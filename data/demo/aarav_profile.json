@@ -1,0 +1,176 @@
+{
+  "id": "ranjan_maiti_01",
+  "name": "Ranjan Maiti",
+  "current_role": "Data Analyst",
+  "experience_years": 1.5,
+  "location": "Delhi NCR, India",
+  "education": {
+    "degree": "B.Tech in Computer Science / Information Technology",
+    "institution": "Guru Gobind Singh Indraprastha University",
+    "year": "2024"
+  },
+  "current_capabilities": [
+    {
+      "id": "skill_python",
+      "name": "Python",
+      "category": "Programming & Scripting",
+      "confidence": "high",
+      "support_type": "evidence-backed",
+      "evidence_sources": [
+        "Expense Analytics Project",
+        "Python automation scripts for ETL pipelines",
+        "Pandas/NumPy data cleaning in sales reports"
+      ],
+      "proficiency_level": "intermediate",
+      "transferable_domains": [
+        "Analytics Engineering",
+        "Data Science",
+        "ML Engineering"
+      ]
+    },
+    {
+      "id": "skill_sql",
+      "name": "SQL",
+      "category": "Database & Querying",
+      "confidence": "high",
+      "support_type": "explicit",
+      "evidence_sources": [
+        "Daily production queries on PostgreSQL & MySQL",
+        "Complex multi-table aggregations and window functions",
+        "Data extraction for executive weekly dashboards"
+      ],
+      "proficiency_level": "advanced",
+      "transferable_domains": [
+        "Analytics Engineering",
+        "Data Engineering",
+        "Database Architecture"
+      ]
+    },
+    {
+      "id": "skill_excel",
+      "name": "Excel & Advanced Spreadsheets",
+      "category": "Analysis & Productivity",
+      "confidence": "high",
+      "support_type": "explicit",
+      "evidence_sources": [
+        "Financial modeling spreadsheets",
+        "VLOOKUP/XLOOKUP, Pivot Tables, Power Query"
+      ],
+      "proficiency_level": "advanced",
+      "transferable_domains": [
+        "Business Analytics",
+        "Data Product Analytics"
+      ]
+    },
+    {
+      "id": "skill_powerbi",
+      "name": "Power BI",
+      "category": "Business Intelligence & Reporting",
+      "confidence": "high",
+      "support_type": "evidence-backed",
+      "evidence_sources": [
+        "Sales Analytics Dashboard (deployed to 40+ sales reps)",
+        "DAX calculations for Year-over-Year revenue trends"
+      ],
+      "proficiency_level": "intermediate",
+      "transferable_domains": [
+        "BI Architecture",
+        "Analytics Engineering"
+      ]
+    },
+    {
+      "id": "skill_statistics",
+      "name": "Applied Statistics",
+      "category": "Mathematical Foundations",
+      "confidence": "medium",
+      "support_type": "evidence-backed",
+      "evidence_sources": [
+        "Customer Churn exploratory statistical tests (A/B hypothesis testing)",
+        "Variance and regression modeling for monthly forecasts"
+      ],
+      "proficiency_level": "intermediate",
+      "transferable_domains": [
+        "Data Science",
+        "Quantitative Analytics"
+      ]
+    },
+    {
+      "id": "skill_data_analysis",
+      "name": "Data Analysis & Synthesis",
+      "category": "Analytical Reasoning",
+      "confidence": "high",
+      "support_type": "explicit",
+      "evidence_sources": [
+        "Quarterly business review decks",
+        "Root cause analysis on customer drop-off metrics"
+      ],
+      "proficiency_level": "advanced",
+      "transferable_domains": [
+        "Data Product Analytics",
+        "Analytics Engineering"
+      ]
+    },
+    {
+      "id": "skill_ml",
+      "name": "Machine Learning Fundamentals",
+      "category": "AI & Advanced Analytics",
+      "confidence": "low",
+      "support_type": "inferred",
+      "evidence_sources": [
+        "Detected via Scikit-Learn import in Customer Churn GitHub repo",
+        "Logistic regression baseline experiment without production deployment"
+      ],
+      "proficiency_level": "beginner",
+      "transferable_domains": [
+        "Data Science",
+        "ML Engineering"
+      ]
+    },
+    {
+      "id": "skill_cloud",
+      "name": "Cloud Data Platforms (AWS/GCP/Snowflake)",
+      "category": "Infrastructure",
+      "confidence": "none",
+      "support_type": "gap",
+      "evidence_sources": [],
+      "proficiency_level": "none",
+      "transferable_domains": [
+        "Data Engineering",
+        "Analytics Engineering"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "proj_sales_dashboard",
+      "title": "Sales Analytics Dashboard",
+      "stack": ["Power BI", "SQL", "Excel", "PostgreSQL"],
+      "description": "Executive dashboard tracking regional pipeline velocity, conversion rates, and churn. Used daily by 45 business stakeholders.",
+      "evidence_url": "github.com/ranjanmaiti/sales-analytics-powerbi",
+      "verified": true
+    },
+    {
+      "id": "proj_churn_analysis",
+      "title": "Customer Churn Analysis",
+      "stack": ["Python", "Pandas", "Scikit-Learn", "Matplotlib"],
+      "description": "Cohort analysis identifying drop-off bottlenecks in SaaS trial accounts. Included statistical significance testing and feature importance ranking.",
+      "evidence_url": "github.com/ranjanmaiti/customer-churn-cohorts",
+      "verified": true
+    },
+    {
+      "id": "proj_rev_forecast",
+      "title": "Revenue Forecasting Model",
+      "stack": ["Python", "SQL", "Statsmodels", "Excel"],
+      "description": "Time-series forecasting with ARIMA model to project monthly recurring revenue variance under promotional discounting scenarios.",
+      "evidence_url": "github.com/ranjanmaiti/mrr-revenue-forecast",
+      "verified": true
+    }
+  ],
+  "stated_constraints": {
+    "weekly_learning_hours": 40,
+    "target_timeline_weeks": 6,
+    "budget_inr": 0,
+    "preferred_transition_domain": "Analytics Engineering"
+  },
+  "is_demo_profile": true
+}

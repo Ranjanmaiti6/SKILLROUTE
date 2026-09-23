@@ -1,0 +1,90 @@
+{
+  "taxonomy_metadata": {
+    "esco_version": "1.2.1",
+    "onet_version": "31.0",
+    "india_ncs_crosswalk": "aligned",
+    "last_updated": "2026-08-15"
+  },
+  "canonical_skills": [
+    {
+      "id": "skill_sql",
+      "canonical_name": "SQL (Structured Query Language)",
+      "aliases": ["PostgreSQL", "MySQL", "T-SQL", "SQL queries", "Relational Database Querying"],
+      "esco_uri": "http://data.europa.eu/esco/skill/e8f7a9d0-128b-4b2a-8c90-sql01",
+      "onet_element_id": "4.A.3.a.1",
+      "category": "Data Management",
+      "prerequisites": [],
+      "learning_difficulty": 3
+    },
+    {
+      "id": "skill_python",
+      "canonical_name": "Python Programming",
+      "aliases": ["Python 3", "PySpark scripting", "Pandas scripting"],
+      "esco_uri": "http://data.europa.eu/esco/skill/984b912c-3cf9-42b7-84bc-python02",
+      "onet_element_id": "2.C.3.a",
+      "category": "Software & Scripting",
+      "prerequisites": [],
+      "learning_difficulty": 4
+    },
+    {
+      "id": "skill_data_modeling",
+      "canonical_name": "Dimensional Data Modeling",
+      "aliases": ["Kimball Star Schema", "Snowflake Schema", "Fact & Dimension Tables", "Relational Modeling"],
+      "esco_uri": "http://data.europa.eu/esco/skill/67ad92c1-bb44-4822-81e0-datamod03",
+      "onet_element_id": "4.A.3.b.2",
+      "category": "Data Architecture",
+      "prerequisites": ["skill_sql"],
+      "learning_difficulty": 5
+    },
+    {
+      "id": "skill_dbt",
+      "canonical_name": "dbt (Data Build Tool)",
+      "aliases": ["dbt Core", "dbt Cloud", "Jinja SQL Transformations", "dbt test suites"],
+      "esco_uri": "http://data.europa.eu/esco/skill/12cde458-7f91-49b8-b801-dbttool04",
+      "onet_element_id": "4.A.1.b.3",
+      "category": "Analytics Engineering",
+      "prerequisites": ["skill_sql", "skill_data_modeling"],
+      "learning_difficulty": 5
+    },
+    {
+      "id": "skill_warehousing",
+      "canonical_name": "Cloud Data Warehousing",
+      "aliases": ["Snowflake", "Google BigQuery", "AWS Redshift", "Databricks Lakehouse"],
+      "esco_uri": "http://data.europa.eu/esco/skill/4a5b6c7d-8e9f-41a2-b3c4-warehouse05",
+      "onet_element_id": "4.A.3.a.2",
+      "category": "Infrastructure",
+      "prerequisites": ["skill_sql"],
+      "learning_difficulty": 5
+    },
+    {
+      "id": "skill_cicd_git",
+      "canonical_name": "Version Control & Data CI/CD",
+      "aliases": ["Git", "GitHub Actions", "Automated Testing", "CI/CD for Data"],
+      "esco_uri": "http://data.europa.eu/esco/skill/90ab12cd-ef34-4567-8901-cicdgit06",
+      "onet_element_id": "2.C.3.b",
+      "category": "Software Engineering Practices",
+      "prerequisites": [],
+      "learning_difficulty": 4
+    },
+    {
+      "id": "skill_statistics",
+      "canonical_name": "Applied Probability & Statistics",
+      "aliases": ["Hypothesis Testing", "Regression Analysis", "A/B Testing Statistics", "Inferential Stats"],
+      "esco_uri": "http://data.europa.eu/esco/skill/33445566-7788-99aa-bbcc-stats07",
+      "onet_element_id": "2.A.1.e",
+      "category": "Quantitative Analytics",
+      "prerequisites": [],
+      "learning_difficulty": 5
+    },
+    {
+      "id": "skill_ml_engineering",
+      "canonical_name": "Production Machine Learning & MLOps",
+      "aliases": ["MLflow", "Model Serving", "Docker for ML", "Feature Stores"],
+      "esco_uri": "http://data.europa.eu/esco/skill/778899aa-bbcc-ddee-ff00-mlops08",
+      "onet_element_id": "2.C.3.e",
+      "category": "Advanced AI",
+      "prerequisites": ["skill_python", "skill_statistics", "skill_cicd_git"],
+      "learning_difficulty": 8
+    }
+  ]
+}

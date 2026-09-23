@@ -1,0 +1,156 @@
+{
+  "graph_metadata": {
+    "root_profile": "Data Analyst (Ranjan Maiti)",
+    "primary_target": "Analytics Engineer",
+    "taxonomy_alignment": "ESCO 1.2.1 / O*NET 31.0"
+  },
+  "nodes": [
+    {
+      "id": "node_current_role",
+      "type": "current_role",
+      "label": "Current Role: Data Analyst",
+      "subtitle": "1.5 yrs experience • Delhi NCR",
+      "category": "Current State",
+      "color": "navy",
+      "metadata": {
+        "verified_projects": 3,
+        "daily_stack": ["SQL", "Power BI", "Excel", "Python"]
+      }
+    },
+    {
+      "id": "node_skill_sql",
+      "type": "current_capability",
+      "label": "SQL & Querying",
+      "subtitle": "Explicit • Advanced",
+      "category": "Current Capability",
+      "color": "navy",
+      "metadata": {
+        "esco_code": "e8f7a9d0",
+        "evidence": "PostgreSQL & MySQL daily production queries",
+        "overlap_weight": 0.35
+      }
+    },
+    {
+      "id": "node_skill_python",
+      "type": "current_capability",
+      "label": "Python & Pandas",
+      "subtitle": "Evidence-Backed • Intermediate",
+      "category": "Current Capability",
+      "color": "navy",
+      "metadata": {
+        "esco_code": "984b912c",
+        "evidence": "Expense Analytics + Customer Churn",
+        "overlap_weight": 0.25
+      }
+    },
+    {
+      "id": "node_skill_stats",
+      "type": "current_capability",
+      "label": "Applied Statistics",
+      "subtitle": "Evidence-Backed • Intermediate",
+      "category": "Current Capability",
+      "color": "navy",
+      "metadata": {
+        "esco_code": "33445566",
+        "evidence": "A/B hypothesis & ARIMA forecasting",
+        "overlap_weight": 0.18
+      }
+    },
+    {
+      "id": "node_trans_data_modeling",
+      "type": "transferable_capability",
+      "label": "Dimensional Data Modeling",
+      "subtitle": "Star/Snowflake Schema Design",
+      "category": "Transferable Bridge",
+      "color": "slate",
+      "metadata": {
+        "prerequisite_depth": 1,
+        "transfer_source": "SQL & Reporting Schema logic",
+        "learning_cost_hrs": 12,
+        "transfer_efficiency": 0.88
+      }
+    },
+    {
+      "id": "node_trans_analytics_eng",
+      "type": "transferable_capability",
+      "label": "Analytics Engineering Paradigm",
+      "subtitle": "Version-controlled data transformations",
+      "category": "Transferable Bridge",
+      "color": "slate",
+      "metadata": {
+        "prerequisite_depth": 2,
+        "transfer_source": "SQL + Python workflow automation",
+        "learning_cost_hrs": 14,
+        "transfer_efficiency": 0.82
+      }
+    },
+    {
+      "id": "node_prereq_dbt",
+      "type": "missing_prerequisite",
+      "label": "dbt (Data Build Tool)",
+      "subtitle": "Modular SQL & automated testing",
+      "category": "Missing Prerequisite",
+      "color": "amber",
+      "metadata": {
+        "status": "In Progress",
+        "effort_hrs": 16,
+        "priority": "P0 Critical",
+        "evidence_project": "Jaffle Shop Analytics Pipeline with dbt-core"
+      }
+    },
+    {
+      "id": "node_prereq_warehouse",
+      "type": "missing_prerequisite",
+      "label": "Cloud Data Warehousing",
+      "subtitle": "BigQuery / Snowflake clustering & partitioning",
+      "category": "Missing Prerequisite",
+      "color": "amber",
+      "metadata": {
+        "status": "Not Started",
+        "effort_hrs": 8,
+        "priority": "P1 High",
+        "evidence_project": "Snowflake staging and marts design"
+      }
+    },
+    {
+      "id": "node_prereq_cicd",
+      "type": "missing_prerequisite",
+      "label": "Data CI/CD & Git Actions",
+      "subtitle": "Automated pipeline validation & PR checks",
+      "category": "Missing Prerequisite",
+      "color": "amber",
+      "metadata": {
+        "status": "Not Started",
+        "effort_hrs": 6,
+        "priority": "P2 Standard",
+        "evidence_project": "GitHub Actions slim CI on pull requests"
+      }
+    },
+    {
+      "id": "node_target_role",
+      "type": "target_role",
+      "label": "Target: Analytics Engineer",
+      "subtitle": "78% overlap • 42 hrs effort • Strong Market",
+      "category": "Target Opportunity",
+      "color": "emerald",
+      "metadata": {
+        "role_id": "analytics_engineer",
+        "market_readiness": "Feasible in 4–6 weeks @ 40h/week",
+        "regional_signals": "High demand in Delhi NCR / BLR"
+      }
+    }
+  ],
+  "edges": [
+    { "from": "node_current_role", "to": "node_skill_sql", "label": "exhibits" },
+    { "from": "node_current_role", "to": "node_skill_python", "label": "exhibits" },
+    { "from": "node_current_role", "to": "node_skill_stats", "label": "exhibits" },
+    { "from": "node_skill_sql", "to": "node_trans_data_modeling", "label": "enables (0.88)" },
+    { "from": "node_skill_python", "to": "node_trans_analytics_eng", "label": "bridges (0.82)" },
+    { "from": "node_trans_data_modeling", "to": "node_prereq_dbt", "label": "prerequisite for" },
+    { "from": "node_trans_analytics_eng", "to": "node_prereq_warehouse", "label": "requires" },
+    { "from": "node_trans_analytics_eng", "to": "node_prereq_cicd", "label": "requires" },
+    { "from": "node_prereq_dbt", "to": "node_target_role", "label": "unlocks opportunity" },
+    { "from": "node_prereq_warehouse", "to": "node_target_role", "label": "satisfies core JD" },
+    { "from": "node_prereq_cicd", "to": "node_target_role", "label": "proves production readiness" }
+  ]
+}

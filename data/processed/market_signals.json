@@ -1,0 +1,65 @@
+{
+  "market_intelligence": {
+    "jurisdiction": "India (NCR, Bengaluru, Hyderabad, Mumbai, Pune)",
+    "benchmark_sources": [
+      {
+        "source": "ESCO 1.2.1",
+        "description": "European Skills, Competences, Qualifications and Occupations taxonomy"
+      },
+      {
+        "source": "O*NET 31.0 Database",
+        "description": "Occupational Information Network taxonomy & skill descriptors"
+      },
+      {
+        "source": "National Career Service (NCS) India",
+        "description": "Official Ministry of Labour & Employment career data"
+      },
+      {
+        "source": "WEF Future of Jobs 2025",
+        "description": "World Economic Forum multi-country employer survey"
+      },
+      {
+        "source": "PLFS / AISHE",
+        "description": "Periodic Labour Force Survey & All India Survey on Higher Education macro signals"
+      }
+    ],
+    "macro_signals": [
+      {
+        "domain": "Analytics Engineering",
+        "demand_trend": "Growing",
+        "change_velocity": "High",
+        "entry_barrier": "Moderate (Requires SQL + Data Modeling + Modern Stack)",
+        "regional_hotspots": ["Gurugram", "Noida", "Bengaluru", "Hyderabad"],
+        "confidence": "High",
+        "last_observed": "2026-08"
+      },
+      {
+        "domain": "Data Science",
+        "demand_trend": "Stable",
+        "change_velocity": "Moderate",
+        "entry_barrier": "High (Requires rigorous statistical math & deployment)",
+        "regional_hotspots": ["Bengaluru", "Hyderabad", "Delhi NCR"],
+        "confidence": "High",
+        "last_observed": "2026-08"
+      },
+      {
+        "domain": "Machine Learning Engineering",
+        "demand_trend": "Emerging / High Specialization",
+        "change_velocity": "Very High",
+        "entry_barrier": "Very High (Requires Systems Engineering, C++, Distributed Computing, MLOps)",
+        "regional_hotspots": ["Bengaluru", "Hyderabad", "Pune"],
+        "confidence": "Medium-High",
+        "last_observed": "2026-08"
+      },
+      {
+        "domain": "Data Product Analytics",
+        "demand_trend": "Growing",
+        "change_velocity": "Moderate",
+        "entry_barrier": "Moderate (Requires Product Sense + Behavioral Analytics + Experimentation)",
+        "regional_hotspots": ["Bengaluru", "Delhi NCR", "Mumbai"],
+        "confidence": "Medium",
+        "last_observed": "2026-08"
+      }
+    ]
+  }
+}
