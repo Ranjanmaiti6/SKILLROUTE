@@ -92,16 +92,16 @@ export default function LandingPage() {
         <div className="mt-8 flex flex-col sm:flex-row items-center justify-center gap-3">
           <Link
             href="/dashboard"
-            className="w-full sm:w-auto px-7 py-3.5 text-sm font-bold bg-brand-navy text-white rounded-lg hover:bg-brand-slate transition-all shadow-sm flex items-center justify-center gap-2"
+            className="w-full sm:w-auto px-7 py-3.5 text-sm font-bold bg-brand-navy text-white rounded-lg hover:bg-slate-800 transition-all shadow-sm flex items-center justify-center gap-2 group"
           >
-            <span>Explore My Path</span>
-            <ArrowRight className="w-4 h-4" />
+            <span>BUILD MY PATH</span>
+            <ArrowRight className="w-4 h-4 text-brand-saffron group-hover:translate-x-0.5 transition-transform" />
           </Link>
           <Link
             href="/profile"
             className="w-full sm:w-auto px-6 py-3.5 text-sm font-semibold bg-white text-brand-navy border border-brand-border rounded-lg hover:bg-slate-50 transition-all shadow-xs"
           >
-            View Demo Profile (Ranjan Maiti)
+            View Demo Profile (Aarav Sharma)
           </Link>
         </div>
 
@@ -140,11 +140,11 @@ export default function LandingPage() {
             <div className="p-4 bg-white rounded-xl border border-brand-border flex flex-col md:flex-row md:items-center justify-between gap-4">
               <div className="flex items-center gap-3">
                 <div className="w-12 h-12 rounded-xl bg-brand-navy text-white font-bold text-lg flex items-center justify-center">
-                  RM
+                  AS
                 </div>
                 <div>
                   <div className="flex items-center gap-2">
-                    <h3 className="text-base font-bold text-brand-navy">Ranjan Maiti</h3>
+                    <h3 className="text-base font-bold text-brand-navy">Aarav Sharma</h3>
                     <span className="text-xs px-2 py-0.5 rounded bg-blue-50 text-blue-800 border border-blue-200 font-medium">
                       Data Analyst (1.5y)
                     </span>
@@ -166,7 +166,7 @@ export default function LandingPage() {
                   <div className="text-[10px] text-emerald-800 uppercase font-semibold">
                     Transition Fit
                   </div>
-                  <div className="text-xs font-bold text-emerald-900">84% Reachable</div>
+                  <div className="text-xs font-bold text-emerald-900">82 Fit (High)</div>
                 </div>
               </div>
             </div>

@@ -84,11 +84,11 @@ export default function TransitionDetailPage() {
 
             <Link
               href="/pathway"
-              className="px-4 py-2 text-xs font-semibold bg-brand-navy text-white rounded-lg hover:bg-brand-slate transition-all shadow-xs flex items-center gap-1.5"
+              className="px-4 py-2.5 text-xs font-bold bg-brand-navy text-white rounded-lg hover:bg-slate-800 transition-all shadow-sm flex items-center gap-2 group"
             >
-              <Route className="w-3.5 h-3.5" />
-              <span>Proceed to Pathway Simulator</span>
-              <ArrowRight className="w-3.5 h-3.5" />
+              <Route className="w-4 h-4 text-brand-saffron" />
+              <span>VIEW PATHWAY</span>
+              <ArrowRight className="w-3.5 h-3.5 group-hover:translate-x-0.5 transition-transform" />
             </Link>
           </div>
         </div>
@@ -127,7 +127,7 @@ export default function TransitionDetailPage() {
               {whyData.evidence_metrics.estimated_learning_effort}
             </div>
             <div className="text-[10px] text-slate-500 mt-0.5 font-medium">
-              ~6 weeks @ 40h/week
+              10–18 wks under constraint
             </div>
           </div>
 

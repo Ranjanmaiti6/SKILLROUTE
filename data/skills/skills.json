@@ -1,0 +1,98 @@
+[
+  {
+    "id": "python",
+    "name": "Python",
+    "category": "Programming",
+    "prerequisites": [],
+    "estimatedHours": 60,
+    "evidenceTask": "Automation scripts & Pandas ETL data cleansing"
+  },
+  {
+    "id": "sql",
+    "name": "SQL",
+    "category": "Database",
+    "prerequisites": [],
+    "estimatedHours": 40,
+    "evidenceTask": "PostgreSQL CTEs, window functions, and schema views"
+  },
+  {
+    "id": "excel",
+    "name": "Excel",
+    "category": "Analysis",
+    "prerequisites": [],
+    "estimatedHours": 30,
+    "evidenceTask": "Advanced financial formulas & Power Query models"
+  },
+  {
+    "id": "powerbi",
+    "name": "Power BI",
+    "category": "BI & Reporting",
+    "prerequisites": ["sql"],
+    "estimatedHours": 40,
+    "evidenceTask": "Executive sales KPI dashboard with DAX"
+  },
+  {
+    "id": "statistics",
+    "name": "Statistics",
+    "category": "Mathematics",
+    "prerequisites": [],
+    "estimatedHours": 45,
+    "evidenceTask": "Cohort A/B hypothesis testing & regression analysis"
+  },
+  {
+    "id": "data-analysis",
+    "name": "Data Analysis",
+    "category": "Analytical Reasoning",
+    "prerequisites": ["sql", "excel"],
+    "estimatedHours": 40,
+    "evidenceTask": "Business review root-cause analysis decks"
+  },
+  {
+    "id": "data-modeling",
+    "name": "Data Modeling",
+    "category": "Data Architecture",
+    "prerequisites": ["sql"],
+    "estimatedHours": 20,
+    "evidenceTask": "Kimball dimensional star schema ERD with fact & dimension tables"
+  },
+  {
+    "id": "dbt",
+    "name": "dbt",
+    "category": "Analytics Engineering",
+    "prerequisites": ["sql", "data-modeling"],
+    "estimatedHours": 24,
+    "evidenceTask": "Modular transformation warehouse pipeline with automated schema tests (unique, not_null)"
+  },
+  {
+    "id": "cloud-warehousing",
+    "name": "Cloud Warehousing",
+    "category": "Infrastructure",
+    "prerequisites": ["sql"],
+    "estimatedHours": 20,
+    "evidenceTask": "Snowflake or BigQuery clustering, partitioning, and staging marts"
+  },
+  {
+    "id": "cicd-data",
+    "name": "Data CI/CD & Git",
+    "category": "Software Engineering",
+    "prerequisites": [],
+    "estimatedHours": 16,
+    "evidenceTask": "GitHub Actions slim CI workflows running dbt test & sqlfluff lint"
+  },
+  {
+    "id": "advanced-ml",
+    "name": "Machine Learning",
+    "category": "Advanced AI",
+    "prerequisites": ["python", "statistics"],
+    "estimatedHours": 70,
+    "evidenceTask": "Supervised/unsupervised scikit-learn models & feature evaluation"
+  },
+  {
+    "id": "product-analytics",
+    "name": "Product Analytics & Funnels",
+    "category": "Product Growth",
+    "prerequisites": ["sql", "data-analysis"],
+    "estimatedHours": 25,
+    "evidenceTask": "Mixpanel/Amplitude telemetry instrumentation & retention cohorts"
+  }
+]

@@ -6,7 +6,7 @@ import os
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 
 from app.intelligence.transition_scorer import TransitionScorer
-from app.intelligence.path_optimizer import PathOptimizer
+from app.intelligence.path_optimizer import PathOptimizer, calculate_pathway
 from app.intelligence.explainability import PathwayExplainer
 from app.graph.knowledge_graph import TransitionGraphService
 from app.api.routes.profile import get_user_profile
@@ -31,6 +31,7 @@ class TestSkillRouteBackend(unittest.TestCase):
         self.assertIn("analytics-engineer", slugs)
         self.assertIn("data-scientist", slugs)
         self.assertIn("machine-learning-engineer", slugs)
+        self.assertIn("data-product-analyst", slugs)
 
     def test_transition_scorer(self):
         score_res = TransitionScorer.compute_score(
@@ -46,17 +47,23 @@ class TestSkillRouteBackend(unittest.TestCase):
         self.assertIn("skill_fit", score_res["components"])
 
     def test_pathway_optimization_slider(self):
-        # 40 hrs/week test
+        # 40 hrs/week test -> 10 weeks
         req_40 = PathwayOptimizationRequest(profile_id="ranjan_01", target_role_id="analytics_engineer", weekly_hours_budget=40)
         res_40 = optimize_pathway(req_40)
-        self.assertEqual(res_40["estimated_weeks"], 6)
-        self.assertIn("6-Week", res_40["recalculated_badge"])
+        self.assertEqual(res_40["estimated_weeks"], 10)
+        self.assertIn("10-Week", res_40["recalculated_badge"])
 
-        # 20 hrs/week test (The Killer Feature demonstration)
+        # 20 hrs/week test -> 18 weeks
         req_20 = PathwayOptimizationRequest(profile_id="ranjan_01", target_role_id="analytics_engineer", weekly_hours_budget=20)
         res_20 = optimize_pathway(req_20)
-        self.assertEqual(res_20["estimated_weeks"], 10)
-        self.assertIn("10-Week", res_20["recalculated_badge"])
+        self.assertEqual(res_20["estimated_weeks"], 18)
+        self.assertIn("18-Week", res_20["recalculated_badge"])
+
+        # 10 hrs/week test -> 30 weeks
+        req_10 = PathwayOptimizationRequest(profile_id="ranjan_01", target_role_id="analytics_engineer", weekly_hours_budget=10)
+        res_10 = optimize_pathway(req_10)
+        self.assertEqual(res_10["estimated_weeks"], 30)
+        self.assertIn("30-Week", res_10["recalculated_badge"])
 
     def test_why_this_path_explainability(self):
         data = get_why_this_path("analytics-engineer")

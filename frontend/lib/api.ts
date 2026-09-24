@@ -66,7 +66,7 @@ export async function optimizePathway(
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({
-        profile_id: "ranjan_maiti_01",
+        profile_id: "aarav_sharma_01",
         target_role_id: roleId,
         weekly_hours_budget: weeklyHours,
         prioritize_speed: true

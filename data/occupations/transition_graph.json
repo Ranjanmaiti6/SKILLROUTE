@@ -2,32 +2,36 @@
   "graph_metadata": {
     "root_profile": "Data Analyst (Ranjan Maiti)",
     "primary_target": "Analytics Engineer",
+    "alternative_targets": ["Data Scientist", "ML Engineer", "Data Product Analyst"],
     "taxonomy_alignment": "ESCO 1.2.1 / O*NET 31.0"
   },
   "nodes": [
     {
       "id": "node_current_role",
       "type": "current_role",
-      "label": "Current Role: Data Analyst",
-      "subtitle": "1.5 yrs experience • Delhi NCR",
+      "label": "Current: Data Analyst",
+      "subtitle": "1.5 yrs exp • Delhi NCR",
       "category": "Current State",
       "color": "navy",
       "metadata": {
         "verified_projects": 3,
-        "daily_stack": ["SQL", "Power BI", "Excel", "Python"]
+        "daily_stack": ["SQL", "Power BI", "Excel", "Python"],
+        "why_it_matters": "Current empirical foundation. 1.5 years experience as a Data Analyst gives immediate proficiency in business metrics, ad-hoc queries, and reporting."
       }
     },
     {
       "id": "node_skill_sql",
       "type": "current_capability",
       "label": "SQL & Querying",
-      "subtitle": "Explicit • Advanced",
+      "subtitle": "Evidence-Backed • Advanced",
       "category": "Current Capability",
       "color": "navy",
       "metadata": {
         "esco_code": "e8f7a9d0",
-        "evidence": "PostgreSQL & MySQL daily production queries",
-        "overlap_weight": 0.35
+        "evidence": "PostgreSQL & MySQL daily production queries, CTEs, and window functions",
+        "overlap_weight": 0.35,
+        "why_it_matters": "Core foundational language for modern data transformation.",
+        "prerequisite_satisfied": "Directly satisfied by current role"
       }
     },
     {
@@ -39,8 +43,10 @@
       "color": "navy",
       "metadata": {
         "esco_code": "984b912c",
-        "evidence": "Expense Analytics + Customer Churn",
-        "overlap_weight": 0.25
+        "evidence": "Expense Analytics + Customer Churn cohort analysis repos",
+        "overlap_weight": 0.25,
+        "why_it_matters": "Essential for data automation, dbt Jinja extensions, and orchestration.",
+        "prerequisite_satisfied": "Directly satisfied by verified projects"
       }
     },
     {
@@ -52,22 +58,42 @@
       "color": "navy",
       "metadata": {
         "esco_code": "33445566",
-        "evidence": "A/B hypothesis & ARIMA forecasting",
-        "overlap_weight": 0.18
+        "evidence": "Customer Churn A/B hypothesis testing & ARIMA revenue forecasting",
+        "overlap_weight": 0.18,
+        "why_it_matters": "Ensures metric validity and data quality test assertions.",
+        "prerequisite_satisfied": "Directly satisfied by statistical reporting"
+      }
+    },
+    {
+      "id": "node_skill_data_analysis",
+      "type": "current_capability",
+      "label": "Data Analysis & Synthesis",
+      "subtitle": "Explicit • Advanced",
+      "category": "Current Capability",
+      "color": "navy",
+      "metadata": {
+        "esco_code": "55667788",
+        "evidence": "Executive quarterly business reviews and customer drop-off root cause analysis",
+        "overlap_weight": 0.22,
+        "why_it_matters": "Enables domain-aware metric modeling that business stakeholders trust.",
+        "prerequisite_satisfied": "Directly verified from operational role"
       }
     },
     {
       "id": "node_trans_data_modeling",
       "type": "transferable_capability",
       "label": "Dimensional Data Modeling",
-      "subtitle": "Star/Snowflake Schema Design",
+      "subtitle": "Kimball Star/Snowflake Schema Design",
       "category": "Transferable Bridge",
       "color": "slate",
       "metadata": {
         "prerequisite_depth": 1,
-        "transfer_source": "SQL & Reporting Schema logic",
-        "learning_cost_hrs": 12,
-        "transfer_efficiency": 0.88
+        "transfer_source": "Data Analysis & SQL reporting queries",
+        "learning_cost_hrs": 20,
+        "transfer_efficiency": 0.88,
+        "why_it_matters": "Bridges transactional database querying into clean analytical facts and dimensions.",
+        "prerequisite": "SQL ✓ (Satisfied)",
+        "status": "Inferred / In Progress"
       }
     },
     {
@@ -80,8 +106,11 @@
       "metadata": {
         "prerequisite_depth": 2,
         "transfer_source": "SQL + Python workflow automation",
-        "learning_cost_hrs": 14,
-        "transfer_efficiency": 0.82
+        "learning_cost_hrs": 20,
+        "transfer_efficiency": 0.82,
+        "why_it_matters": "Applies software engineering best practices (version control, automated tests) to data modeling.",
+        "prerequisite": "Dimensional Modeling",
+        "status": "In Progress"
       }
     },
     {
@@ -92,10 +121,13 @@
       "category": "Missing Prerequisite",
       "color": "amber",
       "metadata": {
-        "status": "In Progress",
-        "effort_hrs": 16,
+        "status": "Missing / Skill Gap",
+        "effort_hrs": 24,
         "priority": "P0 Critical",
-        "evidence_project": "Jaffle Shop Analytics Pipeline with dbt-core"
+        "why_it_matters": "Required for the selected transition. Powers modular SQL transformations and automated data tests.",
+        "prerequisite": "SQL ✓ (Satisfied)",
+        "evidence": "Analytics transformation project (Jaffle Shop Analytics pipeline)",
+        "evidence_project": "Jaffle Shop Analytics Pipeline with dbt-core & automated schema tests"
       }
     },
     {
@@ -106,10 +138,13 @@
       "category": "Missing Prerequisite",
       "color": "amber",
       "metadata": {
-        "status": "Not Started",
-        "effort_hrs": 8,
+        "status": "Missing / Skill Gap",
+        "effort_hrs": 20,
         "priority": "P1 High",
-        "evidence_project": "Snowflake staging and marts design"
+        "why_it_matters": "Target execution environment for modern analytical queries and data marts.",
+        "prerequisite": "SQL ✓ (Satisfied)",
+        "evidence": "Snowflake / BigQuery staging & mart architecture project",
+        "evidence_project": "Snowflake staging and marts design with micro-partition optimization"
       }
     },
     {
@@ -120,9 +155,12 @@
       "category": "Missing Prerequisite",
       "color": "amber",
       "metadata": {
-        "status": "Not Started",
-        "effort_hrs": 6,
+        "status": "Missing / Skill Gap",
+        "effort_hrs": 16,
         "priority": "P2 Standard",
+        "why_it_matters": "Distinguishes production analytics engineers from ad-hoc dashboard authors.",
+        "prerequisite": "dbt & Git",
+        "evidence": "GitHub Actions slim CI on pull requests with sqlfluff linting",
         "evidence_project": "GitHub Actions slim CI on pull requests"
       }
     },
@@ -130,13 +168,56 @@
       "id": "node_target_role",
       "type": "target_role",
       "label": "Target: Analytics Engineer",
-      "subtitle": "78% overlap • 42 hrs effort • Strong Market",
+      "subtitle": "82 Fit • High Accessibility • Strong Signal",
       "category": "Target Opportunity",
       "color": "emerald",
       "metadata": {
-        "role_id": "analytics_engineer",
-        "market_readiness": "Feasible in 4–6 weeks @ 40h/week",
-        "regional_signals": "High demand in Delhi NCR / BLR"
+        "role_id": "analytics-engineer",
+        "market_readiness": "Feasible in 10 weeks @ 20h/wk",
+        "regional_signals": "High demand in Delhi NCR, Bengaluru, Hyderabad",
+        "why_it_matters": "Primary optimized career transition. Unlocks modern data stack roles with 78% immediate skill overlap."
+      }
+    },
+    {
+      "id": "node_alt_data_scientist",
+      "type": "target_role",
+      "label": "Alt Target: Data Scientist",
+      "subtitle": "68 Fit • Medium Accessibility • 160 hrs",
+      "category": "Alternative Opportunity",
+      "color": "slate",
+      "metadata": {
+        "role_id": "data-scientist",
+        "market_readiness": "Feasible in 16–20 weeks",
+        "regional_signals": "Stable enterprise demand",
+        "why_it_matters": "Requires 160 learning hours in inferential statistics, advanced ML theory, and model containerization."
+      }
+    },
+    {
+      "id": "node_alt_ml_engineer",
+      "type": "target_role",
+      "label": "Alt Target: ML Engineer",
+      "subtitle": "51 Fit • Lower Accessibility • 240 hrs",
+      "category": "Alternative Opportunity",
+      "color": "slate",
+      "metadata": {
+        "role_id": "machine-learning-engineer",
+        "market_readiness": "High prerequisite barrier",
+        "regional_signals": "High demand but restrictive junior intake",
+        "why_it_matters": "Requires 240 learning hours across Docker, Kubernetes, distributed PySpark, and production MLOps."
+      }
+    },
+    {
+      "id": "node_alt_product_analyst",
+      "type": "target_role",
+      "label": "Alt Target: Data Product Analyst",
+      "subtitle": "81 Fit • High Accessibility • 80 hrs",
+      "category": "Alternative Opportunity",
+      "color": "slate",
+      "metadata": {
+        "role_id": "data-product-analyst",
+        "market_readiness": "Feasible in 6–8 weeks",
+        "regional_signals": "High demand across Indian product startups",
+        "why_it_matters": "Requires 80 learning hours in Mixpanel product telemetry, cohort retention, and digital experimentation."
       }
     }
   ],
@@ -144,13 +225,18 @@
     { "from": "node_current_role", "to": "node_skill_sql", "label": "exhibits" },
     { "from": "node_current_role", "to": "node_skill_python", "label": "exhibits" },
     { "from": "node_current_role", "to": "node_skill_stats", "label": "exhibits" },
-    { "from": "node_skill_sql", "to": "node_trans_data_modeling", "label": "enables (0.88)" },
+    { "from": "node_current_role", "to": "node_skill_data_analysis", "label": "exhibits" },
+    { "from": "node_skill_data_analysis", "to": "node_trans_data_modeling", "label": "bridges (0.88)" },
+    { "from": "node_skill_sql", "to": "node_trans_data_modeling", "label": "enables (0.92)" },
     { "from": "node_skill_python", "to": "node_trans_analytics_eng", "label": "bridges (0.82)" },
     { "from": "node_trans_data_modeling", "to": "node_prereq_dbt", "label": "prerequisite for" },
     { "from": "node_trans_analytics_eng", "to": "node_prereq_warehouse", "label": "requires" },
     { "from": "node_trans_analytics_eng", "to": "node_prereq_cicd", "label": "requires" },
     { "from": "node_prereq_dbt", "to": "node_target_role", "label": "unlocks opportunity" },
     { "from": "node_prereq_warehouse", "to": "node_target_role", "label": "satisfies core JD" },
-    { "from": "node_prereq_cicd", "to": "node_target_role", "label": "proves production readiness" }
+    { "from": "node_prereq_cicd", "to": "node_target_role", "label": "proves production readiness" },
+    { "from": "node_skill_stats", "to": "node_alt_data_scientist", "label": "alternative bridge" },
+    { "from": "node_skill_python", "to": "node_alt_ml_engineer", "label": "alternative branch" },
+    { "from": "node_skill_data_analysis", "to": "node_alt_product_analyst", "label": "direct adjacent path" }
   ]
 }

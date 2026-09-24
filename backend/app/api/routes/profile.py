@@ -7,12 +7,15 @@ router = APIRouter(prefix="/profile", tags=["Profile"])
 
 def _get_demo_profile_path():
     current_dir = os.path.dirname(os.path.abspath(__file__))
+    primary = os.path.abspath(os.path.join(current_dir, "../../../../data/demo/ranjan_profile.json"))
+    if os.path.exists(primary):
+        return primary
     return os.path.abspath(os.path.join(current_dir, "../../../../data/demo/aarav_profile.json"))
 
 @router.get("", response_model=UserProfile)
 def get_user_profile():
     """
-    Returns the active user profile (Aarav Sharma demo profile).
+    Returns the active user profile (Ranjan Maiti demo profile).
     """
     path = _get_demo_profile_path()
     try:

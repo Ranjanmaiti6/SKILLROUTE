@@ -1,0 +1,80 @@
+{
+  "transitions": [
+    {
+      "sourceRoleId": "data-analyst",
+      "targetRoleId": "analytics-engineer",
+      "transitionScore": 82,
+      "skillOverlap": ["python", "sql", "statistics", "data-analysis"],
+      "transferableBridges": [
+        { "from": "data-analysis", "through": "data-modeling", "to": "analytics-engineering" }
+      ],
+      "prerequisites": {
+        "satisfied": ["sql", "python"],
+        "gap": ["dbt", "cloud-warehousing", "cicd-data"]
+      },
+      "estimatedEffort": 120,
+      "accessibility": "High",
+      "marketSignal": "Strong",
+      "experienceGap": "Low",
+      "confidence": "Medium-High",
+      "rationale": "Strong overlap in SQL, data manipulation, and metrics definition. Requires modern transformation layer (dbt) and dimensional warehouse modeling."
+    },
+    {
+      "sourceRoleId": "data-analyst",
+      "targetRoleId": "data-product-analyst",
+      "transitionScore": 81,
+      "skillOverlap": ["sql", "excel", "powerbi", "data-analysis", "statistics"],
+      "transferableBridges": [
+        { "from": "data-analysis", "through": "cohort-modeling", "to": "product-telemetry" }
+      ],
+      "prerequisites": {
+        "satisfied": ["sql", "excel", "data-analysis"],
+        "gap": ["product-analytics", "ab-testing"]
+      },
+      "estimatedEffort": 80,
+      "accessibility": "High",
+      "marketSignal": "Growing",
+      "experienceGap": "Low",
+      "confidence": "High",
+      "rationale": "High direct overlap with reporting workflows. Shift focus from internal operational reporting to digital product metrics and user experimentation."
+    },
+    {
+      "sourceRoleId": "data-analyst",
+      "targetRoleId": "data-scientist",
+      "transitionScore": 68,
+      "skillOverlap": ["python", "sql", "statistics"],
+      "transferableBridges": [
+        { "from": "statistics", "through": "exploratory-modeling", "to": "machine-learning" }
+      ],
+      "prerequisites": {
+        "satisfied": ["python", "statistics"],
+        "gap": ["advanced-ml", "inferential-stats", "model-deployment"]
+      },
+      "estimatedEffort": 160,
+      "accessibility": "Medium",
+      "marketSignal": "Stable",
+      "experienceGap": "Medium",
+      "confidence": "High",
+      "rationale": "Viable pathway leveraging statistical and Python foundations. Requires rigorous mathematical learning theory and production model evaluation."
+    },
+    {
+      "sourceRoleId": "data-analyst",
+      "targetRoleId": "machine-learning-engineer",
+      "transitionScore": 51,
+      "skillOverlap": ["python", "sql"],
+      "transferableBridges": [
+        { "from": "python", "through": "scripting", "to": "systems-engineering" }
+      ],
+      "prerequisites": {
+        "satisfied": ["python"],
+        "gap": ["software-arch", "mlops", "distributed-systems", "deep-learning"]
+      },
+      "estimatedEffort": 240,
+      "accessibility": "Lower",
+      "marketSignal": "High Demand",
+      "experienceGap": "High",
+      "confidence": "Medium",
+      "rationale": "Steep transition barrier. Current capabilities lack distributed systems, container orchestration, and production engineering rigor."
+    }
+  ]
+}

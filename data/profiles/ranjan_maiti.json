@@ -1,0 +1,28 @@
+{
+  "id": "ranjan_maiti_01",
+  "name": "Ranjan Maiti",
+  "currentRole": "Data Analyst",
+  "experienceYears": 1.5,
+  "location": "Delhi NCR, India",
+  "education": {
+    "degree": "B.Tech in Computer Science / Information Technology",
+    "institution": "Guru Gobind Singh Indraprastha University",
+    "year": "2024"
+  },
+  "currentSkills": [
+    { "id": "python", "name": "Python", "evidenceState": "EVIDENCE-BACKED", "confidence": "high", "proficiency": "intermediate" },
+    { "id": "sql", "name": "SQL", "evidenceState": "EVIDENCE-BACKED", "confidence": "high", "proficiency": "advanced" },
+    { "id": "excel", "name": "Excel", "evidenceState": "EXPLICIT", "confidence": "high", "proficiency": "advanced" },
+    { "id": "powerbi", "name": "Power BI", "evidenceState": "EVIDENCE-BACKED", "confidence": "high", "proficiency": "intermediate" },
+    { "id": "statistics", "name": "Statistics", "evidenceState": "EVIDENCE-BACKED", "confidence": "medium", "proficiency": "intermediate" },
+    { "id": "data-analysis", "name": "Data Analysis", "evidenceState": "EXPLICIT", "confidence": "high", "proficiency": "advanced" },
+    { "id": "data-modeling", "name": "Data Modeling", "evidenceState": "INFERRED", "confidence": "medium", "proficiency": "beginner" },
+    { "id": "dbt", "name": "dbt", "evidenceState": "MISSING / SKILL GAP", "confidence": "none", "proficiency": "none" },
+    { "id": "cloud-warehousing", "name": "Cloud Warehousing", "evidenceState": "MISSING / SKILL GAP", "confidence": "none", "proficiency": "none" }
+  ],
+  "statedConstraints": {
+    "weeklyLearningHours": 20,
+    "primaryTarget": "analytics-engineer",
+    "alternativeTargets": ["data-scientist", "machine-learning-engineer", "data-product-analyst"]
+  }
+}

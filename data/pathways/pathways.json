@@ -1,0 +1,43 @@
+{
+  "targetRole": "analytics-engineer",
+  "totalBaseHours": 120,
+  "configurations": [
+    {
+      "weeklyHours": 40,
+      "mode": "Accelerated Intensive Sprint",
+      "estimatedWeeks": 10,
+      "badge": "Path recalculated: 10-Week Intensive Sprint (40 hrs/wk)",
+      "steps": [
+        { "order": 1, "skill": "Advanced SQL", "hours": 20, "description": "Complex window functions, CTEs, query plan analysis" },
+        { "order": 2, "skill": "dbt Core", "hours": 30, "description": "Modular transformation architecture, Jinja, snapshots" },
+        { "order": 3, "skill": "Data Modeling", "hours": 25, "description": "Kimball star & snowflake dimensional schemas" },
+        { "order": 4, "skill": "Data Warehousing", "hours": 25, "description": "Cloud warehouse partitioning, clustering, cost optimization" },
+        { "order": 5, "skill": "Portfolio Project", "hours": 20, "description": "End-to-end production warehouse pipeline with CI/CD" }
+      ]
+    },
+    {
+      "weeklyHours": 20,
+      "mode": "Standard Professional Pace",
+      "estimatedWeeks": 18,
+      "badge": "Path recalculated: 18-Week Professional Pace (20 hrs/wk)",
+      "steps": [
+        { "order": 1, "skill": "Advanced SQL", "hours": 20, "description": "Analytical SQL & relational query tuning" },
+        { "order": 2, "skill": "Data Modeling", "hours": 25, "description": "Dimensional schemas before transformation framework" },
+        { "order": 3, "skill": "dbt Fundamentals", "hours": 35, "description": "Core dbt models, ref tags, and generic tests" },
+        { "order": 4, "skill": "Portfolio Project", "hours": 25, "description": "Jaffle Shop transformation repo & documentation" }
+      ]
+    },
+    {
+      "weeklyHours": 10,
+      "mode": "Modular Part-Time Foundation",
+      "estimatedWeeks": 30,
+      "badge": "Path recalculated: 30-Week Modular Foundation (10 hrs/wk)",
+      "steps": [
+        { "order": 1, "skill": "SQL Optimization", "hours": 20, "description": "Bite-sized indexing and window function drills" },
+        { "order": 2, "skill": "Data Modeling Fundamentals", "hours": 25, "description": "Dimensional star schema design principles" },
+        { "order": 3, "skill": "dbt Basics", "hours": 30, "description": "Staging and marts creation using dbt Cloud free tier" },
+        { "order": 4, "skill": "Small Analytics Project", "hours": 25, "description": "Targeted case study proving transformation reliability" }
+      ]
+    }
+  ]
+}

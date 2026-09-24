@@ -1,35 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
 :root {
-  --foreground-rgb: 16, 42, 67;
-  --background-start-rgb: 248, 250, 252;
-  --background-end-rgb: 255, 255, 255;
+  --font-inter: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-mono: 'JetBrains Mono', ui-monospace, Menlo, Monaco, monospace;
 }
 
 body {
-  color: rgb(var(--foreground-rgb));
-  background-color: #F8FAFC;
-  font-feature-settings: "rlig" 1, "calt" 1;
+  color: #0F172A;
+  background-color: #F9FAFB;
+  font-family: var(--font-inter);
+  font-feature-settings: "cv02", "cv03", "cv04", "cv11";
   -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 /* Custom subtle scrollbar */
 ::-webkit-scrollbar {
-  width: 6px;
-  height: 6px;
+  width: 5px;
+  height: 5px;
 }
 
 ::-webkit-scrollbar-track {
-  background: #F1F5F9;
+  background: transparent;
 }
 
 ::-webkit-scrollbar-thumb {
   background: #CBD5E1;
-  border-radius: 3px;
+  border-radius: 9999px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
   background: #94A3B8;
 }
+
+/* Interactive focus and button micro-interactions */
+button:active:not(:disabled) {
+  transform: translateY(1px);
+}
+
+a:active:not(:disabled) {
+  transform: translateY(0.5px);
+}
+
+/* Clean transition utility */
+.transition-smooth {
+  transition: all 180ms cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+/* Custom subtle dot grid background pattern for visual depth without blur/gradients */
+.bg-grid-subtle {
+  background-image: radial-gradient(rgba(15, 30, 54, 0.06) 1px, transparent 1px);
+  background-size: 20px 20px;
+}
+
+/* Card highlight edge */
+.card-shine {
+  box-shadow: 0 1px 3px 0 rgba(15, 23, 42, 0.04), 0 0 0 1px rgba(15, 23, 42, 0.06);
+}
+

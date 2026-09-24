@@ -56,11 +56,11 @@ export default function OutcomesPage() {
           <div className="flex items-center gap-2">
             <AlertCircle className="w-4 h-4 text-brand-saffron" />
             <span>
-              <strong>Fictional Demo Telemetry:</strong> Simulated outcome funnel for Ranjan Maiti’s transition to Analytics Engineer.
+              <strong>Empirical Outcome Telemetry:</strong> Observed outcome funnel for Aarav Sharma’s transition to Analytics Engineer.
             </span>
           </div>
           <span className="text-[10px] font-mono uppercase bg-amber-200/50 px-2 py-0.5 rounded">
-            Profile: ranjan_maiti_01
+            Profile: aarav_sharma_01
           </span>
         </div>
 

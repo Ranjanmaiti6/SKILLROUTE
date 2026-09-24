@@ -1,30 +1,47 @@
 {
   "occupations": [
     {
-      "id": "analytics_engineer",
+      "id": "analytics-engineer",
       "slug": "analytics-engineer",
       "title": "Analytics Engineer",
       "category": "Modern Data Stack & Engineering",
       "transition_accessibility": "High",
-      "accessibility_score": 84,
+      "accessibility_score": 82,
       "skill_overlap_percentage": 78,
       "prerequisite_coverage": "6 / 8",
-      "prerequisite_gap_level": "Low",
+      "prerequisite_gap_level": "Medium",
+      "requiredSkills": [
+        "sql",
+        "python",
+        "data-modeling",
+        "dbt",
+        "cloud-warehousing",
+        "cicd-data"
+      ],
+      "demoSignals": {
+        "transitionFit": 82,
+        "accessibility": "High",
+        "skillGap": "Medium",
+        "estimatedEffort": "120 hrs",
+        "marketSignal": "Strong",
+        "confidence": "Medium-High",
+        "disclaimer": "Prototype signals calibrated on ESCO 1.2.1 / O*NET 31.0"
+      },
       "market_signal": {
-        "trend": "Growing",
+        "trend": "Strong",
         "direction": "up",
-        "regional_demand": "Strong in Delhi NCR, Bengaluru, Hyderabad",
-        "confidence": "High",
+        "regional_demand": "High across Delhi NCR, Bengaluru, Hyderabad modern data teams",
+        "confidence": "Medium-High",
         "freshness": "Recent (Q3 2026)",
         "sources": ["ESCO 2512.3", "O*NET 15-2051.02", "NCS Tech Hubs", "WEF Future of Jobs 2025"]
       },
-      "estimated_learning_hours": 42,
+      "estimated_learning_hours": 120,
       "experience_gap": "Low",
       "primary_missing_skills": [
-        { "id": "skill_data_modeling", "name": "Dimensional Data Modeling", "effort_hrs": 12, "difficulty": "Medium" },
-        { "id": "skill_dbt", "name": "dbt (Data Build Tool)", "effort_hrs": 16, "difficulty": "Medium" },
-        { "id": "skill_warehousing", "name": "Cloud Data Warehousing (BigQuery/Snowflake)", "effort_hrs": 8, "difficulty": "Medium" },
-        { "id": "skill_cicd_git", "name": "Version Control & CI/CD for Data", "effort_hrs": 6, "difficulty": "Low" }
+        { "id": "skill_data_modeling", "name": "Dimensional Data Modeling", "effort_hrs": 20, "difficulty": "Medium" },
+        { "id": "skill_dbt", "name": "dbt (Data Build Tool)", "effort_hrs": 24, "difficulty": "Medium" },
+        { "id": "skill_warehousing", "name": "Cloud Data Warehousing", "effort_hrs": 20, "difficulty": "Medium" },
+        { "id": "skill_cicd_git", "name": "Version Control & Data CI/CD", "effort_hrs": 16, "difficulty": "Low" }
       ],
       "transferable_strengths": [
         "Advanced SQL querying & window functions",
@@ -32,10 +49,10 @@
         "Business metric definition from Power BI reports",
         "Translating stakeholder business needs into data schemas"
       ],
-      "rationale": "Your existing SQL, Python and data-analysis capabilities substantially reduce the transition distance. The primary gap is modern analytics engineering workflow: dimensional data modeling, dbt transformation layers, and production version-controlled pipelines."
+      "rationale": "High capability overlap with your daily analytical tasks. Your existing SQL and Python fluency substantially reduce transition distance. The primary gap is modern analytics engineering workflow: dimensional data modeling, dbt transformation layers, and production cloud data warehouses."
     },
     {
-      "id": "data_product_analyst",
+      "id": "data-product-analyst",
       "slug": "data-product-analyst",
       "title": "Data Product Analyst",
       "category": "Product Analytics & Growth",
@@ -44,20 +61,36 @@
       "skill_overlap_percentage": 82,
       "prerequisite_coverage": "7 / 8",
       "prerequisite_gap_level": "Low",
+      "requiredSkills": [
+        "sql",
+        "python",
+        "data-analysis",
+        "statistics",
+        "product-analytics"
+      ],
+      "demoSignals": {
+        "transitionFit": 81,
+        "accessibility": "High",
+        "skillGap": "Low",
+        "estimatedEffort": "80 hrs",
+        "marketSignal": "Growing",
+        "confidence": "High",
+        "disclaimer": "Prototype signals calibrated on ESCO 1.2.1 / O*NET 31.0"
+      },
       "market_signal": {
         "trend": "Growing",
         "direction": "up",
         "regional_demand": "High across Indian fintech, e-commerce, SaaS",
-        "confidence": "Medium-High",
+        "confidence": "High",
         "freshness": "Recent (Q3 2026)",
         "sources": ["O*NET 15-2051.01", "NCS Product Ecosystem", "WEF 2025"]
       },
-      "estimated_learning_hours": 36,
+      "estimated_learning_hours": 80,
       "experience_gap": "Low",
       "primary_missing_skills": [
-        { "id": "skill_product_analytics", "name": "Product Instrumentation & Funnel Tracking (Mixpanel/Amplitude)", "effort_hrs": 14, "difficulty": "Medium" },
-        { "id": "skill_ab_testing", "name": "Experimental Design & A/B Testing at Scale", "effort_hrs": 12, "difficulty": "Medium" },
-        { "id": "skill_user_cohorting", "name": "Retention Cohort Modeling", "effort_hrs": 10, "difficulty": "Low" }
+        { "id": "skill_product_analytics", "name": "Product Instrumentation & Funnels (Mixpanel/Amplitude)", "effort_hrs": 25, "difficulty": "Medium" },
+        { "id": "skill_ab_testing", "name": "Experimental Design & A/B Testing at Scale", "effort_hrs": 25, "difficulty": "Medium" },
+        { "id": "skill_user_cohorting", "name": "Retention Cohort Modeling", "effort_hrs": 15, "difficulty": "Low" }
       ],
       "transferable_strengths": [
         "Customer churn cohort analysis",
@@ -67,7 +100,7 @@
       "rationale": "High capability overlap with your daily analytical tasks. Requires augmenting your descriptive reporting background with user-behavior telemetry and rigorous causal A/B testing methodologies."
     },
     {
-      "id": "data_scientist",
+      "id": "data-scientist",
       "slug": "data-scientist",
       "title": "Data Scientist",
       "category": "Predictive Modeling & Statistical Inference",
@@ -76,6 +109,22 @@
       "skill_overlap_percentage": 64,
       "prerequisite_coverage": "5 / 8",
       "prerequisite_gap_level": "Medium",
+      "requiredSkills": [
+        "python",
+        "sql",
+        "statistics",
+        "advanced-ml",
+        "data-modeling"
+      ],
+      "demoSignals": {
+        "transitionFit": 68,
+        "accessibility": "Medium",
+        "skillGap": "Medium",
+        "estimatedEffort": "160 hrs",
+        "marketSignal": "Stable",
+        "confidence": "High",
+        "disclaimer": "Prototype signals calibrated on ESCO 1.2.1 / O*NET 31.0"
+      },
       "market_signal": {
         "trend": "Stable",
         "direction": "stable",
@@ -84,13 +133,12 @@
         "freshness": "Recent (Q3 2026)",
         "sources": ["ESCO 2511.2", "O*NET 15-2051.00", "AISHE / PLFS Tech Indicators"]
       },
-      "estimated_learning_hours": 68,
+      "estimated_learning_hours": 160,
       "experience_gap": "Medium",
       "primary_missing_skills": [
-        { "id": "skill_advanced_ml", "name": "Supervised & Unsupervised Machine Learning", "effort_hrs": 26, "difficulty": "High" },
-        { "id": "skill_inferential_stats", "name": "Rigorous Inferential & Bayesian Statistics", "effort_hrs": 20, "difficulty": "High" },
-        { "id": "skill_feature_eng", "name": "Feature Engineering & Model Validation", "effort_hrs": 14, "difficulty": "Medium" },
-        { "id": "skill_model_deployment", "name": "FastAPI Model Containerization", "effort_hrs": 8, "difficulty": "Medium" }
+        { "id": "skill_advanced_ml", "name": "Supervised & Unsupervised Machine Learning", "effort_hrs": 45, "difficulty": "High" },
+        { "id": "skill_inferential_stats", "name": "Rigorous Inferential & Bayesian Statistics", "effort_hrs": 35, "difficulty": "High" },
+        { "id": "skill_feature_eng", "name": "Feature Engineering & Model Validation", "effort_hrs": 25, "difficulty": "Medium" }
       ],
       "transferable_strengths": [
         "Python scripting & exploratory data analysis",
@@ -100,30 +148,46 @@
       "rationale": "A viable mid-term pathway. You possess foundational statistical literacy and Python fluency, but need rigorous mathematical depth in statistical learning theory and end-to-end model evaluation before competing for senior data science roles."
     },
     {
-      "id": "machine_learning_engineer",
+      "id": "machine-learning-engineer",
       "slug": "machine-learning-engineer",
-      "title": "Machine Learning Engineer",
+      "title": "ML Engineer",
       "category": "Applied AI Systems & Infrastructure",
       "transition_accessibility": "Lower",
       "accessibility_score": 51,
       "skill_overlap_percentage": 49,
       "prerequisite_coverage": "3 / 8",
       "prerequisite_gap_level": "High",
+      "requiredSkills": [
+        "python",
+        "advanced-ml",
+        "mlops",
+        "distributed-systems",
+        "deep-learning"
+      ],
+      "demoSignals": {
+        "transitionFit": 51,
+        "accessibility": "Lower",
+        "skillGap": "High",
+        "estimatedEffort": "240 hrs",
+        "marketSignal": "High Demand",
+        "confidence": "Medium",
+        "disclaimer": "Prototype signals calibrated on ESCO 1.2.1 / O*NET 31.0"
+      },
       "market_signal": {
-        "trend": "High Demand (High Entry Barrier)",
+        "trend": "High Demand",
         "direction": "up",
         "regional_demand": "High demand for experienced engineers; restrictive junior intake",
         "confidence": "Medium",
         "freshness": "Recent (Q3 2026)",
         "sources": ["O*NET 15-1252.00", "WEF 2025 Emerging Tech", "NCS Tech Hubs"]
       },
-      "estimated_learning_hours": 110,
+      "estimated_learning_hours": 240,
       "experience_gap": "High",
       "primary_missing_skills": [
-        { "id": "skill_software_arch", "name": "Software Engineering Principles & OOP in Python", "effort_hrs": 30, "difficulty": "High" },
-        { "id": "skill_mlops", "name": "MLOps (Docker, Kubernetes, MLflow, CI/CD)", "effort_hrs": 36, "difficulty": "High" },
-        { "id": "skill_distributed_compute", "name": "Distributed Data Processing (PySpark/Ray)", "effort_hrs": 24, "difficulty": "High" },
-        { "id": "skill_deep_learning", "name": "Deep Learning Architectures (PyTorch/Transformers)", "effort_hrs": 20, "difficulty": "High" }
+        { "id": "skill_software_arch", "name": "Software Engineering Principles & OOP in Python", "effort_hrs": 50, "difficulty": "High" },
+        { "id": "skill_mlops", "name": "MLOps (Docker, Kubernetes, MLflow, CI/CD)", "effort_hrs": 60, "difficulty": "High" },
+        { "id": "skill_distributed_compute", "name": "Distributed Data Processing (PySpark/Ray)", "effort_hrs": 40, "difficulty": "High" },
+        { "id": "skill_deep_learning", "name": "Deep Learning Architectures (PyTorch/Transformers)", "effort_hrs": 40, "difficulty": "High" }
       ],
       "transferable_strengths": [
         "Python programming baseline",
@@ -131,38 +195,6 @@
         "Analytical intuition on data drift"
       ],
       "rationale": "High prerequisite gap. Current capabilities provide an initial Python footing, but lack the distributed systems, container orchestration, and production engineering rigor required for MLOps and infrastructure engineering."
-    },
-    {
-      "id": "bi_solutions_architect",
-      "slug": "bi-solutions-architect",
-      "title": "BI Solutions Architect",
-      "category": "Enterprise Data Architecture & Reporting",
-      "transition_accessibility": "Medium-High",
-      "accessibility_score": 74,
-      "skill_overlap_percentage": 71,
-      "prerequisite_coverage": "5 / 8",
-      "prerequisite_gap_level": "Medium-Low",
-      "market_signal": {
-        "trend": "Stable",
-        "direction": "stable",
-        "regional_demand": "Steady across enterprise GCCs and consulting hubs in Gurgaon & Noida",
-        "confidence": "High",
-        "freshness": "Recent (Q3 2026)",
-        "sources": ["ESCO 2511.1", "O*NET 15-1211.00", "NCS GCC Profiles"]
-      },
-      "estimated_learning_hours": 54,
-      "experience_gap": "Medium",
-      "primary_missing_skills": [
-        { "id": "skill_bi_governance", "name": "Enterprise Semantic Layer & Data Governance", "effort_hrs": 18, "difficulty": "Medium" },
-        { "id": "skill_advanced_dax", "name": "Advanced DAX & Tabular Model Optimization", "effort_hrs": 16, "difficulty": "Medium" },
-        { "id": "skill_security_rls", "name": "Row-Level Security & Role-Based Access Controls", "effort_hrs": 20, "difficulty": "Medium" }
-      ],
-      "transferable_strengths": [
-        "Power BI dashboard design & DAX measures",
-        "PostgreSQL query optimization",
-        "Stakeholder relationship management"
-      ],
-      "rationale": "Leverages your deep reporting and BI experience. Transition requires shifting focus from individual dashboard authoring to multi-tenant governance, enterprise security, and semantic model performance tuning."
     }
   ]
 }
