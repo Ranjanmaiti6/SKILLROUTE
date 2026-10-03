@@ -239,7 +239,7 @@ export default function LandingPage() {
                 01
               </div>
               <h3 className="text-lg font-bold text-brand-navy">Understand</h3>
-              <p className="text-xs font-medium text-brand-slate">"What can I already do?"</p>
+              <p className="text-xs font-medium text-brand-slate">&quot;What can I already do?&quot;</p>
               <p className="text-xs text-slate-600 leading-relaxed">
                 SkillRoute extracts capabilities from real project evidence and work history,
                 categorizing them into explicit, evidence-supported, and inferred competencies.
@@ -251,7 +251,7 @@ export default function LandingPage() {
                 02
               </div>
               <h3 className="text-lg font-bold text-brand-navy">Transition</h3>
-              <p className="text-xs font-medium text-brand-slate">"Where can I realistically move?"</p>
+              <p className="text-xs font-medium text-brand-slate">&quot;Where can I realistically move?&quot;</p>
               <p className="text-xs text-slate-600 leading-relaxed">
                 Demand does not equal accessibility. We evaluate the graph distance and prerequisite
                 depth required to reach an opportunity rather than giving generic job lists.
@@ -263,7 +263,7 @@ export default function LandingPage() {
                 03
               </div>
               <h3 className="text-lg font-bold text-brand-navy">Act</h3>
-              <p className="text-xs font-medium text-brand-slate">"What should I learn and prove next?"</p>
+              <p className="text-xs font-medium text-brand-slate">&quot;What should I learn and prove next?&quot;</p>
               <p className="text-xs text-slate-600 leading-relaxed">
                 Adaptive pathways optimized under your available weekly hours. Accompanied by
                 Learn → Build → Prove → Apply evidence artifacts that employers trust.

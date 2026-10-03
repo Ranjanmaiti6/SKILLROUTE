@@ -1,6 +1,6 @@
 'use client';
 
-import React, { useState, useEffect, useRef } from 'react';
+import React, { useState, useEffect, useRef, useCallback } from 'react';
 import { useRouter } from 'next/navigation';
 import {
   Search,
@@ -147,12 +147,12 @@ export const CommandPalette: React.FC<CommandPaletteProps> = ({ isOpen, onClose 
     item.category.toLowerCase().includes(query.toLowerCase())
   );
 
-  const handleSelect = (item: ActionItem) => {
+  const handleSelect = useCallback((item: ActionItem) => {
     if (item.href) {
       router.push(item.href);
       onClose();
     }
-  };
+  }, [router, onClose]);
 
   useEffect(() => {
     const handleKeyDown = (e: KeyboardEvent) => {
@@ -176,7 +176,7 @@ export const CommandPalette: React.FC<CommandPaletteProps> = ({ isOpen, onClose 
 
     window.addEventListener('keydown', handleKeyDown);
     return () => window.removeEventListener('keydown', handleKeyDown);
-  }, [isOpen, filtered, selectedIndex]);
+  }, [isOpen, filtered, selectedIndex, handleSelect, onClose]);
 
   if (!isOpen) return null;
 

@@ -14,9 +14,11 @@ class PathwayMilestone(BaseModel):
     status: str # "not-started", "in-progress", "completed"
 
 class PathwayOptimizationRequest(BaseModel):
-    profile_id: str
-    target_role_id: str
-    weekly_hours_budget: int = 40
+    profile_id: Optional[str] = "ranjan_maiti_01"
+    target_role_id: Optional[str] = None
+    role_id: Optional[str] = None
+    weekly_hours_budget: Optional[int] = None
+    learning_hours_per_week: Optional[int] = None
     prioritize_speed: bool = True
 
 class PathwayOptimizationResponse(BaseModel):

@@ -136,7 +136,7 @@ export default function TransitionDetailPage() {
               Market Signal
             </span>
             <div className="text-base font-bold text-emerald-700 mt-1 truncate">
-              {currentOpp?.market_signal.trend || 'Growing'}
+              {currentOpp?.market_signal?.trend || 'Growing'}
             </div>
             <div className="text-[10px] text-slate-500 mt-0.5 font-medium">
               Delhi NCR & Bengaluru
