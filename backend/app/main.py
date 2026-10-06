@@ -1,7 +1,7 @@
 from typing import Dict, Any, Optional
 from fastapi import FastAPI, HTTPException, Request
 from fastapi.middleware.cors import CORSMiddleware
-from app.api.routes import profile, opportunities, transitions, pathway, evidence, outcomes, auth
+from app.api.routes import profile, opportunities, transitions, pathway, evidence, outcomes, auth, transition_intelligence_api
 from app.intelligence.path_optimizer import calculate_pathway
 from app.graph.knowledge_graph import TransitionGraphService
 from app.intelligence.explainability import PathwayExplainer
@@ -32,6 +32,8 @@ app.include_router(transitions.router, prefix="/api")
 app.include_router(pathway.router, prefix="/api")
 app.include_router(evidence.router, prefix="/api")
 app.include_router(outcomes.router, prefix="/api")
+app.include_router(transition_intelligence_api.router, prefix="/api")
+app.include_router(transition_intelligence_api.router, prefix="/api/intelligence")
 
 graph_service = TransitionGraphService()
 

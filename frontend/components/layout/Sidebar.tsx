@@ -14,7 +14,9 @@ import {
   HelpCircle,
   Award,
   ChevronRight,
-  Shield
+  Shield,
+  Zap,
+  Sliders
 } from 'lucide-react';
 import { useAuth } from '../../lib/auth-context';
 
@@ -34,6 +36,13 @@ export const Sidebar: React.FC<SidebarProps> = ({ onCloseMobile, onOpenCommand }
     { name: 'Transition', href: '/transition/analytics-engineer', icon: GitFork },
     { name: 'Pathway', href: '/pathway', icon: Route },
     { name: 'Evidence', href: '/evidence', icon: CheckCircle2 },
+  ];
+
+  const intelligenceNav = [
+    { name: 'Transition Engine', href: '/transition-engine', icon: GitFork, badge: 'Core' },
+    { name: 'Next Best Skill', href: '/next-best-skill', icon: Zap, badge: 'Optimal' },
+    { name: 'Career Simulator', href: '/career-simulator', icon: Route, badge: 'Paths' },
+    { name: 'What-If Lab', href: '/what-if', icon: Sliders, badge: 'Sim' },
   ];
 
   const secondaryNav = [
@@ -92,6 +101,47 @@ export const Sidebar: React.FC<SidebarProps> = ({ onCloseMobile, onOpenCommand }
                     <span>{item.name}</span>
                   </div>
                   {isActive && <ChevronRight className="w-3.5 h-3.5 text-slate-400" />}
+                </Link>
+              );
+            })}
+          </nav>
+        </div>
+
+        {/* Transition Intelligence Systems */}
+        <div>
+          <div className="px-3 mb-1.5 flex items-center justify-between text-[10px] font-bold text-slate-400 uppercase tracking-wider">
+            <span>INTELLIGENCE</span>
+            <span className="text-[9px] px-1 py-0.2 rounded font-black text-amber-800 bg-amber-50 border border-amber-200">
+              NEW
+            </span>
+          </div>
+          <nav className="space-y-0.5">
+            {intelligenceNav.map((item) => {
+              const Icon = item.icon;
+              const isActive = pathname === item.href;
+
+              return (
+                <Link
+                  key={item.name}
+                  href={item.href}
+                  onClick={onCloseMobile}
+                  className={`flex items-center justify-between px-3 py-2 text-xs font-semibold rounded-lg transition-all ${
+                    isActive
+                      ? 'bg-slate-100 text-brand-navy border-l-2 border-brand-navy pl-2.5 shadow-2xs font-bold'
+                      : 'text-slate-600 hover:text-brand-navy hover:bg-slate-50'
+                  }`}
+                >
+                  <div className="flex items-center gap-2.5">
+                    <Icon className={`w-4 h-4 ${isActive ? 'text-amber-600' : 'text-slate-400'}`} />
+                    <span>{item.name}</span>
+                  </div>
+                  {isActive ? (
+                    <ChevronRight className="w-3.5 h-3.5 text-slate-400" />
+                  ) : (
+                    <span className="text-[9px] px-1.5 py-0.5 rounded font-bold uppercase tracking-wider bg-slate-100 text-slate-500">
+                      {item.badge}
+                    </span>
+                  )}
                 </Link>
               );
             })}

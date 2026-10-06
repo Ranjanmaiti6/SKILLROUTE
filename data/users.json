@@ -9,7 +9,7 @@
     "location": "Delhi NCR, India",
     "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
     "provider": "demo",
-    "lastLoginAt": "2026-10-06T14:16:47.333888+00:00"
+    "lastLoginAt": "2026-10-06T14:34:38.297279+00:00"
   },
   {
     "id": "ranjan_maiti_01",
@@ -45,7 +45,7 @@
     "provider": "google",
     "avatarUrl": "https://lh3.googleusercontent.com/test-avatar",
     "emailVerified": true,
-    "lastLoginAt": "2026-10-06T14:16:47.334564+00:00"
+    "lastLoginAt": "2026-10-06T14:34:38.297741+00:00"
   },
   {
     "id": "google_cdbc8195",
@@ -70,7 +70,7 @@
     "provider": "google"
   },
   {
-    "id": "user_c2eec4e3",
+    "id": "user_77597ad6",
     "googleSubjectId": null,
     "email": "test.evaluator@example.com",
     "password_hash": "fac9ba495162234494013aea74c93991a33ffd4f2c6a59b4dcd2c5e46e266564",
@@ -81,8 +81,8 @@
     "avatarUrl": null,
     "emailVerified": false,
     "provider": "email",
-    "createdAt": "2026-10-06T14:16:47.335219+00:00",
-    "updatedAt": "2026-10-06T14:16:47.335219+00:00",
-    "lastLoginAt": "2026-10-06T14:16:47.335219+00:00"
+    "createdAt": "2026-10-06T14:34:38.298143+00:00",
+    "updatedAt": "2026-10-06T14:34:38.298143+00:00",
+    "lastLoginAt": "2026-10-06T14:34:38.298143+00:00"
   }
 ]

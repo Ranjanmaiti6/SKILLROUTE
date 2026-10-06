@@ -22,7 +22,9 @@ import {
   ChevronRight,
   AlertTriangle,
   GitFork,
-  Sliders
+  Sliders,
+  Zap,
+  Route
 } from 'lucide-react';
 import { useAuth } from '../../lib/auth-context';
 
@@ -275,6 +277,103 @@ export default function DashboardPage() {
                 <ArrowRight className="w-4 h-4 text-brand-saffron group-hover:translate-x-0.5 transition-transform" />
               </Link>
             </div>
+          </div>
+        </div>
+
+        {/* =========================================================================
+            TRANSITION INTELLIGENCE SUITE — 4 CORE SYSTEMS LAUNCHPAD
+           ========================================================================= */}
+        <div className="bg-white border border-brand-border rounded-xl p-5 shadow-2xs space-y-4">
+          <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-2 border-b border-brand-border pb-3">
+            <div className="flex items-center gap-2">
+              <span className="text-[10px] font-black uppercase tracking-wider text-amber-900 bg-amber-50 px-2 py-0.5 rounded border border-amber-200">
+                NEW INTELLIGENCE ENGINES
+              </span>
+              <h2 className="text-xs font-bold uppercase tracking-wider text-brand-navy">
+                Skill-to-Opportunity Decision Suite
+              </h2>
+            </div>
+            <span className="text-[11px] text-slate-500 font-medium">
+              From Skills Today → To Opportunities Tomorrow
+            </span>
+          </div>
+
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-3">
+            {/* 1. Transition Engine */}
+            <Link
+              href="/transition-engine"
+              className="p-3.5 rounded-lg border border-brand-border hover:border-brand-navy bg-slate-50/50 hover:bg-white transition-all group shadow-2xs space-y-1.5"
+            >
+              <div className="flex items-center justify-between">
+                <span className="w-7 h-7 rounded-md bg-brand-navy text-white flex items-center justify-center">
+                  <GitFork className="w-4 h-4 text-amber-400" />
+                </span>
+                <ChevronRight className="w-3.5 h-3.5 text-slate-400 group-hover:text-brand-navy group-hover:translate-x-0.5 transition-all" />
+              </div>
+              <div className="text-xs font-bold text-brand-navy group-hover:text-brand-slate">
+                Transition Engine
+              </div>
+              <p className="text-[11px] text-slate-600 line-clamp-2">
+                Evaluate realistic transitions, gap breakdowns, and transferable capability bridges.
+              </p>
+            </Link>
+
+            {/* 2. Next Best Skill */}
+            <Link
+              href="/next-best-skill"
+              className="p-3.5 rounded-lg border border-brand-border hover:border-brand-navy bg-slate-50/50 hover:bg-white transition-all group shadow-2xs space-y-1.5"
+            >
+              <div className="flex items-center justify-between">
+                <span className="w-7 h-7 rounded-md bg-amber-500 text-white flex items-center justify-center">
+                  <Zap className="w-4 h-4" />
+                </span>
+                <ChevronRight className="w-3.5 h-3.5 text-slate-400 group-hover:text-brand-navy group-hover:translate-x-0.5 transition-all" />
+              </div>
+              <div className="text-xs font-bold text-brand-navy group-hover:text-brand-slate">
+                Next Best Skill
+              </div>
+              <p className="text-[11px] text-slate-600 line-clamp-2">
+                &ldquo;If I learn ONE thing next, what should it be?&rdquo; argmax efficiency ranking.
+              </p>
+            </Link>
+
+            {/* 3. Career Simulator */}
+            <Link
+              href="/career-simulator"
+              className="p-3.5 rounded-lg border border-brand-border hover:border-brand-navy bg-slate-50/50 hover:bg-white transition-all group shadow-2xs space-y-1.5"
+            >
+              <div className="flex items-center justify-between">
+                <span className="w-7 h-7 rounded-md bg-indigo-600 text-white flex items-center justify-center">
+                  <Route className="w-4 h-4" />
+                </span>
+                <ChevronRight className="w-3.5 h-3.5 text-slate-400 group-hover:text-brand-navy group-hover:translate-x-0.5 transition-all" />
+              </div>
+              <div className="text-xs font-bold text-brand-navy group-hover:text-brand-slate">
+                Career Simulator
+              </div>
+              <p className="text-[11px] text-slate-600 line-clamp-2">
+                Compare Fastest, Balanced, and Specialized career paths with time sliders.
+              </p>
+            </Link>
+
+            {/* 4. What-If Lab */}
+            <Link
+              href="/what-if"
+              className="p-3.5 rounded-lg border border-brand-border hover:border-brand-navy bg-slate-50/50 hover:bg-white transition-all group shadow-2xs space-y-1.5"
+            >
+              <div className="flex items-center justify-between">
+                <span className="w-7 h-7 rounded-md bg-emerald-700 text-white flex items-center justify-center">
+                  <Sliders className="w-4 h-4" />
+                </span>
+                <ChevronRight className="w-3.5 h-3.5 text-slate-400 group-hover:text-brand-navy group-hover:translate-x-0.5 transition-all" />
+              </div>
+              <div className="text-xs font-bold text-brand-navy group-hover:text-brand-slate">
+                What-If Lab
+              </div>
+              <p className="text-[11px] text-slate-600 line-clamp-2">
+                Scenario simulation sandbox: Baseline vs Scenario metrics & visual deltas.
+              </p>
+            </Link>
           </div>
         </div>
 

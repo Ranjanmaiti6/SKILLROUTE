@@ -9,6 +9,7 @@ export interface UserSession {
   role: string;
   provider: 'google' | 'github' | 'email' | 'demo';
   experience_years?: number;
+  verified_skills?: string[];
   location?: string;
   token?: string;
   createdAt?: string;

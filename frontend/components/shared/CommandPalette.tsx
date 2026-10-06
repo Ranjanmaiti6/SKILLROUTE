@@ -14,7 +14,9 @@ import {
   ArrowRight,
   Sparkles,
   Command,
-  X
+  X,
+  Zap,
+  Sliders
 } from 'lucide-react';
 
 interface CommandPaletteProps {
@@ -33,6 +35,42 @@ interface ActionItem {
 }
 
 const PALETTE_ITEMS: ActionItem[] = [
+  {
+    id: 'transition-engine',
+    title: 'Transition Engine',
+    subtitle: 'Where can your current skills take you? Realistic transition analysis',
+    category: 'Intelligence',
+    href: '/transition-engine',
+    icon: GitFork,
+    badge: 'Core'
+  },
+  {
+    id: 'next-best-skill',
+    title: 'Next Best Skill',
+    subtitle: 'If I can learn only ONE thing next, what should it be?',
+    category: 'Intelligence',
+    href: '/next-best-skill',
+    icon: Zap,
+    badge: 'Optimal'
+  },
+  {
+    id: 'career-simulator',
+    title: 'Career Transition Simulator',
+    subtitle: 'Explore fastest, balanced, and specialized career pathways',
+    category: 'Intelligence',
+    href: '/career-simulator',
+    icon: Route,
+    badge: 'Paths'
+  },
+  {
+    id: 'what-if',
+    title: 'What-If Scenario Lab',
+    subtitle: 'Explore how changing variables alters reachable opportunities',
+    category: 'Intelligence',
+    href: '/what-if',
+    icon: Sliders,
+    badge: 'Lab'
+  },
   {
     id: 'overview',
     title: 'Command Center',
