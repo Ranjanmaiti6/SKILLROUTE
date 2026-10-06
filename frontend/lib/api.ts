@@ -18,13 +18,38 @@ import {
 const API_BASE = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000/api';
 
 export async function fetchProfile(): Promise<UserProfile> {
+  let profile = DEMO_PROFILE;
   try {
     const res = await fetch(`${API_BASE}/profile`, { next: { revalidate: 60 } });
-    if (!res.ok) throw new Error("API error");
-    return await res.json();
+    if (res.ok) {
+      profile = await res.json();
+    }
   } catch {
-    return DEMO_PROFILE;
+    profile = DEMO_PROFILE;
   }
+
+  if (typeof window !== 'undefined') {
+    try {
+      const stored = localStorage.getItem('skillroute_auth_session');
+      if (stored) {
+        const user = JSON.parse(stored);
+        if (user && user.name) {
+          return {
+            ...profile,
+            id: user.id || profile.id,
+            name: user.name,
+            current_role: user.role || profile.current_role,
+            location: user.location || profile.location,
+            experience_years: user.experience_years ?? profile.experience_years
+          };
+        }
+      }
+    } catch {
+      // ignore
+    }
+  }
+
+  return profile;
 }
 
 export async function fetchOpportunities(): Promise<OccupationTransition[]> {

@@ -16,6 +16,7 @@ import {
   ChevronRight,
   Shield
 } from 'lucide-react';
+import { useAuth } from '../../lib/auth-context';
 
 interface SidebarProps {
   onCloseMobile?: () => void;
@@ -24,6 +25,7 @@ interface SidebarProps {
 
 export const Sidebar: React.FC<SidebarProps> = ({ onCloseMobile, onOpenCommand }) => {
   const pathname = usePathname();
+  const { user, logout } = useAuth();
 
   const primaryNav = [
     { name: 'Overview', href: '/dashboard', icon: LayoutDashboard },
@@ -156,20 +158,62 @@ export const Sidebar: React.FC<SidebarProps> = ({ onCloseMobile, onOpenCommand }
         </div>
       </div>
 
-      {/* User Quick Switcher Footer */}
+      {/* User Profile Footer */}
       <div className="p-3 border-t border-brand-border bg-slate-50/50">
-        <Link
-          href="/profile"
-          className="flex items-center gap-2.5 p-1.5 rounded-lg hover:bg-white transition-colors"
-        >
-          <div className="w-8 h-8 rounded-full bg-brand-navy text-white flex items-center justify-center font-bold text-xs shadow-2xs">
-            AS
+        {user ? (
+          <div className="flex items-center justify-between gap-2 p-1.5 rounded-lg hover:bg-white transition-colors group">
+            <Link
+              href="/profile"
+              onClick={onCloseMobile}
+              className="flex items-center gap-2.5 min-w-0 flex-1"
+            >
+              {user.avatar ? (
+                <img
+                  src={user.avatar}
+                  alt={user.name}
+                  className="w-8 h-8 rounded-full object-cover ring-1 ring-slate-200 flex-shrink-0"
+                />
+              ) : (
+                <div className="w-8 h-8 rounded-full bg-brand-navy text-white flex items-center justify-center font-bold text-xs shadow-2xs flex-shrink-0">
+                  {user.name
+                    ? user.name
+                        .split(' ')
+                        .map((n) => n[0])
+                        .slice(0, 2)
+                        .join('')
+                        .toUpperCase()
+                    : 'U'}
+                </div>
+              )}
+              <div className="flex-1 min-w-0">
+                <div className="text-xs font-bold text-brand-navy truncate">{user.name}</div>
+                <div className="text-[10px] text-brand-muted truncate">
+                  {user.role} • {user.experience_years ? `${user.experience_years}y` : '1.5y'}
+                </div>
+              </div>
+            </Link>
+            <button
+              onClick={() => logout()}
+              title="Sign Out"
+              className="p-1.5 text-slate-400 hover:text-rose-600 rounded-md hover:bg-rose-50 transition-colors opacity-70 group-hover:opacity-100"
+            >
+              <Shield className="w-3.5 h-3.5 hidden" />
+              <svg className="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+                <path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4" />
+                <polyline points="16 17 21 12 16 7" />
+                <line x1="21" y1="12" x2="9" y2="12" />
+              </svg>
+            </button>
           </div>
-          <div className="flex-1 min-w-0">
-            <div className="text-xs font-bold text-brand-navy truncate">Aarav Sharma</div>
-            <div className="text-[11px] text-brand-muted truncate">Data Analyst • 1.5 yrs</div>
-          </div>
-        </Link>
+        ) : (
+          <Link
+            href="/login"
+            onClick={onCloseMobile}
+            className="w-full flex items-center justify-center gap-2 py-2 px-3 bg-brand-navy text-white text-xs font-bold rounded-lg hover:bg-brand-slate transition-colors shadow-2xs"
+          >
+            <span>Sign In</span>
+          </Link>
+        )}
       </div>
     </aside>
   );

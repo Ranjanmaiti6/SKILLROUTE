@@ -23,8 +23,10 @@ import {
   HelpCircle,
   FolderGit2
 } from 'lucide-react';
+import { useAuth } from '../../lib/auth-context';
 
 export default function CapabilityProfilePage() {
+  const { user } = useAuth();
   const [profile, setProfile] = useState<UserProfile | null>(null);
   const [selectedSkill, setSelectedSkill] = useState<CapabilityItem | null>(null);
   const [activeCoverageSection, setActiveCoverageSection] = useState<'skills' | 'projects' | 'experience' | 'education'>('skills');
@@ -78,23 +80,41 @@ export default function CapabilityProfilePage() {
         <div className="bg-white border border-brand-border rounded-xl p-6 shadow-xs">
           <div className="flex flex-col lg:flex-row lg:items-center justify-between gap-6 pb-6 border-b border-brand-borderLight">
             <div className="flex items-start gap-4">
-              <div className="w-14 h-14 rounded-xl bg-brand-navy text-white font-extrabold text-xl flex items-center justify-center shadow-xs flex-shrink-0">
-                AS
-              </div>
+              {user?.avatar ? (
+                <img
+                  src={user.avatar}
+                  alt={user.name}
+                  className="w-14 h-14 rounded-xl object-cover ring-2 ring-slate-100 flex-shrink-0 shadow-xs"
+                />
+              ) : (
+                <div className="w-14 h-14 rounded-xl bg-brand-navy text-white font-extrabold text-xl flex items-center justify-center shadow-xs flex-shrink-0">
+                  {((user?.name || profile.name) || 'AS')
+                    .split(' ')
+                    .map((n) => n[0])
+                    .slice(0, 2)
+                    .join('')
+                    .toUpperCase()}
+                </div>
+              )}
               <div className="space-y-1">
-                <div className="flex items-center gap-2">
+                <div className="flex items-center gap-2 flex-wrap">
                   <h1 className="text-2xl font-black text-brand-navy tracking-tight">
-                    Aarav Sharma
+                    {user?.name || profile.name}
                   </h1>
                   <span className="text-[10px] font-bold px-2 py-0.5 rounded bg-emerald-50 text-emerald-800 border border-emerald-200 uppercase tracking-wider">
-                    Verified Profile
+                    {user?.provider === 'google' ? 'Google Verified' : 'Verified Profile'}
                   </span>
+                  {user?.email && (
+                    <span className="text-[11px] text-slate-400 font-mono hidden sm:inline">
+                      • {user.email}
+                    </span>
+                  )}
                 </div>
                 <div className="text-sm font-bold text-brand-slate">
-                  Data Analyst
+                  {user?.role || profile.current_role}
                 </div>
                 <div className="text-xs text-slate-500 font-medium pt-0.5">
-                  1.5 years • Delhi NCR
+                  {user?.experience_years ?? profile.experience_years} years • {user?.location || profile.location}
                 </div>
               </div>
             </div>

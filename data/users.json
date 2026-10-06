@@ -1,0 +1,88 @@
+[
+  {
+    "id": "aarav_sharma_01",
+    "email": "aarav@skillroute.ai",
+    "password_hash": "54f29086d21cfb1b9be1bc49862e5188043d296990cfc1723773fc70d1db1190",
+    "name": "Aarav Sharma",
+    "role": "Data Analyst",
+    "experience_years": 1.5,
+    "location": "Delhi NCR, India",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+    "provider": "demo",
+    "lastLoginAt": "2026-10-06T14:16:47.333888+00:00"
+  },
+  {
+    "id": "ranjan_maiti_01",
+    "email": "ranjan@skillroute.ai",
+    "password_hash": "54f29086d21cfb1b9be1bc49862e5188043d296990cfc1723773fc70d1db1190",
+    "name": "Ranjan Maiti",
+    "role": "Data Analyst",
+    "experience_years": 1.5,
+    "location": "Delhi NCR, India",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=80",
+    "provider": "demo"
+  },
+  {
+    "id": "demo_user_01",
+    "email": "demo@skillroute.ai",
+    "password_hash": "54f29086d21cfb1b9be1bc49862e5188043d296990cfc1723773fc70d1db1190",
+    "name": "Demo Explorer",
+    "role": "Associate Analyst",
+    "experience_years": 1.0,
+    "location": "Bengaluru, India",
+    "avatar": null,
+    "provider": "demo"
+  },
+  {
+    "id": "google_4932dd37",
+    "email": "google.candidate@gmail.com",
+    "password_hash": "",
+    "name": "Google Candidate",
+    "role": "Data Analyst",
+    "experience_years": 1.5,
+    "location": "India",
+    "avatar": "https://lh3.googleusercontent.com/test-avatar",
+    "provider": "google",
+    "avatarUrl": "https://lh3.googleusercontent.com/test-avatar",
+    "emailVerified": true,
+    "lastLoginAt": "2026-10-06T14:16:47.334564+00:00"
+  },
+  {
+    "id": "google_cdbc8195",
+    "email": "ranjan.maiti@gmail.com",
+    "password_hash": "",
+    "name": "Ranjan Maiti",
+    "role": "Data Analyst",
+    "experience_years": 1.5,
+    "location": "India",
+    "avatar": null,
+    "provider": "google"
+  },
+  {
+    "id": "google_0ad5d108",
+    "email": "ranjanmaiti.tech@gmail.com",
+    "password_hash": "",
+    "name": "Ranjan Maiti",
+    "role": "Data Analyst",
+    "experience_years": 1.5,
+    "location": "India",
+    "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=Ranjan%20Maiti",
+    "provider": "google"
+  },
+  {
+    "id": "user_c2eec4e3",
+    "googleSubjectId": null,
+    "email": "test.evaluator@example.com",
+    "password_hash": "fac9ba495162234494013aea74c93991a33ffd4f2c6a59b4dcd2c5e46e266564",
+    "name": "Test Evaluator",
+    "role": "Junior Analyst",
+    "experience_years": 1.0,
+    "location": "India",
+    "avatarUrl": null,
+    "emailVerified": false,
+    "provider": "email",
+    "createdAt": "2026-10-06T14:16:47.335219+00:00",
+    "updatedAt": "2026-10-06T14:16:47.335219+00:00",
+    "lastLoginAt": "2026-10-06T14:16:47.335219+00:00"
+  }
+]

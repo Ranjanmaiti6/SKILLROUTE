@@ -24,8 +24,10 @@ import {
   GitFork,
   Sliders
 } from 'lucide-react';
+import { useAuth } from '../../lib/auth-context';
 
 export default function DashboardPage() {
+  const { user } = useAuth();
   const [profile, setProfile] = useState<UserProfile | null>(null);
   const [opportunities, setOpportunities] = useState<OccupationTransition[]>([]);
   const [whyModalData, setWhyModalData] = useState<WhyThisPathData | null>(null);
@@ -104,7 +106,7 @@ export default function DashboardPage() {
                 </span>
               </div>
               <h1 className="text-2xl sm:text-3xl font-black text-brand-navy tracking-tight mt-2">
-                GOOD MORNING, AARAV
+                GOOD MORNING, {(user?.name || profile.name).toUpperCase()}
               </h1>
               <p className="text-xs text-slate-600 mt-1 font-medium">
                 Your skill-to-opportunity transition path is computed, sequenced, and verified.
@@ -353,7 +355,7 @@ export default function DashboardPage() {
             </div>
 
             <div className="pt-3 border-t border-slate-100 flex items-center justify-between text-[11px] text-slate-500">
-              <span>Aarav Sharma • 1.5y Data Analyst</span>
+              <span>{user?.name || profile.name} • {user?.role || profile.current_role}</span>
               <Link href="/profile" className="font-bold text-brand-navy hover:underline">
                 Open Capability Constellation →
               </Link>

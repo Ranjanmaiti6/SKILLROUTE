@@ -3,6 +3,7 @@
 import React from 'react';
 import { Search, Bell, Menu, Shield, Compass, Sparkles, Command } from 'lucide-react';
 import Link from 'next/link';
+import { UserMenu } from '../auth/UserMenu';
 
 interface TopBarProps {
   onOpenMobile?: () => void;
@@ -60,16 +61,10 @@ export const TopBar: React.FC<TopBarProps> = ({ onOpenMobile, onOpenCommand }) =
           <span className="w-2 h-2 rounded-full bg-brand-saffron absolute top-1.5 right-1.5 ring-2 ring-white" />
         </button>
 
-        {/* Profile Pill */}
-        <Link
-          href="/profile"
-          className="flex items-center gap-2 pl-2 border-l border-brand-border hover:opacity-85 transition-opacity"
-        >
-          <div className="w-7 h-7 rounded-full bg-brand-navy text-white text-xs font-bold flex items-center justify-center shadow-2xs">
-            AS
-          </div>
-          <span className="text-xs font-bold text-brand-navy hidden sm:inline">Aarav Sharma</span>
-        </Link>
+        {/* Dynamic User Profile Menu */}
+        <div className="pl-2 border-l border-brand-border">
+          <UserMenu />
+        </div>
       </div>
     </header>
   );

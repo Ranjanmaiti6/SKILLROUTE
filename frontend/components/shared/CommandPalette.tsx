@@ -123,6 +123,24 @@ const PALETTE_ITEMS: ActionItem[] = [
     href: '/evidence',
     icon: Sparkles,
     badge: 'Bridge'
+  },
+  {
+    id: 'auth-login',
+    title: 'Sign In / Switch Account',
+    subtitle: 'Sign in with Google, GitHub, or demo personas',
+    category: 'Account',
+    href: '/login',
+    icon: Sparkles,
+    badge: 'Auth'
+  },
+  {
+    id: 'auth-signup',
+    title: 'Create Account',
+    subtitle: 'Register new profile on SkillRoute platform',
+    category: 'Account',
+    href: '/signup',
+    icon: Sparkles,
+    badge: 'Register'
   }
 ];
 

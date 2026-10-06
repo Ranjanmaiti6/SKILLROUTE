@@ -1,7 +1,7 @@
 from typing import Dict, Any, Optional
 from fastapi import FastAPI, HTTPException, Request
 from fastapi.middleware.cors import CORSMiddleware
-from app.api.routes import profile, opportunities, transitions, pathway, evidence, outcomes
+from app.api.routes import profile, opportunities, transitions, pathway, evidence, outcomes, auth
 from app.intelligence.path_optimizer import calculate_pathway
 from app.graph.knowledge_graph import TransitionGraphService
 from app.intelligence.explainability import PathwayExplainer
@@ -25,6 +25,7 @@ app.add_middleware(
 )
 
 # Mount Routes
+app.include_router(auth.router, prefix="/api")
 app.include_router(profile.router, prefix="/api")
 app.include_router(opportunities.router, prefix="/api")
 app.include_router(transitions.router, prefix="/api")
