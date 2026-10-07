@@ -966,7 +966,8 @@ export function runWhatIfLabLocal(
 // ASYNC API FETCHERS WITH INSTANT DETERMINISTIC FALLBACK
 // ============================================================
 
-const API_BASE = process.env.NEXT_PUBLIC_API_URL || "http://localhost:8000";
+const RAW_API_BASE = process.env.NEXT_PUBLIC_API_URL || "http://localhost:8000";
+const API_BASE = RAW_API_BASE.replace(/\/api\/?$/, "").replace(/\/$/, "");
 
 export async function fetchTransitionAnalysis(
   roleSlug: string,

@@ -28,10 +28,10 @@ class TestSkillRouteBackend(unittest.TestCase):
         opps = list_opportunities()
         self.assertTrue(len(opps) >= 4)
         slugs = [o["slug"] for o in opps]
-        self.assertIn("analytics-engineer", slugs)
         self.assertIn("data-scientist", slugs)
+        self.assertIn("data-analyst", slugs)
+        self.assertIn("data-engineer", slugs)
         self.assertIn("machine-learning-engineer", slugs)
-        self.assertIn("data-product-analyst", slugs)
 
     def test_transition_scorer(self):
         score_res = TransitionScorer.compute_score(
