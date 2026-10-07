@@ -80,22 +80,14 @@ export default function CapabilityProfilePage() {
         <div className="bg-white border border-brand-border rounded-xl p-6 shadow-xs">
           <div className="flex flex-col lg:flex-row lg:items-center justify-between gap-6 pb-6 border-b border-brand-borderLight">
             <div className="flex items-start gap-4">
-              {user?.avatar ? (
-                <img
-                  src={user.avatar}
-                  alt={user.name}
-                  className="w-14 h-14 rounded-xl object-cover ring-2 ring-slate-100 flex-shrink-0 shadow-xs"
-                />
-              ) : (
-                <div className="w-14 h-14 rounded-xl bg-brand-navy text-white font-extrabold text-xl flex items-center justify-center shadow-xs flex-shrink-0">
-                  {((user?.name || profile.name) || 'AS')
-                    .split(' ')
-                    .map((n) => n[0])
-                    .slice(0, 2)
-                    .join('')
-                    .toUpperCase()}
-                </div>
-              )}
+              <img
+                src={user?.avatar || '/default-avatar.svg'}
+                alt={user?.name || profile.name}
+                className="w-14 h-14 rounded-xl object-cover ring-2 ring-slate-100 flex-shrink-0 shadow-xs"
+                onError={(e) => {
+                  (e.currentTarget as HTMLImageElement).src = '/default-avatar.svg';
+                }}
+              />
               <div className="space-y-1">
                 <div className="flex items-center gap-2 flex-wrap">
                   <h1 className="text-2xl font-black text-brand-navy tracking-tight">

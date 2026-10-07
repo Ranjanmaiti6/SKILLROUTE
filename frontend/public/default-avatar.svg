@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
+  <defs>
+    <clipPath id="avatar-clip">
+      <circle cx="64" cy="64" r="64" />
+    </clipPath>
+    <linearGradient id="avatar-bg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#F1F5F9" />
+      <stop offset="100%" stop-color="#E2E8F0" />
+    </linearGradient>
+    <linearGradient id="avatar-silhouette" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#94A3B8" />
+      <stop offset="100%" stop-color="#64748B" />
+    </linearGradient>
+  </defs>
+  <g clip-path="url(#avatar-clip)">
+    <rect width="128" height="128" fill="url(#avatar-bg)" />
+    <!-- Head -->
+    <circle cx="64" cy="46" r="22" fill="url(#avatar-silhouette)" />
+    <!-- Torso / Shoulders -->
+    <path d="M 16 128 C 16 92, 38 80, 64 80 C 90 80, 112 92, 112 128 Z" fill="url(#avatar-silhouette)" />
+  </g>
+  <circle cx="64" cy="64" r="63" fill="none" stroke="#CBD5E1" stroke-width="2" />
+</svg>

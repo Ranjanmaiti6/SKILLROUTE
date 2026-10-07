@@ -217,24 +217,14 @@ export const Sidebar: React.FC<SidebarProps> = ({ onCloseMobile, onOpenCommand }
               onClick={onCloseMobile}
               className="flex items-center gap-2.5 min-w-0 flex-1"
             >
-              {user.avatar ? (
-                <img
-                  src={user.avatar}
-                  alt={user.name}
-                  className="w-8 h-8 rounded-full object-cover ring-1 ring-slate-200 flex-shrink-0"
-                />
-              ) : (
-                <div className="w-8 h-8 rounded-full bg-brand-navy text-white flex items-center justify-center font-bold text-xs shadow-2xs flex-shrink-0">
-                  {user.name
-                    ? user.name
-                        .split(' ')
-                        .map((n) => n[0])
-                        .slice(0, 2)
-                        .join('')
-                        .toUpperCase()
-                    : 'U'}
-                </div>
-              )}
+              <img
+                src={user.avatar || '/default-avatar.svg'}
+                alt={user.name}
+                className="w-8 h-8 rounded-full object-cover ring-1 ring-slate-200 flex-shrink-0"
+                onError={(e) => {
+                  (e.currentTarget as HTMLImageElement).src = '/default-avatar.svg';
+                }}
+              />
               <div className="flex-1 min-w-0">
                 <div className="text-xs font-bold text-brand-navy truncate">{user.name}</div>
                 <div className="text-[10px] text-brand-muted truncate">

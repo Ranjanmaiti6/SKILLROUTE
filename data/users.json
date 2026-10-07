@@ -9,7 +9,7 @@
     "location": "Delhi NCR, India",
     "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
     "provider": "demo",
-    "lastLoginAt": "2026-10-06T14:34:38.297279+00:00"
+    "lastLoginAt": "2026-10-07T02:30:28.595576+00:00"
   },
   {
     "id": "ranjan_maiti_01",
@@ -19,8 +19,11 @@
     "role": "Data Analyst",
     "experience_years": 1.5,
     "location": "Delhi NCR, India",
-    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=80",
-    "provider": "demo"
+    "avatar": "/default-avatar.svg",
+    "avatarUrl": "/default-avatar.svg",
+    "provider": "google",
+    "emailVerified": true,
+    "lastLoginAt": "2026-10-07T02:41:49.389827+00:00"
   },
   {
     "id": "demo_user_01",
@@ -45,7 +48,7 @@
     "provider": "google",
     "avatarUrl": "https://lh3.googleusercontent.com/test-avatar",
     "emailVerified": true,
-    "lastLoginAt": "2026-10-06T14:34:38.297741+00:00"
+    "lastLoginAt": "2026-10-07T02:30:28.596317+00:00"
   },
   {
     "id": "google_cdbc8195",
@@ -55,7 +58,8 @@
     "role": "Data Analyst",
     "experience_years": 1.5,
     "location": "India",
-    "avatar": null,
+    "avatar": "/default-avatar.svg",
+    "avatarUrl": "/default-avatar.svg",
     "provider": "google"
   },
   {
@@ -66,11 +70,12 @@
     "role": "Data Analyst",
     "experience_years": 1.5,
     "location": "India",
-    "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=Ranjan%20Maiti",
+    "avatar": "/default-avatar.svg",
+    "avatarUrl": "/default-avatar.svg",
     "provider": "google"
   },
   {
-    "id": "user_77597ad6",
+    "id": "user_612009ba",
     "googleSubjectId": null,
     "email": "test.evaluator@example.com",
     "password_hash": "fac9ba495162234494013aea74c93991a33ffd4f2c6a59b4dcd2c5e46e266564",
@@ -81,8 +86,8 @@
     "avatarUrl": null,
     "emailVerified": false,
     "provider": "email",
-    "createdAt": "2026-10-06T14:34:38.298143+00:00",
-    "updatedAt": "2026-10-06T14:34:38.298143+00:00",
-    "lastLoginAt": "2026-10-06T14:34:38.298143+00:00"
+    "createdAt": "2026-10-07T02:30:28.596983+00:00",
+    "updatedAt": "2026-10-07T02:30:28.596983+00:00",
+    "lastLoginAt": "2026-10-07T02:30:28.596983+00:00"
   }
 ]

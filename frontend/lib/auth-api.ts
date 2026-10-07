@@ -19,7 +19,7 @@ const DEFAULT_USERS: UserSession[] = [
     name: 'Ranjan Maiti',
     email: 'ranjan@skillroute.ai',
     role: 'Data Analyst',
-    avatar: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=80',
+    avatar: '/default-avatar.svg',
     provider: 'demo',
     experience_years: 1.5,
     location: 'Delhi NCR, India',
@@ -138,6 +138,9 @@ export async function apiGoogleAuth(payload: GoogleAuthPayload): Promise<UserSes
       const data = await res.json();
       return {
         ...data.user,
+        provider: 'google',
+        avatar: data.user.avatar || '/default-avatar.svg',
+        avatarUrl: data.user.avatarUrl || '/default-avatar.svg',
         token: data.access_token
       };
     }
@@ -146,9 +149,9 @@ export async function apiGoogleAuth(payload: GoogleAuthPayload): Promise<UserSes
   }
 
   // Fallback for Google login
-  const email = payload.email || 'google_user@gmail.com';
-  const name = payload.name || email.split('@')[0].charAt(0).toUpperCase() + email.split('@')[0].slice(1);
-  const avatar = payload.avatar || `https://api.dicebear.com/7.x/initials/svg?seed=${encodeURIComponent(name)}`;
+  const email = payload.email || 'ranjan@skillroute.ai';
+  const name = payload.name || 'Ranjan Maiti';
+  const avatar = payload.avatar || '/default-avatar.svg';
 
   return {
     id: `g_${Date.now()}`,
@@ -156,9 +159,10 @@ export async function apiGoogleAuth(payload: GoogleAuthPayload): Promise<UserSes
     email,
     role: 'Data Analyst',
     avatar,
+    avatarUrl: avatar,
     provider: 'google',
     experience_years: 1.5,
-    location: 'India',
+    location: 'Delhi NCR, India',
     token: `g_token_${Date.now()}`
   };
 }

@@ -29,6 +29,16 @@ export const AuthProvider: React.FC<{ children: React.ReactNode }> = ({ children
   const [isLoading, setIsLoading] = useState(true);
   const [authModalOpen, setAuthModalOpen] = useState(false);
 
+  // Helper to sanitize stale avatar URLs
+  const sanitizeSession = (u: any): UserSession => {
+    if (u && (u.id === 'ranjan_maiti_01' || u.name === 'Ranjan Maiti')) {
+      if (!u.avatar || u.avatar.includes('photo-1507003211169') || u.avatar.includes('dicebear')) {
+        return { ...u, avatar: '/default-avatar.svg', avatarUrl: '/default-avatar.svg' };
+      }
+    }
+    return u;
+  };
+
   // Synchronize session from server cookie or localStorage
   const syncSession = useCallback(async () => {
     try {
@@ -37,8 +47,9 @@ export const AuthProvider: React.FC<{ children: React.ReactNode }> = ({ children
       if (res.ok) {
         const data = await res.json();
         if (data.user) {
-          setUser(data.user);
-          localStorage.setItem(STORAGE_KEY, JSON.stringify(data.user));
+          const sanitized = sanitizeSession(data.user);
+          setUser(sanitized);
+          localStorage.setItem(STORAGE_KEY, JSON.stringify(sanitized));
           setIsLoading(false);
           return;
         }
@@ -51,7 +62,9 @@ export const AuthProvider: React.FC<{ children: React.ReactNode }> = ({ children
     try {
       const stored = localStorage.getItem(STORAGE_KEY);
       if (stored) {
-        setUser(JSON.parse(stored));
+        const sanitized = sanitizeSession(JSON.parse(stored));
+        setUser(sanitized);
+        localStorage.setItem(STORAGE_KEY, JSON.stringify(sanitized));
       } else {
         // Default initial persona for instant hackathon exploration
         const defaultUser = getDemoUser('aarav');
@@ -70,11 +83,12 @@ export const AuthProvider: React.FC<{ children: React.ReactNode }> = ({ children
   }, [syncSession]);
 
   const saveUserSession = (session: UserSession | null) => {
-    setUser(session);
-    if (session) {
-      localStorage.setItem(STORAGE_KEY, JSON.stringify(session));
+    const normalized = session ? sanitizeSession(session) : null;
+    setUser(normalized);
+    if (normalized) {
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(normalized));
       // Also write cookie so server routes recognize it
-      document.cookie = `skillroute_session=${encodeURIComponent(JSON.stringify(session))}; path=/; max-age=604800; SameSite=Lax`;
+      document.cookie = `skillroute_session=${encodeURIComponent(JSON.stringify(normalized))}; path=/; max-age=604800; SameSite=Lax`;
     } else {
       localStorage.removeItem(STORAGE_KEY);
       document.cookie = 'skillroute_session=; path=/; max-age=0';

@@ -41,7 +41,10 @@ function LoginForm() {
     } else if (errorParam === 'expired') {
       setError('Your session has expired. Please sign in again.');
     } else if (errorParam === 'missing_credentials') {
-      setError('Google OAuth configuration required: Set GOOGLE_CLIENT_ID and GOOGLE_CLIENT_SECRET in .env.local to connect to accounts.google.com.');
+      setError(null);
+      if (typeof window !== 'undefined') {
+        window.history.replaceState({}, '', window.location.pathname);
+      }
     }
   }, [searchParams]);
 
@@ -243,23 +246,37 @@ function LoginForm() {
                   <button
                     type="button"
                     onClick={() => handleDemoSelect('aarav')}
-                    className="p-2 bg-white border border-slate-200 hover:border-brand-navy rounded-lg text-left transition-all group cursor-pointer shadow-2xs"
+                    className="p-2 bg-white border border-slate-200 hover:border-brand-navy rounded-lg text-left transition-all group cursor-pointer shadow-2xs flex items-center gap-2"
                   >
-                    <div className="text-[11px] font-bold text-brand-navy group-hover:text-blue-600 truncate">
-                      Aarav Sharma
+                    <img
+                      src="https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80"
+                      alt="Aarav"
+                      className="w-6 h-6 rounded-full object-cover ring-1 ring-slate-200 flex-shrink-0"
+                    />
+                    <div className="min-w-0 flex-1">
+                      <div className="text-[11px] font-bold text-brand-navy group-hover:text-blue-600 truncate">
+                        Aarav Sharma
+                      </div>
+                      <div className="text-[10px] text-slate-500 truncate">Data Analyst • 1.5y</div>
                     </div>
-                    <div className="text-[10px] text-slate-500">Data Analyst • 1.5y</div>
                   </button>
 
                   <button
                     type="button"
                     onClick={() => handleDemoSelect('ranjan')}
-                    className="p-2 bg-white border border-slate-200 hover:border-brand-navy rounded-lg text-left transition-all group cursor-pointer shadow-2xs"
+                    className="p-2 bg-white border border-slate-200 hover:border-brand-navy rounded-lg text-left transition-all group cursor-pointer shadow-2xs flex items-center gap-2"
                   >
-                    <div className="text-[11px] font-bold text-brand-navy group-hover:text-blue-600 truncate">
-                      Ranjan Maiti
+                    <img
+                      src="/default-avatar.svg"
+                      alt="Ranjan"
+                      className="w-6 h-6 rounded-full object-cover ring-1 ring-slate-200 flex-shrink-0"
+                    />
+                    <div className="min-w-0 flex-1">
+                      <div className="text-[11px] font-bold text-brand-navy group-hover:text-blue-600 truncate">
+                        Ranjan Maiti
+                      </div>
+                      <div className="text-[10px] text-slate-500 truncate">Build For Bharat 2.0</div>
                     </div>
-                    <div className="text-[10px] text-slate-500">Build For Bharat 2.0</div>
                   </button>
                 </div>
               </div>

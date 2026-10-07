@@ -49,7 +49,8 @@ class AuthService:
                     "role": "Data Analyst",
                     "experience_years": 1.5,
                     "location": "Delhi NCR, India",
-                    "avatarUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=80",
+                    "avatarUrl": "/default-avatar.svg",
+                    "avatar": "/default-avatar.svg",
                     "emailVerified": True,
                     "provider": "demo",
                     "createdAt": now,
@@ -189,6 +190,7 @@ class AuthService:
                     u["googleSubjectId"] = subject_id
                 if avatar_url:
                     u["avatarUrl"] = avatar_url
+                u["provider"] = "google"
                 u["emailVerified"] = True
                 u["lastLoginAt"] = now
                 users[i] = u

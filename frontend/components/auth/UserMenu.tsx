@@ -95,17 +95,14 @@ export const UserMenu: React.FC = () => {
         onClick={() => setIsOpen(!isOpen)}
         className="flex items-center gap-2 pl-2 pr-1.5 py-1 rounded-lg hover:bg-slate-50 border border-transparent hover:border-slate-200 transition-all cursor-pointer group"
       >
-        {user.avatar ? (
-          <img
-            src={user.avatar}
-            alt={user.name}
-            className="w-7 h-7 rounded-full object-cover ring-1 ring-slate-200"
-          />
-        ) : (
-          <div className="w-7 h-7 rounded-full bg-brand-navy text-white text-xs font-bold flex items-center justify-center shadow-2xs group-hover:bg-brand-slate transition-colors">
-            {initials}
-          </div>
-        )}
+        <img
+          src={user.avatar || '/default-avatar.svg'}
+          alt={user.name}
+          className="w-7 h-7 rounded-full object-cover ring-1 ring-slate-200 flex-shrink-0"
+          onError={(e) => {
+            (e.currentTarget as HTMLImageElement).src = '/default-avatar.svg';
+          }}
+        />
         <div className="text-left hidden sm:block">
           <div className="text-xs font-bold text-brand-navy leading-tight flex items-center gap-1">
             <span>{user.name}</span>
@@ -121,14 +118,24 @@ export const UserMenu: React.FC = () => {
       {isOpen && (
         <div className="absolute right-0 mt-2 w-72 bg-white rounded-xl shadow-xl border border-slate-200 z-50 py-1 divide-y divide-slate-100 animate-fadeIn">
           {/* User Details Header */}
-          <div className="p-3.5 space-y-1 bg-slate-50/50 rounded-t-xl">
-            <div className="flex items-center justify-between">
-              <span className="text-xs font-black text-brand-navy">{user.name}</span>
-              {getProviderBadge(user.provider)}
-            </div>
-            <div className="text-[11px] text-slate-500 truncate">{user.email}</div>
-            <div className="text-[10px] text-slate-400 pt-0.5 font-medium">
-              {user.role} • {user.location || 'India'}
+          <div className="p-3.5 bg-slate-50/50 rounded-t-xl flex items-center gap-3">
+            <img
+              src={user.avatar || '/default-avatar.svg'}
+              alt={user.name}
+              className="w-9 h-9 rounded-full object-cover ring-1 ring-slate-200 flex-shrink-0"
+              onError={(e) => {
+                (e.currentTarget as HTMLImageElement).src = '/default-avatar.svg';
+              }}
+            />
+            <div className="space-y-0.5 min-w-0 flex-1">
+              <div className="flex items-center justify-between gap-1">
+                <span className="text-xs font-black text-brand-navy truncate">{user.name}</span>
+                {getProviderBadge(user.provider)}
+              </div>
+              <div className="text-[11px] text-slate-500 truncate">{user.email}</div>
+              <div className="text-[10px] text-slate-400 font-medium truncate">
+                {user.role} • {user.location || 'India'}
+              </div>
             </div>
           </div>
 
@@ -177,8 +184,15 @@ export const UserMenu: React.FC = () => {
                   : 'text-slate-600 hover:bg-slate-50'
               }`}
             >
-              <span>Aarav Sharma (Data Analyst)</span>
-              {user.id === 'aarav_sharma_01' && <Check className="w-3.5 h-3.5 text-brand-navy" />}
+              <div className="flex items-center gap-2 truncate">
+                <img
+                  src="https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80"
+                  alt="Aarav"
+                  className="w-4 h-4 rounded-full object-cover flex-shrink-0 ring-1 ring-slate-200"
+                />
+                <span className="truncate">Aarav Sharma (Data Analyst)</span>
+              </div>
+              {user.id === 'aarav_sharma_01' && <Check className="w-3.5 h-3.5 text-brand-navy flex-shrink-0" />}
             </button>
             <button
               onClick={() => {
@@ -191,8 +205,15 @@ export const UserMenu: React.FC = () => {
                   : 'text-slate-600 hover:bg-slate-50'
               }`}
             >
-              <span>Ranjan Maiti (Build for Bharat)</span>
-              {user.id === 'ranjan_maiti_01' && <Check className="w-3.5 h-3.5 text-brand-navy" />}
+              <div className="flex items-center gap-2 truncate">
+                <img
+                  src="/default-avatar.svg"
+                  alt="Ranjan"
+                  className="w-4 h-4 rounded-full object-cover flex-shrink-0 ring-1 ring-slate-200"
+                />
+                <span className="truncate">Ranjan Maiti (Build for Bharat)</span>
+              </div>
+              {user.id === 'ranjan_maiti_01' && <Check className="w-3.5 h-3.5 text-brand-navy flex-shrink-0" />}
             </button>
           </div>
 
