@@ -1,7 +1,7 @@
 from typing import Dict, Any, Optional
 from fastapi import FastAPI, HTTPException, Request
 from fastapi.middleware.cors import CORSMiddleware
-from app.api.routes import profile, opportunities, transitions, pathway, evidence, outcomes, auth, transition_intelligence_api
+from app.api.routes import profile, opportunities, transitions, pathway, evidence, outcomes, auth, transition_intelligence_api, analytics_platform
 from app.intelligence.path_optimizer import calculate_pathway
 from app.graph.knowledge_graph import TransitionGraphService
 from app.intelligence.explainability import PathwayExplainer
@@ -11,8 +11,8 @@ import os
 
 app = FastAPI(
     title="SkillRoute Transition Intelligence API",
-    description="Deterministic decision and pathway optimization engine for Build For Bharat 2.0",
-    version="1.0.0"
+    description="Deterministic decision and pathway optimization engine for Build For Bharat 2.0 & SAS Hackathon",
+    version="2.0.0"
 )
 
 # Enable CORS for Next.js frontend
@@ -34,6 +34,7 @@ app.include_router(evidence.router, prefix="/api")
 app.include_router(outcomes.router, prefix="/api")
 app.include_router(transition_intelligence_api.router, prefix="/api")
 app.include_router(transition_intelligence_api.router, prefix="/api/intelligence")
+app.include_router(analytics_platform.router, prefix="/api")
 
 graph_service = TransitionGraphService()
 

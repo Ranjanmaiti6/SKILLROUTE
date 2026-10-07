@@ -29,42 +29,42 @@ export default function LandingPage() {
               <div className="font-bold text-base tracking-tight text-brand-navy flex items-center gap-2">
                 <span>SKILLROUTE</span>
                 <span className="text-[10px] px-1.5 py-0.5 rounded bg-amber-100 text-amber-900 font-semibold uppercase">
-                  Build For Bharat 2.0
+                  SAS CU Hackathon 2026
                 </span>
               </div>
               <div className="text-[10px] text-brand-muted tracking-wider uppercase font-medium">
-                Team ELITECORE
+                SAS Institute & Chandigarh University
               </div>
             </div>
           </div>
 
           <nav className="hidden md:flex items-center gap-6 text-xs font-semibold text-slate-600">
-            <Link href="#paradigm" className="hover:text-brand-navy transition-colors">
-              The Paradigm
+            <Link href="/dashboard" className="hover:text-brand-navy transition-colors">
+              Market Overview
             </Link>
-            <Link href="#principles" className="hover:text-brand-navy transition-colors">
-              Principles
+            <Link href="/jds-simulator" className="hover:text-brand-navy transition-colors">
+              JDS Simulator (Dataset 3)
             </Link>
-            <Link href="#pipeline" className="hover:text-brand-navy transition-colors">
-              Reasoning Engine
+            <Link href="/sds-diagnostic" className="hover:text-brand-navy transition-colors">
+              SDS Diagnostic (Dataset 4)
             </Link>
-            <Link href="#ecosystem" className="hover:text-brand-navy transition-colors">
-              Ecosystem
+            <Link href="/evidence" className="hover:text-brand-navy transition-colors">
+              Research & Evidence
             </Link>
           </nav>
 
           <div className="flex items-center gap-2 sm:gap-3">
             <Link
-              href="/login"
+              href="/evidence"
               className="px-3 py-2 text-xs font-semibold text-slate-700 hover:text-brand-navy hover:bg-slate-100 rounded-lg transition-colors"
             >
-              Sign In
+              Audit Evidence
             </Link>
             <Link
               href="/dashboard"
               className="px-4 py-2 text-xs font-semibold bg-brand-navy text-white rounded-lg hover:bg-brand-slate transition-all shadow-xs flex items-center gap-1.5"
             >
-              <span>Explore My Path</span>
+              <span>Explore Platform</span>
               <ArrowRight className="w-3.5 h-3.5" />
             </Link>
           </div>
@@ -75,18 +75,38 @@ export default function LandingPage() {
       <section className="pt-16 pb-12 px-6 max-w-7xl mx-auto w-full text-center">
         <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-slate-100 border border-brand-border text-xs font-medium text-brand-navy mb-6">
           <Award className="w-3.5 h-3.5 text-brand-saffron" />
-          <span>Skill-to-Opportunity Transition Intelligence Engine</span>
+          <span>Official SAS CU Hackathon Platform • Ingesting All 4 Official Datasets</span>
         </div>
 
         <h1 className="text-4xl sm:text-5xl md:text-6xl font-extrabold text-brand-navy tracking-tight max-w-4xl mx-auto leading-tight">
-          From Skills Today <br />
-          <span className="text-brand-slate">to Opportunities Tomorrow.</span>
+          Data Science Career, Skill & <br />
+          <span className="text-brand-slate">Leadership Intelligence Platform.</span>
         </h1>
 
-        <p className="mt-6 text-base sm:text-lg text-slate-600 max-w-2xl mx-auto leading-relaxed">
-          SkillRoute turns your current capabilities into an evidence-backed transition plan —
-          showing what to learn next, why it matters, and which opportunities it can unlock.
+        <p className="mt-6 text-base sm:text-lg text-slate-600 max-w-3xl mx-auto leading-relaxed">
+          Built on 17,743 verified job market observations, junior practitioner skill evaluations, and senior executive personality psychometrics.
+          SkillRoute provides continuous salary intelligence, empirical promotion simulation, and consultative leadership diagnosis.
         </p>
+
+        {/* 4 Dataset Badges Bar */}
+        <div className="mt-8 flex flex-wrap items-center justify-center gap-2 max-w-4xl mx-auto">
+          <Link href="/dashboard" className="px-3 py-1.5 rounded-lg bg-white border border-slate-200 hover:border-brand-navy transition-all text-xs font-semibold text-slate-700 flex items-center gap-1.5 shadow-2xs">
+            <span className="w-2 h-2 rounded-full bg-blue-500" />
+            <span>15,841 Analytics Jobs</span>
+          </Link>
+          <Link href="/dashboard" className="px-3 py-1.5 rounded-lg bg-white border border-slate-200 hover:border-brand-navy transition-all text-xs font-semibold text-slate-700 flex items-center gap-1.5 shadow-2xs">
+            <span className="w-2 h-2 rounded-full bg-indigo-500" />
+            <span>1,602 DS Company Benchmarks</span>
+          </Link>
+          <Link href="/jds-simulator" className="px-3 py-1.5 rounded-lg bg-emerald-50 border border-emerald-200 hover:border-emerald-400 transition-all text-xs font-bold text-emerald-800 flex items-center gap-1.5 shadow-2xs">
+            <span className="w-2 h-2 rounded-full bg-emerald-600" />
+            <span>139 Junior DS Traits Simulator</span>
+          </Link>
+          <Link href="/sds-diagnostic" className="px-3 py-1.5 rounded-lg bg-amber-50 border border-amber-200 hover:border-amber-400 transition-all text-xs font-bold text-amber-800 flex items-center gap-1.5 shadow-2xs">
+            <span className="w-2 h-2 rounded-full bg-amber-600" />
+            <span>161 Senior DS Leadership Diagnostic</span>
+          </Link>
+        </div>
 
         {/* Primary CTAs */}
         <div className="mt-8 flex flex-col sm:flex-row items-center justify-center gap-3">
@@ -94,24 +114,30 @@ export default function LandingPage() {
             href="/dashboard"
             className="w-full sm:w-auto px-7 py-3.5 text-sm font-bold bg-brand-navy text-white rounded-lg hover:bg-slate-800 transition-all shadow-sm flex items-center justify-center gap-2 group"
           >
-            <span>BUILD MY PATH</span>
+            <span>EXPLORE MARKET OVERVIEW</span>
             <ArrowRight className="w-4 h-4 text-brand-saffron group-hover:translate-x-0.5 transition-transform" />
           </Link>
           <Link
-            href="/profile"
-            className="w-full sm:w-auto px-6 py-3.5 text-sm font-semibold bg-white text-brand-navy border border-brand-border rounded-lg hover:bg-slate-50 transition-all shadow-xs"
+            href="/jds-simulator"
+            className="w-full sm:w-auto px-6 py-3.5 text-sm font-semibold bg-white text-emerald-800 border border-emerald-300 rounded-lg hover:bg-emerald-50 transition-all shadow-xs"
           >
-            View Demo Profile (Aarav Sharma)
+            Launch JDS Hike Simulator
+          </Link>
+          <Link
+            href="/sds-diagnostic"
+            className="w-full sm:w-auto px-6 py-3.5 text-sm font-semibold bg-white text-amber-900 border border-amber-300 rounded-lg hover:bg-amber-50 transition-all shadow-xs"
+          >
+            Launch SDS Leadership Diagnostic
           </Link>
         </div>
 
         {/* Subtle Process Line */}
-        <div className="mt-12 flex items-center justify-center gap-2 sm:gap-3 text-[11px] sm:text-xs font-semibold tracking-wider text-slate-500 uppercase">
-          <span>Current Capability</span>
+        <div className="mt-10 flex items-center justify-center gap-2 sm:gap-3 text-[11px] sm:text-xs font-semibold tracking-wider text-slate-500 uppercase">
+          <span>Market Salary Demand</span>
           <span className="text-slate-300">→</span>
-          <span>Transition Graph</span>
+          <span>Junior Technical Competency</span>
           <span className="text-slate-300">→</span>
-          <span className="text-brand-navy font-bold">Opportunity</span>
+          <span className="text-brand-navy font-bold">Senior Consultative Leadership</span>
         </div>
       </section>
 

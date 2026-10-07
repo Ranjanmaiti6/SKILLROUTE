@@ -1,200 +1,564 @@
 {
   "occupations": [
     {
-      "id": "analytics-engineer",
-      "slug": "analytics-engineer",
-      "title": "Analytics Engineer",
-      "category": "Modern Data Stack & Engineering",
+      "id": "data-scientist",
+      "slug": "data-scientist",
+      "title": "Data Scientist",
+      "category": "Core Data Science & Predictive Analytics",
+      "transition_accessibility": "High",
+      "accessibility_score": 82,
+      "skill_overlap_percentage": 72,
+      "prerequisite_coverage": "6 / 8",
+      "prerequisite_gap_level": "Medium",
+      "market_signal": {
+        "trend": "High Demand",
+        "direction": "up",
+        "regional_demand": "Strong concentration across Bengaluru, Mumbai, Gurgaon, Hyderabad (9051 vacancies represented)",
+        "confidence": "High (Empirical Benchmark)",
+        "freshness": "2024-25 Industry Dataset",
+        "sources": [
+          "Analytics Jobs.csv (15,841)",
+          "DataScience Jobs.csv (1,602)"
+        ]
+      },
+      "estimated_learning_hours": 140,
+      "experience_gap": "2 yrs benchmark requirement",
+      "primary_missing_skills": [
+        {
+          "id": "skill_data_analysis",
+          "name": "Data Analysis",
+          "effort_hrs": 24,
+          "difficulty": "Medium"
+        },
+        {
+          "id": "skill_data_science",
+          "name": "Data Science",
+          "effort_hrs": 30,
+          "difficulty": "Medium"
+        },
+        {
+          "id": "skill_deep_learning",
+          "name": "Deep Learning",
+          "effort_hrs": 36,
+          "difficulty": "Hard"
+        },
+        {
+          "id": "skill_sql",
+          "name": "SQL",
+          "effort_hrs": 42,
+          "difficulty": "Hard"
+        }
+      ],
+      "transferable_strengths": [
+        "Empirical overlap in Machine Learning across job postings",
+        "Direct demand alignment in Python for Data Scientist",
+        "Market footprint supported by 8 benchmark hiring enterprises"
+      ],
+      "rationale": "Grounded on 9051 vacancies across 8 benchmark companies. Median entry threshold is 2 years with typical salary range \u20b92.0L - \u20b974.5L (Avg \u20b913.5L). Demanded by leading recruiters including ['TCS', 'Accenture', 'IBM']."
+    },
+    {
+      "id": "data-analyst",
+      "slug": "data-analyst",
+      "title": "Data Analyst",
+      "category": "Business Intelligence & Exploratory Analysis",
+      "transition_accessibility": "High",
+      "accessibility_score": 88,
+      "skill_overlap_percentage": 78,
+      "prerequisite_coverage": "6 / 8",
+      "prerequisite_gap_level": "Low",
+      "market_signal": {
+        "trend": "High Demand",
+        "direction": "up",
+        "regional_demand": "Strong concentration across Bengaluru, Mumbai, Gurgaon, Hyderabad (18095 vacancies represented)",
+        "confidence": "High (Empirical Benchmark)",
+        "freshness": "2024-25 Industry Dataset",
+        "sources": [
+          "Analytics Jobs.csv (15,841)",
+          "DataScience Jobs.csv (1,602)"
+        ]
+      },
+      "estimated_learning_hours": 120,
+      "experience_gap": "None",
+      "primary_missing_skills": [
+        {
+          "id": "skill_advanced_excel",
+          "name": "Advanced Excel",
+          "effort_hrs": 24,
+          "difficulty": "Medium"
+        },
+        {
+          "id": "skill_sas",
+          "name": "SAS",
+          "effort_hrs": 30,
+          "difficulty": "Medium"
+        },
+        {
+          "id": "skill_python",
+          "name": "Python",
+          "effort_hrs": 36,
+          "difficulty": "Hard"
+        },
+        {
+          "id": "skill_data_mining",
+          "name": "Data Mining",
+          "effort_hrs": 42,
+          "difficulty": "Hard"
+        }
+      ],
+      "transferable_strengths": [
+        "Empirical overlap in Data Analysis across job postings",
+        "Direct demand alignment in SQL for Data Analyst",
+        "Market footprint supported by 8 benchmark hiring enterprises"
+      ],
+      "rationale": "Grounded on 18095 vacancies across 8 benchmark companies. Median entry threshold is 1 years with typical salary range \u20b90.2L - \u20b950.0L (Avg \u20b95.7L). Demanded by leading recruiters including ['TCS', 'Cognizant', 'Accenture']."
+    },
+    {
+      "id": "data-engineer",
+      "slug": "data-engineer",
+      "title": "Data Engineer",
+      "category": "Data Architecture & Pipeline Infrastructure",
+      "transition_accessibility": "High",
+      "accessibility_score": 88,
+      "skill_overlap_percentage": 65,
+      "prerequisite_coverage": "6 / 8",
+      "prerequisite_gap_level": "Low",
+      "market_signal": {
+        "trend": "High Demand",
+        "direction": "up",
+        "regional_demand": "Strong concentration across Bengaluru, Mumbai, Gurgaon, Hyderabad (8044 vacancies represented)",
+        "confidence": "High (Empirical Benchmark)",
+        "freshness": "2024-25 Industry Dataset",
+        "sources": [
+          "Analytics Jobs.csv (15,841)",
+          "DataScience Jobs.csv (1,602)"
+        ]
+      },
+      "estimated_learning_hours": 120,
+      "experience_gap": "None",
+      "primary_missing_skills": [
+        {
+          "id": "skill_apache_spark",
+          "name": "Apache Spark",
+          "effort_hrs": 24,
+          "difficulty": "Medium"
+        },
+        {
+          "id": "skill_big_data",
+          "name": "Big Data",
+          "effort_hrs": 30,
+          "difficulty": "Medium"
+        },
+        {
+          "id": "skill_python",
+          "name": "Python",
+          "effort_hrs": 36,
+          "difficulty": "Hard"
+        },
+        {
+          "id": "skill_java",
+          "name": "Java",
+          "effort_hrs": 42,
+          "difficulty": "Hard"
+        }
+      ],
+      "transferable_strengths": [
+        "Empirical overlap in SQL across job postings",
+        "Direct demand alignment in Big Data (Hadoop) for Data Engineer",
+        "Market footprint supported by 8 benchmark hiring enterprises"
+      ],
+      "rationale": "Grounded on 8044 vacancies across 8 benchmark companies. Median entry threshold is 1 years with typical salary range \u20b91.1L - \u20b993.5L (Avg \u20b911.8L). Demanded by leading recruiters including ['TCS', 'IBM', 'L&T Infotech']."
+    },
+    {
+      "id": "machine-learning-engineer",
+      "slug": "machine-learning-engineer",
+      "title": "Machine Learning Engineer",
+      "category": "Applied ML Systems & Production AI",
+      "transition_accessibility": "High",
+      "accessibility_score": 88,
+      "skill_overlap_percentage": 65,
+      "prerequisite_coverage": "6 / 8",
+      "prerequisite_gap_level": "Low",
+      "market_signal": {
+        "trend": "High Demand",
+        "direction": "up",
+        "regional_demand": "Strong concentration across Bengaluru, Mumbai, Gurgaon, Hyderabad (964 vacancies represented)",
+        "confidence": "High (Empirical Benchmark)",
+        "freshness": "2024-25 Industry Dataset",
+        "sources": [
+          "Analytics Jobs.csv (15,841)",
+          "DataScience Jobs.csv (1,602)"
+        ]
+      },
+      "estimated_learning_hours": 120,
+      "experience_gap": "None",
+      "primary_missing_skills": [
+        {
+          "id": "skill_data_analysis",
+          "name": "Data Analysis",
+          "effort_hrs": 24,
+          "difficulty": "Medium"
+        },
+        {
+          "id": "skill_natural_language_processing",
+          "name": "Natural Language Processing",
+          "effort_hrs": 30,
+          "difficulty": "Medium"
+        },
+        {
+          "id": "skill_deep_learning",
+          "name": "Deep Learning",
+          "effort_hrs": 36,
+          "difficulty": "Hard"
+        },
+        {
+          "id": "skill_data_mining",
+          "name": "Data Mining",
+          "effort_hrs": 42,
+          "difficulty": "Hard"
+        }
+      ],
+      "transferable_strengths": [
+        "Empirical overlap in Machine Learning across job postings",
+        "Direct demand alignment in Python for Machine Learning Engineer",
+        "Market footprint supported by 8 benchmark hiring enterprises"
+      ],
+      "rationale": "Grounded on 964 vacancies across 8 benchmark companies. Median entry threshold is 1 years with typical salary range \u20b92.0L - \u20b940.0L (Avg \u20b99.9L). Demanded by leading recruiters including ['TCS', 'Quantiphi Analytics Solutions', 'Accenture']."
+    },
+    {
+      "id": "business-analyst",
+      "slug": "business-analyst",
+      "title": "Business Analyst",
+      "category": "Domain Strategy & Process Intelligence",
       "transition_accessibility": "High",
       "accessibility_score": 82,
       "skill_overlap_percentage": 78,
       "prerequisite_coverage": "6 / 8",
       "prerequisite_gap_level": "Medium",
-      "requiredSkills": [
-        "sql",
-        "python",
-        "data-modeling",
-        "dbt",
-        "cloud-warehousing",
-        "cicd-data"
-      ],
-      "demoSignals": {
-        "transitionFit": 82,
-        "accessibility": "High",
-        "skillGap": "Medium",
-        "estimatedEffort": "120 hrs",
-        "marketSignal": "Strong",
-        "confidence": "Medium-High",
-        "disclaimer": "Prototype signals calibrated on ESCO 1.2.1 / O*NET 31.0"
-      },
-      "market_signal": {
-        "trend": "Strong",
-        "direction": "up",
-        "regional_demand": "High across Delhi NCR, Bengaluru, Hyderabad modern data teams",
-        "confidence": "Medium-High",
-        "freshness": "Recent (Q3 2026)",
-        "sources": ["ESCO 2512.3", "O*NET 15-2051.02", "NCS Tech Hubs", "WEF Future of Jobs 2025"]
-      },
-      "estimated_learning_hours": 120,
-      "experience_gap": "Low",
-      "primary_missing_skills": [
-        { "id": "skill_data_modeling", "name": "Dimensional Data Modeling", "effort_hrs": 20, "difficulty": "Medium" },
-        { "id": "skill_dbt", "name": "dbt (Data Build Tool)", "effort_hrs": 24, "difficulty": "Medium" },
-        { "id": "skill_warehousing", "name": "Cloud Data Warehousing", "effort_hrs": 20, "difficulty": "Medium" },
-        { "id": "skill_cicd_git", "name": "Version Control & Data CI/CD", "effort_hrs": 16, "difficulty": "Low" }
-      ],
-      "transferable_strengths": [
-        "Advanced SQL querying & window functions",
-        "Python data manipulation with Pandas",
-        "Business metric definition from Power BI reports",
-        "Translating stakeholder business needs into data schemas"
-      ],
-      "rationale": "High capability overlap with your daily analytical tasks. Your existing SQL and Python fluency substantially reduce transition distance. The primary gap is modern analytics engineering workflow: dimensional data modeling, dbt transformation layers, and production cloud data warehouses."
-    },
-    {
-      "id": "data-product-analyst",
-      "slug": "data-product-analyst",
-      "title": "Data Product Analyst",
-      "category": "Product Analytics & Growth",
-      "transition_accessibility": "High",
-      "accessibility_score": 81,
-      "skill_overlap_percentage": 82,
-      "prerequisite_coverage": "7 / 8",
-      "prerequisite_gap_level": "Low",
-      "requiredSkills": [
-        "sql",
-        "python",
-        "data-analysis",
-        "statistics",
-        "product-analytics"
-      ],
-      "demoSignals": {
-        "transitionFit": 81,
-        "accessibility": "High",
-        "skillGap": "Low",
-        "estimatedEffort": "80 hrs",
-        "marketSignal": "Growing",
-        "confidence": "High",
-        "disclaimer": "Prototype signals calibrated on ESCO 1.2.1 / O*NET 31.0"
-      },
-      "market_signal": {
-        "trend": "Growing",
-        "direction": "up",
-        "regional_demand": "High across Indian fintech, e-commerce, SaaS",
-        "confidence": "High",
-        "freshness": "Recent (Q3 2026)",
-        "sources": ["O*NET 15-2051.01", "NCS Product Ecosystem", "WEF 2025"]
-      },
-      "estimated_learning_hours": 80,
-      "experience_gap": "Low",
-      "primary_missing_skills": [
-        { "id": "skill_product_analytics", "name": "Product Instrumentation & Funnels (Mixpanel/Amplitude)", "effort_hrs": 25, "difficulty": "Medium" },
-        { "id": "skill_ab_testing", "name": "Experimental Design & A/B Testing at Scale", "effort_hrs": 25, "difficulty": "Medium" },
-        { "id": "skill_user_cohorting", "name": "Retention Cohort Modeling", "effort_hrs": 15, "difficulty": "Low" }
-      ],
-      "transferable_strengths": [
-        "Customer churn cohort analysis",
-        "Advanced Excel & SQL data aggregation",
-        "Executive KPI reporting & storytelling"
-      ],
-      "rationale": "High capability overlap with your daily analytical tasks. Requires augmenting your descriptive reporting background with user-behavior telemetry and rigorous causal A/B testing methodologies."
-    },
-    {
-      "id": "data-scientist",
-      "slug": "data-scientist",
-      "title": "Data Scientist",
-      "category": "Predictive Modeling & Statistical Inference",
-      "transition_accessibility": "Medium",
-      "accessibility_score": 68,
-      "skill_overlap_percentage": 64,
-      "prerequisite_coverage": "5 / 8",
-      "prerequisite_gap_level": "Medium",
-      "requiredSkills": [
-        "python",
-        "sql",
-        "statistics",
-        "advanced-ml",
-        "data-modeling"
-      ],
-      "demoSignals": {
-        "transitionFit": 68,
-        "accessibility": "Medium",
-        "skillGap": "Medium",
-        "estimatedEffort": "160 hrs",
-        "marketSignal": "Stable",
-        "confidence": "High",
-        "disclaimer": "Prototype signals calibrated on ESCO 1.2.1 / O*NET 31.0"
-      },
-      "market_signal": {
-        "trend": "Stable",
-        "direction": "stable",
-        "regional_demand": "Consistent across mature engineering centers",
-        "confidence": "High",
-        "freshness": "Recent (Q3 2026)",
-        "sources": ["ESCO 2511.2", "O*NET 15-2051.00", "AISHE / PLFS Tech Indicators"]
-      },
-      "estimated_learning_hours": 160,
-      "experience_gap": "Medium",
-      "primary_missing_skills": [
-        { "id": "skill_advanced_ml", "name": "Supervised & Unsupervised Machine Learning", "effort_hrs": 45, "difficulty": "High" },
-        { "id": "skill_inferential_stats", "name": "Rigorous Inferential & Bayesian Statistics", "effort_hrs": 35, "difficulty": "High" },
-        { "id": "skill_feature_eng", "name": "Feature Engineering & Model Validation", "effort_hrs": 25, "difficulty": "Medium" }
-      ],
-      "transferable_strengths": [
-        "Python scripting & exploratory data analysis",
-        "Applied statistics & hypothesis testing experience",
-        "Revenue forecasting regression experience"
-      ],
-      "rationale": "A viable mid-term pathway. You possess foundational statistical literacy and Python fluency, but need rigorous mathematical depth in statistical learning theory and end-to-end model evaluation before competing for senior data science roles."
-    },
-    {
-      "id": "machine-learning-engineer",
-      "slug": "machine-learning-engineer",
-      "title": "ML Engineer",
-      "category": "Applied AI Systems & Infrastructure",
-      "transition_accessibility": "Lower",
-      "accessibility_score": 51,
-      "skill_overlap_percentage": 49,
-      "prerequisite_coverage": "3 / 8",
-      "prerequisite_gap_level": "High",
-      "requiredSkills": [
-        "python",
-        "advanced-ml",
-        "mlops",
-        "distributed-systems",
-        "deep-learning"
-      ],
-      "demoSignals": {
-        "transitionFit": 51,
-        "accessibility": "Lower",
-        "skillGap": "High",
-        "estimatedEffort": "240 hrs",
-        "marketSignal": "High Demand",
-        "confidence": "Medium",
-        "disclaimer": "Prototype signals calibrated on ESCO 1.2.1 / O*NET 31.0"
-      },
       "market_signal": {
         "trend": "High Demand",
         "direction": "up",
-        "regional_demand": "High demand for experienced engineers; restrictive junior intake",
-        "confidence": "Medium",
-        "freshness": "Recent (Q3 2026)",
-        "sources": ["O*NET 15-1252.00", "WEF 2025 Emerging Tech", "NCS Tech Hubs"]
+        "regional_demand": "Strong concentration across Bengaluru, Mumbai, Gurgaon, Hyderabad (32843 vacancies represented)",
+        "confidence": "High (Empirical Benchmark)",
+        "freshness": "2024-25 Industry Dataset",
+        "sources": [
+          "Analytics Jobs.csv (15,841)",
+          "DataScience Jobs.csv (1,602)"
+        ]
       },
-      "estimated_learning_hours": 240,
-      "experience_gap": "High",
+      "estimated_learning_hours": 140,
+      "experience_gap": "2 yrs benchmark requirement",
       "primary_missing_skills": [
-        { "id": "skill_software_arch", "name": "Software Engineering Principles & OOP in Python", "effort_hrs": 50, "difficulty": "High" },
-        { "id": "skill_mlops", "name": "MLOps (Docker, Kubernetes, MLflow, CI/CD)", "effort_hrs": 60, "difficulty": "High" },
-        { "id": "skill_distributed_compute", "name": "Distributed Data Processing (PySpark/Ray)", "effort_hrs": 40, "difficulty": "High" },
-        { "id": "skill_deep_learning", "name": "Deep Learning Architectures (PyTorch/Transformers)", "effort_hrs": 40, "difficulty": "High" }
+        {
+          "id": "skill_business_analyst",
+          "name": "Business Analyst",
+          "effort_hrs": 24,
+          "difficulty": "Medium"
+        },
+        {
+          "id": "skill_sql",
+          "name": "SQL",
+          "effort_hrs": 30,
+          "difficulty": "Medium"
+        },
+        {
+          "id": "skill_advanced_excel",
+          "name": "Advanced Excel",
+          "effort_hrs": 36,
+          "difficulty": "Hard"
+        },
+        {
+          "id": "skill_project_management",
+          "name": "Project Management",
+          "effort_hrs": 42,
+          "difficulty": "Hard"
+        }
       ],
       "transferable_strengths": [
-        "Python programming baseline",
-        "SQL database access",
-        "Analytical intuition on data drift"
+        "Empirical overlap in Business Analysis across job postings",
+        "Direct demand alignment in Data Analysis for Business Analyst",
+        "Market footprint supported by 8 benchmark hiring enterprises"
       ],
-      "rationale": "High prerequisite gap. Current capabilities provide an initial Python footing, but lack the distributed systems, container orchestration, and production engineering rigor required for MLOps and infrastructure engineering."
+      "rationale": "Grounded on 32843 vacancies across 8 benchmark companies. Median entry threshold is 2 years with typical salary range \u20b91.2L - \u20b930.0L (Avg \u20b98.9L). Demanded by leading recruiters including ['TCS', 'Accenture', 'Genpact']."
+    },
+    {
+      "id": "senior-data-scientist",
+      "slug": "senior-data-scientist",
+      "title": "Senior Data Scientist",
+      "category": "Advanced AI Research & Technical Leadership",
+      "transition_accessibility": "Medium-High",
+      "accessibility_score": 74,
+      "skill_overlap_percentage": 72,
+      "prerequisite_coverage": "5 / 8",
+      "prerequisite_gap_level": "Medium",
+      "market_signal": {
+        "trend": "High Demand",
+        "direction": "up",
+        "regional_demand": "Strong concentration across Bengaluru, Mumbai, Gurgaon, Hyderabad (2129 vacancies represented)",
+        "confidence": "High (Empirical Benchmark)",
+        "freshness": "2024-25 Industry Dataset",
+        "sources": [
+          "Analytics Jobs.csv (15,841)",
+          "DataScience Jobs.csv (1,602)"
+        ]
+      },
+      "estimated_learning_hours": 180,
+      "experience_gap": "4 yrs benchmark requirement",
+      "primary_missing_skills": [
+        {
+          "id": "skill_data_science",
+          "name": "Data Science",
+          "effort_hrs": 24,
+          "difficulty": "Medium"
+        },
+        {
+          "id": "skill_data_analysis",
+          "name": "Data Analysis",
+          "effort_hrs": 30,
+          "difficulty": "Medium"
+        },
+        {
+          "id": "skill_sql",
+          "name": "SQL",
+          "effort_hrs": 36,
+          "difficulty": "Hard"
+        },
+        {
+          "id": "skill_deep_learning",
+          "name": "Deep Learning",
+          "effort_hrs": 42,
+          "difficulty": "Hard"
+        }
+      ],
+      "transferable_strengths": [
+        "Empirical overlap in Machine Learning across job postings",
+        "Direct demand alignment in Python for Senior Data Scientist",
+        "Market footprint supported by 8 benchmark hiring enterprises"
+      ],
+      "rationale": "Grounded on 2129 vacancies across 8 benchmark companies. Median entry threshold is 4 years with typical salary range \u20b91.0L - \u20b9100.0L (Avg \u20b922.3L). Demanded by leading recruiters including ['Accenture', 'TCS', 'Cognizant']."
+    },
+    {
+      "id": "senior-data-analyst",
+      "slug": "senior-data-analyst",
+      "title": "Senior Data Analyst",
+      "category": "Strategic Analytics & Executive Storytelling",
+      "transition_accessibility": "Medium-High",
+      "accessibility_score": 74,
+      "skill_overlap_percentage": 78,
+      "prerequisite_coverage": "5 / 8",
+      "prerequisite_gap_level": "Medium",
+      "market_signal": {
+        "trend": "High Demand",
+        "direction": "up",
+        "regional_demand": "Strong concentration across Bengaluru, Mumbai, Gurgaon, Hyderabad (3825 vacancies represented)",
+        "confidence": "High (Empirical Benchmark)",
+        "freshness": "2024-25 Industry Dataset",
+        "sources": [
+          "Analytics Jobs.csv (15,841)",
+          "DataScience Jobs.csv (1,602)"
+        ]
+      },
+      "estimated_learning_hours": 160,
+      "experience_gap": "3 yrs benchmark requirement",
+      "primary_missing_skills": [
+        {
+          "id": "skill_advanced_excel",
+          "name": "Advanced Excel",
+          "effort_hrs": 24,
+          "difficulty": "Medium"
+        },
+        {
+          "id": "skill_spss",
+          "name": "Spss",
+          "effort_hrs": 30,
+          "difficulty": "Medium"
+        },
+        {
+          "id": "skill_python",
+          "name": "Python",
+          "effort_hrs": 36,
+          "difficulty": "Hard"
+        },
+        {
+          "id": "skill_data_visualization",
+          "name": "Data Visualization",
+          "effort_hrs": 42,
+          "difficulty": "Hard"
+        }
+      ],
+      "transferable_strengths": [
+        "Empirical overlap in Data Analysis across job postings",
+        "Direct demand alignment in SAS for Senior Data Analyst",
+        "Market footprint supported by 8 benchmark hiring enterprises"
+      ],
+      "rationale": "Grounded on 3825 vacancies across 8 benchmark companies. Median entry threshold is 3 years with typical salary range \u20b91.4L - \u20b940.0L (Avg \u20b99.6L). Demanded by leading recruiters including ['Accenture', 'Capgemini', 'TCS']."
+    },
+    {
+      "id": "senior-data-engineer",
+      "slug": "senior-data-engineer",
+      "title": "Senior Data Engineer",
+      "category": "Distributed Systems & Cloud Data Platforms",
+      "transition_accessibility": "Medium-High",
+      "accessibility_score": 74,
+      "skill_overlap_percentage": 65,
+      "prerequisite_coverage": "5 / 8",
+      "prerequisite_gap_level": "Medium",
+      "market_signal": {
+        "trend": "High Demand",
+        "direction": "up",
+        "regional_demand": "Strong concentration across Bengaluru, Mumbai, Gurgaon, Hyderabad (3411 vacancies represented)",
+        "confidence": "High (Empirical Benchmark)",
+        "freshness": "2024-25 Industry Dataset",
+        "sources": [
+          "Analytics Jobs.csv (15,841)",
+          "DataScience Jobs.csv (1,602)"
+        ]
+      },
+      "estimated_learning_hours": 180,
+      "experience_gap": "4 yrs benchmark requirement",
+      "primary_missing_skills": [
+        {
+          "id": "skill_ssis",
+          "name": "Ssis",
+          "effort_hrs": 24,
+          "difficulty": "Medium"
+        },
+        {
+          "id": "skill_data_modeling...",
+          "name": "Data Modeling...",
+          "effort_hrs": 30,
+          "difficulty": "Medium"
+        },
+        {
+          "id": "skill_big_data_(hadoop)",
+          "name": "Big Data (Hadoop)",
+          "effort_hrs": 36,
+          "difficulty": "Hard"
+        },
+        {
+          "id": "skill_data_warehousing",
+          "name": "Data Warehousing",
+          "effort_hrs": 42,
+          "difficulty": "Hard"
+        }
+      ],
+      "transferable_strengths": [
+        "Empirical overlap in SQL across job postings",
+        "Direct demand alignment in ETL & Data Pipelines for Senior Data Engineer",
+        "Market footprint supported by 8 benchmark hiring enterprises"
+      ],
+      "rationale": "Grounded on 3411 vacancies across 8 benchmark companies. Median entry threshold is 4 years with typical salary range \u20b92.5L - \u20b994.0L (Avg \u20b919.0L). Demanded by leading recruiters including ['L&T Infotech', 'Quantiphi Analytics Solutions', 'IBM']."
+    },
+    {
+      "id": "senior-business-analyst",
+      "slug": "senior-business-analyst",
+      "title": "Senior Business Analyst",
+      "category": "Enterprise Transformation & Decision Modeling",
+      "transition_accessibility": "Medium-High",
+      "accessibility_score": 74,
+      "skill_overlap_percentage": 78,
+      "prerequisite_coverage": "5 / 8",
+      "prerequisite_gap_level": "Medium",
+      "market_signal": {
+        "trend": "High Demand",
+        "direction": "up",
+        "regional_demand": "Strong concentration across Bengaluru, Mumbai, Gurgaon, Hyderabad (14115 vacancies represented)",
+        "confidence": "High (Empirical Benchmark)",
+        "freshness": "2024-25 Industry Dataset",
+        "sources": [
+          "Analytics Jobs.csv (15,841)",
+          "DataScience Jobs.csv (1,602)"
+        ]
+      },
+      "estimated_learning_hours": 180,
+      "experience_gap": "4 yrs benchmark requirement",
+      "primary_missing_skills": [
+        {
+          "id": "skill_sql",
+          "name": "SQL",
+          "effort_hrs": 24,
+          "difficulty": "Medium"
+        },
+        {
+          "id": "skill_business_analysis...",
+          "name": "Business Analysis...",
+          "effort_hrs": 30,
+          "difficulty": "Medium"
+        },
+        {
+          "id": "skill_advanced_excel",
+          "name": "Advanced Excel",
+          "effort_hrs": 36,
+          "difficulty": "Hard"
+        },
+        {
+          "id": "skill_linear_regression",
+          "name": "Linear Regression",
+          "effort_hrs": 42,
+          "difficulty": "Hard"
+        }
+      ],
+      "transferable_strengths": [
+        "Empirical overlap in Business Analysis across job postings",
+        "Direct demand alignment in Data Analysis for Senior Business Analyst",
+        "Market footprint supported by 8 benchmark hiring enterprises"
+      ],
+      "rationale": "Grounded on 14115 vacancies across 8 benchmark companies. Median entry threshold is 4 years with typical salary range \u20b92.4L - \u20b938.0L (Avg \u20b913.2L). Demanded by leading recruiters including ['TCS', 'Accenture', 'Evalueserve']."
+    },
+    {
+      "id": "data-architect",
+      "slug": "data-architect",
+      "title": "Data Architect",
+      "category": "Enterprise Data Governance & System Design",
+      "transition_accessibility": "Medium",
+      "accessibility_score": 68,
+      "skill_overlap_percentage": 65,
+      "prerequisite_coverage": "5 / 8",
+      "prerequisite_gap_level": "Medium",
+      "market_signal": {
+        "trend": "High Demand",
+        "direction": "up",
+        "regional_demand": "Strong concentration across Bengaluru, Mumbai, Gurgaon, Hyderabad (528 vacancies represented)",
+        "confidence": "High (Empirical Benchmark)",
+        "freshness": "2024-25 Industry Dataset",
+        "sources": [
+          "Analytics Jobs.csv (15,841)",
+          "DataScience Jobs.csv (1,602)"
+        ]
+      },
+      "estimated_learning_hours": 300,
+      "experience_gap": "10 yrs benchmark requirement",
+      "primary_missing_skills": [
+        {
+          "id": "skill_sql",
+          "name": "SQL",
+          "effort_hrs": 24,
+          "difficulty": "Medium"
+        },
+        {
+          "id": "skill_java",
+          "name": "Java",
+          "effort_hrs": 30,
+          "difficulty": "Medium"
+        },
+        {
+          "id": "skill_big_data",
+          "name": "Big Data",
+          "effort_hrs": 36,
+          "difficulty": "Hard"
+        },
+        {
+          "id": "skill_data_modeling",
+          "name": "Data Modeling",
+          "effort_hrs": 42,
+          "difficulty": "Hard"
+        }
+      ],
+      "transferable_strengths": [
+        "Empirical overlap in Big Data (Hadoop) across job postings",
+        "Direct demand alignment in Apache Spark for Data Architect",
+        "Market footprint supported by 8 benchmark hiring enterprises"
+      ],
+      "rationale": "Grounded on 528 vacancies across 8 benchmark companies. Median entry threshold is 10 years with typical salary range \u20b97.5L - \u20b9102.0L (Avg \u20b925.1L). Demanded by leading recruiters including ['Accenture', 'TCS', 'Fiserv']."
     }
   ]
 }

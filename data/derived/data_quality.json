@@ -1,0 +1,89 @@
+{
+  "audit_timestamp": "2026-10-07T13:45:00+05:30",
+  "datasets": [
+    {
+      "name": "Analytics Jobs.csv",
+      "raw_records": 15841,
+      "raw_columns": 8,
+      "cleaned_records": 15841,
+      "nulls_handled": {
+        "job_description": "3508 imputed with fallback snippet",
+        "job_type": "12011 normalized to Full Time / Specified",
+        "key_skills": "1 imputed with standard analytics tags"
+      },
+      "cleaning_transformations": [
+        "Extracted numeric min_experience, max_experience, avg_experience from string intervals",
+        "Converted salary brackets (0to3, 3to6, 6to10, 10to15, 15to25, 25to50) into numeric LPA bounds",
+        "Parsed and normalized 100+ raw city text variants into 15 canonical Indian tech metro centers",
+        "Built dictionary-based synonym normalization for 80+ technical skills",
+        "Mapped 15,841 job designations into 10 canonical roles and analytics categories"
+      ],
+      "powers_features": [
+        "Job Market Intelligence",
+        "Skill Demand Engine",
+        "Skill Gap Analysis",
+        "Job Explorer"
+      ]
+    },
+    {
+      "name": "DataScience Jobs.csv",
+      "raw_records": 1602,
+      "raw_columns": 8,
+      "cleaned_records": 1602,
+      "nulls_handled": {
+        "missing_values": 0
+      },
+      "cleaning_transformations": [
+        "Cleaned company names and standardized whitespace",
+        "Converted salary strings ('7.8L', '16.0L') to float LPA values",
+        "Derived numeric salary_range_lpa feature (max - min)",
+        "Validated non-negative job vacancy counts"
+      ],
+      "powers_features": [
+        "Company Intelligence",
+        "Salary Intelligence",
+        "Role Demand Comparison"
+      ]
+    },
+    {
+      "name": "JDS Skill Traits.xlsx",
+      "raw_records": 139,
+      "raw_columns": 7,
+      "cleaned_records": 139,
+      "nulls_handled": {
+        "missing_values": 0
+      },
+      "cleaning_transformations": [
+        "Cleaned hyphenated column names to snake_case",
+        "Validated all 5 skill dimension values within 1.0 to 5.0 scale",
+        "Evaluated balanced binary target: salary_hike_high_or_low (73 High vs 66 Low)",
+        "Trained Stratified 5-Fold CV Logistic Regression (ROC-AUC: 0.904, F1: 0.848)",
+        "Extracted interpretable odds ratios and feature importance rankings"
+      ],
+      "powers_features": [
+        "Junior Data Scientist Analytics",
+        "Hike Outcome Predictor"
+      ]
+    },
+    {
+      "name": "SDS Personality Traits.xlsx",
+      "raw_records": 161,
+      "raw_columns": 7,
+      "cleaned_records": 161,
+      "nulls_handled": {
+        "missing_values": 0
+      },
+      "cleaning_transformations": [
+        "Stripped accidental leading whitespace from ' extraversion' and 'success_ classification_ high_low'",
+        "Validated Big Five scores on 0-100 normalized EPQ scale",
+        "Evaluated balanced binary target: success_classification_high_low (85 High vs 76 Low)",
+        "Trained Stratified 5-Fold CV Random Forest (Accuracy: 0.950, ROC-AUC: 0.991)",
+        "Enforced strict Ethical AI guidelines restricting output to self-assessment and reflection"
+      ],
+      "powers_features": [
+        "Senior Personality Insights",
+        "Big Five Self-Assessment Radar"
+      ]
+    }
+  ]
+}

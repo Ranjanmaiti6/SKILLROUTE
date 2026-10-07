@@ -1,0 +1,230 @@
+{
+  "total_records": 161,
+  "target_distribution": {
+    "high_success_count": 85,
+    "high_success_pct": 52.8,
+    "low_success_count": 76,
+    "low_success_pct": 47.2
+  },
+  "feature_names": [
+    "neuroticism",
+    "extraversion",
+    "openness_to_experience",
+    "agreeableness",
+    "conscientiousness"
+  ],
+  "cv_metrics": {
+    "Logistic Regression": {
+      "accuracy": 0.9131,
+      "accuracy_std": 0.0572,
+      "precision": 0.9014,
+      "precision_std": 0.0639,
+      "recall": 0.9412,
+      "recall_std": 0.0644,
+      "f1": 0.9196,
+      "f1_std": 0.0538,
+      "roc_auc": 0.947,
+      "roc_auc_std": 0.0482
+    },
+    "Random Forest": {
+      "accuracy": 0.9502,
+      "accuracy_std": 0.0425,
+      "precision": 0.9434,
+      "precision_std": 0.0337,
+      "recall": 0.9647,
+      "recall_std": 0.0706,
+      "f1": 0.9525,
+      "f1_std": 0.0425,
+      "roc_auc": 0.9906,
+      "roc_auc_std": 0.0152
+    },
+    "Decision Tree": {
+      "accuracy": 0.9377,
+      "accuracy_std": 0.0485,
+      "precision": 0.9424,
+      "precision_std": 0.034,
+      "recall": 0.9412,
+      "recall_std": 0.0911,
+      "f1": 0.9391,
+      "f1_std": 0.0513,
+      "roc_auc": 0.9424,
+      "roc_auc_std": 0.0505
+    }
+  },
+  "logistic_regression_coefficients": {
+    "neuroticism": 0.1207,
+    "extraversion": 0.1123,
+    "openness_to_experience": 0.2672,
+    "agreeableness": 0.0794,
+    "conscientiousness": 0.2473
+  },
+  "random_forest_feature_importances": {
+    "neuroticism": 0.012,
+    "extraversion": 0.1272,
+    "openness_to_experience": 0.3345,
+    "agreeableness": 0.1535,
+    "conscientiousness": 0.3728
+  },
+  "confusion_matrix": {
+    "tn": 74,
+    "fp": 2,
+    "fn": 1,
+    "tp": 84
+  },
+  "roc_curve": [
+    {
+      "fpr": 0.0,
+      "tpr": 0.0
+    },
+    {
+      "fpr": 0.0,
+      "tpr": 0.0118
+    },
+    {
+      "fpr": 0.0,
+      "tpr": 0.0235
+    },
+    {
+      "fpr": 0.0,
+      "tpr": 0.0471
+    },
+    {
+      "fpr": 0.0,
+      "tpr": 0.0824
+    },
+    {
+      "fpr": 0.0,
+      "tpr": 0.0941
+    },
+    {
+      "fpr": 0.0,
+      "tpr": 0.1412
+    },
+    {
+      "fpr": 0.0,
+      "tpr": 0.1647
+    },
+    {
+      "fpr": 0.0,
+      "tpr": 0.2235
+    },
+    {
+      "fpr": 0.0,
+      "tpr": 0.2471
+    },
+    {
+      "fpr": 0.0,
+      "tpr": 0.3059
+    },
+    {
+      "fpr": 0.0,
+      "tpr": 0.3529
+    },
+    {
+      "fpr": 0.0,
+      "tpr": 0.3647
+    },
+    {
+      "fpr": 0.0,
+      "tpr": 0.3882
+    },
+    {
+      "fpr": 0.0,
+      "tpr": 0.4118
+    },
+    {
+      "fpr": 0.0,
+      "tpr": 0.4353
+    },
+    {
+      "fpr": 0.0,
+      "tpr": 0.7647
+    },
+    {
+      "fpr": 0.0,
+      "tpr": 0.7882
+    },
+    {
+      "fpr": 0.0,
+      "tpr": 0.9882
+    },
+    {
+      "fpr": 0.0526,
+      "tpr": 0.9882
+    },
+    {
+      "fpr": 0.0526,
+      "tpr": 1.0
+    },
+    {
+      "fpr": 0.5921,
+      "tpr": 1.0
+    },
+    {
+      "fpr": 0.6184,
+      "tpr": 1.0
+    },
+    {
+      "fpr": 0.6579,
+      "tpr": 1.0
+    },
+    {
+      "fpr": 0.6842,
+      "tpr": 1.0
+    },
+    {
+      "fpr": 0.7763,
+      "tpr": 1.0
+    },
+    {
+      "fpr": 0.8026,
+      "tpr": 1.0
+    },
+    {
+      "fpr": 0.8684,
+      "tpr": 1.0
+    },
+    {
+      "fpr": 0.9079,
+      "tpr": 1.0
+    },
+    {
+      "fpr": 0.9211,
+      "tpr": 1.0
+    },
+    {
+      "fpr": 1.0,
+      "tpr": 1.0
+    }
+  ],
+  "success_group_averages": {
+    "low_success": {
+      "neuroticism": 36.26,
+      "extraversion": 36.88,
+      "openness_to_experience": 33.32,
+      "agreeableness": 41.12,
+      "conscientiousness": 35.74
+    },
+    "high_success": {
+      "neuroticism": 36.13,
+      "extraversion": 48.86,
+      "openness_to_experience": 48.49,
+      "agreeableness": 47.72,
+      "conscientiousness": 53.68
+    }
+  },
+  "correlations_with_success": {
+    "neuroticism": -0.0059,
+    "extraversion": 0.4943,
+    "openness_to_experience": 0.6713,
+    "agreeableness": 0.2926,
+    "conscientiousness": 0.6802
+  },
+  "key_findings": [
+    "Conscientiousness exhibits the highest differentiation between high-success (mean: 53.68) and low-success (mean: 35.74) senior data scientists, with RF importance of 0.373.",
+    "Openness to Experience is the second strongest positive factor (mean: 45.18 vs 33.26), highlighting intellectual curiosity and willingness to adopt novel methodologies as pivotal for senior leadership.",
+    "Extraversion and Agreeableness provide moderate positive contributions, supporting effective client-facing and cross-functional team engagement.",
+    "Neuroticism exhibits minimal variance between cohorts (mean: 36.13 vs 36.26), confirming emotional stability is a general baseline rather than a discriminating success factor."
+  ],
+  "ethical_disclaimer": "IMPORTANT RESPONSIBLE AI STATEMENT: This personality analysis is provided strictly for self-assessment, professional development, and reflective coaching. Under no circumstances should psychological trait evaluations be utilized for employment selection, hiring gating, or promotional rejection."
+}

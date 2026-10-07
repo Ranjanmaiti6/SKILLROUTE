@@ -3,8 +3,8 @@ import './globals.css';
 import { AuthProvider } from '../lib/auth-context';
 
 export const metadata: Metadata = {
-  title: 'SkillRoute • Skill-to-Opportunity Transition Intelligence',
-  description: 'Turn your current capabilities into an evidence-backed transition plan. Build For Bharat 2.0 • Team ELITECORE.',
+  title: 'SkillRoute • SAS CU Hackathon 2026 | Data Science Career & Talent Intelligence',
+  description: 'Data Science Career, Skill & Leadership Intelligence Platform. Official Submission for SAS Institute & Chandigarh University Hackathon 2026.',
 };
 
 export default function RootLayout({

@@ -1,0 +1,8666 @@
+[
+  {
+    "company_name": "TCS",
+    "total_vacancies": 9064,
+    "roles_count": 10,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Analyst",
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Business Analyst",
+      "Senior Data Analyst",
+      "Senior Data Engineer",
+      "Machine Learning Engineer",
+      "Data Architect"
+    ],
+    "avg_salary_lpa": 9.5,
+    "min_salary_lpa": 2.4,
+    "max_salary_lpa": 30.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Accenture",
+    "total_vacancies": 5425,
+    "roles_count": 10,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Analyst",
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Business Analyst",
+      "Senior Data Analyst",
+      "Senior Data Engineer",
+      "Machine Learning Engineer",
+      "Data Architect"
+    ],
+    "avg_salary_lpa": 12.2,
+    "min_salary_lpa": 2.3,
+    "max_salary_lpa": 33.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Cognizant",
+    "total_vacancies": 3813,
+    "roles_count": 10,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Analyst",
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Business Analyst",
+      "Senior Data Analyst",
+      "Senior Data Engineer",
+      "Machine Learning Engineer",
+      "Data Architect"
+    ],
+    "avg_salary_lpa": 11.2,
+    "min_salary_lpa": 2.9,
+    "max_salary_lpa": 25.5,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Wipro",
+    "total_vacancies": 2566,
+    "roles_count": 10,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Analyst",
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Business Analyst",
+      "Senior Data Analyst",
+      "Senior Data Engineer",
+      "Machine Learning Engineer",
+      "Data Architect"
+    ],
+    "avg_salary_lpa": 10.5,
+    "min_salary_lpa": 2.2,
+    "max_salary_lpa": 30.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "IBM",
+    "total_vacancies": 2480,
+    "roles_count": 10,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Analyst",
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Business Analyst",
+      "Senior Data Analyst",
+      "Senior Data Engineer",
+      "Machine Learning Engineer",
+      "Data Architect"
+    ],
+    "avg_salary_lpa": 13.3,
+    "min_salary_lpa": 4.0,
+    "max_salary_lpa": 36.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Genpact",
+    "total_vacancies": 2147,
+    "roles_count": 8,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Analyst",
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Business Analyst",
+      "Senior Data Analyst",
+      "Data Architect"
+    ],
+    "avg_salary_lpa": 11.8,
+    "min_salary_lpa": 2.5,
+    "max_salary_lpa": 37.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Capgemini",
+    "total_vacancies": 1994,
+    "roles_count": 10,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Analyst",
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Business Analyst",
+      "Senior Data Analyst",
+      "Senior Data Engineer",
+      "Machine Learning Engineer",
+      "Data Architect"
+    ],
+    "avg_salary_lpa": 10.8,
+    "min_salary_lpa": 3.0,
+    "max_salary_lpa": 32.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "L&T Infotech",
+    "total_vacancies": 1873,
+    "roles_count": 9,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Analyst",
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Business Analyst",
+      "Senior Data Analyst",
+      "Senior Data Engineer",
+      "Data Architect"
+    ],
+    "avg_salary_lpa": 12.6,
+    "min_salary_lpa": 3.8,
+    "max_salary_lpa": 33.5,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Tech Mahindra",
+    "total_vacancies": 1830,
+    "roles_count": 10,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Analyst",
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Business Analyst",
+      "Senior Data Analyst",
+      "Senior Data Engineer",
+      "Machine Learning Engineer",
+      "Data Architect"
+    ],
+    "avg_salary_lpa": 9.9,
+    "min_salary_lpa": 2.2,
+    "max_salary_lpa": 27.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "HCL Technologies",
+    "total_vacancies": 1783,
+    "roles_count": 10,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Analyst",
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Business Analyst",
+      "Senior Data Analyst",
+      "Senior Data Engineer",
+      "Machine Learning Engineer",
+      "Data Architect"
+    ],
+    "avg_salary_lpa": 11.7,
+    "min_salary_lpa": 2.3,
+    "max_salary_lpa": 31.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Deloitte",
+    "total_vacancies": 1714,
+    "roles_count": 10,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Analyst",
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Business Analyst",
+      "Senior Data Analyst",
+      "Senior Data Engineer",
+      "Machine Learning Engineer",
+      "Data Architect"
+    ],
+    "avg_salary_lpa": 14.2,
+    "min_salary_lpa": 4.3,
+    "max_salary_lpa": 35.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Evalueserve",
+    "total_vacancies": 1698,
+    "roles_count": 3,
+    "roles": [
+      "Business Analyst",
+      "Senior Business Analyst",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 9.6,
+    "min_salary_lpa": 4.7,
+    "max_salary_lpa": 17.4,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Infosys",
+    "total_vacancies": 1686,
+    "roles_count": 10,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Analyst",
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Business Analyst",
+      "Senior Data Analyst",
+      "Senior Data Engineer",
+      "Machine Learning Engineer",
+      "Data Architect"
+    ],
+    "avg_salary_lpa": 10.6,
+    "min_salary_lpa": 3.4,
+    "max_salary_lpa": 32.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Amazon",
+    "total_vacancies": 1279,
+    "roles_count": 9,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Analyst",
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Business Analyst",
+      "Senior Data Analyst",
+      "Senior Data Engineer",
+      "Machine Learning Engineer"
+    ],
+    "avg_salary_lpa": 20.1,
+    "min_salary_lpa": 2.5,
+    "max_salary_lpa": 75.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "DXC Technology",
+    "total_vacancies": 1076,
+    "roles_count": 10,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Analyst",
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Business Analyst",
+      "Senior Data Analyst",
+      "Senior Data Engineer",
+      "Machine Learning Engineer",
+      "Data Architect"
+    ],
+    "avg_salary_lpa": 11.5,
+    "min_salary_lpa": 3.7,
+    "max_salary_lpa": 25.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "EXL Service",
+    "total_vacancies": 996,
+    "roles_count": 8,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Analyst",
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Business Analyst",
+      "Senior Data Analyst",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 11.3,
+    "min_salary_lpa": 2.2,
+    "max_salary_lpa": 30.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Ernst & Young",
+    "total_vacancies": 896,
+    "roles_count": 9,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Analyst",
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Business Analyst",
+      "Senior Data Analyst",
+      "Senior Data Engineer",
+      "Data Architect"
+    ],
+    "avg_salary_lpa": 14.1,
+    "min_salary_lpa": 3.4,
+    "max_salary_lpa": 30.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "HSBC",
+    "total_vacancies": 795,
+    "roles_count": 8,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Analyst",
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Business Analyst",
+      "Senior Data Analyst",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 14.2,
+    "min_salary_lpa": 3.4,
+    "max_salary_lpa": 28.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Quantiphi Analytics Solutions",
+    "total_vacancies": 785,
+    "roles_count": 6,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Engineer",
+      "Senior Business Analyst",
+      "Senior Data Engineer",
+      "Machine Learning Engineer"
+    ],
+    "avg_salary_lpa": 11.7,
+    "min_salary_lpa": 6.5,
+    "max_salary_lpa": 22.5,
+    "min_experience": 0
+  },
+  {
+    "company_name": "American Express",
+    "total_vacancies": 781,
+    "roles_count": 7,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Analyst",
+      "Senior Data Scientist",
+      "Senior Business Analyst",
+      "Senior Data Analyst",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 15.9,
+    "min_salary_lpa": 3.0,
+    "max_salary_lpa": 40.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Optum",
+    "total_vacancies": 709,
+    "roles_count": 8,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Analyst",
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Business Analyst",
+      "Senior Data Analyst",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 15.2,
+    "min_salary_lpa": 4.8,
+    "max_salary_lpa": 36.0,
+    "min_experience": 2
+  },
+  {
+    "company_name": "Societe Generale",
+    "total_vacancies": 659,
+    "roles_count": 5,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Engineer",
+      "Senior Business Analyst",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 17.1,
+    "min_salary_lpa": 7.1,
+    "max_salary_lpa": 34.5,
+    "min_experience": 1
+  },
+  {
+    "company_name": "UnitedHealth",
+    "total_vacancies": 638,
+    "roles_count": 8,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Analyst",
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Business Analyst",
+      "Senior Data Analyst",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 14.1,
+    "min_salary_lpa": 3.3,
+    "max_salary_lpa": 30.5,
+    "min_experience": 2
+  },
+  {
+    "company_name": "JP Morgan Chase",
+    "total_vacancies": 632,
+    "roles_count": 10,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Analyst",
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Business Analyst",
+      "Senior Data Analyst",
+      "Senior Data Engineer",
+      "Machine Learning Engineer",
+      "Data Architect"
+    ],
+    "avg_salary_lpa": 18.9,
+    "min_salary_lpa": 4.1,
+    "max_salary_lpa": 51.0,
+    "min_experience": 2
+  },
+  {
+    "company_name": "Mindtree",
+    "total_vacancies": 602,
+    "roles_count": 10,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Analyst",
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Business Analyst",
+      "Senior Data Analyst",
+      "Senior Data Engineer",
+      "Machine Learning Engineer",
+      "Data Architect"
+    ],
+    "avg_salary_lpa": 10.7,
+    "min_salary_lpa": 3.5,
+    "max_salary_lpa": 28.1,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Fidelity National Information Services",
+    "total_vacancies": 559,
+    "roles_count": 6,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Analyst",
+      "Senior Business Analyst",
+      "Senior Data Analyst",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 11.9,
+    "min_salary_lpa": 2.7,
+    "max_salary_lpa": 23.8,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Shell",
+    "total_vacancies": 546,
+    "roles_count": 9,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Analyst",
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Business Analyst",
+      "Senior Data Analyst",
+      "Senior Data Engineer",
+      "Data Architect"
+    ],
+    "avg_salary_lpa": 22.0,
+    "min_salary_lpa": 6.0,
+    "max_salary_lpa": 38.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Flipkart",
+    "total_vacancies": 545,
+    "roles_count": 7,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Analyst",
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Business Analyst",
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 24.7,
+    "min_salary_lpa": 3.2,
+    "max_salary_lpa": 100.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "eClerx",
+    "total_vacancies": 533,
+    "roles_count": 6,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Analyst",
+      "Senior Data Scientist",
+      "Senior Business Analyst",
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 6.5,
+    "min_salary_lpa": 2.0,
+    "max_salary_lpa": 21.6,
+    "min_experience": 0
+  },
+  {
+    "company_name": "GlobalLogic",
+    "total_vacancies": 531,
+    "roles_count": 6,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Analyst",
+      "Senior Data Analyst",
+      "Senior Data Engineer",
+      "Data Architect"
+    ],
+    "avg_salary_lpa": 12.1,
+    "min_salary_lpa": 2.0,
+    "max_salary_lpa": 28.5,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Cgi Group",
+    "total_vacancies": 513,
+    "roles_count": 5,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Senior Business Analyst",
+      "Senior Data Engineer",
+      "Data Architect"
+    ],
+    "avg_salary_lpa": 12.3,
+    "min_salary_lpa": 4.2,
+    "max_salary_lpa": 30.6,
+    "min_experience": 2
+  },
+  {
+    "company_name": "Oracle",
+    "total_vacancies": 486,
+    "roles_count": 9,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Analyst",
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Business Analyst",
+      "Senior Data Analyst",
+      "Senior Data Engineer",
+      "Machine Learning Engineer"
+    ],
+    "avg_salary_lpa": 15.0,
+    "min_salary_lpa": 3.1,
+    "max_salary_lpa": 51.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Fractal Analytics",
+    "total_vacancies": 484,
+    "roles_count": 6,
+    "roles": [
+      "Data Scientist",
+      "Data Analyst",
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Data Engineer",
+      "Machine Learning Engineer"
+    ],
+    "avg_salary_lpa": 17.4,
+    "min_salary_lpa": 4.9,
+    "max_salary_lpa": 32.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Tiger Analytics",
+    "total_vacancies": 462,
+    "roles_count": 8,
+    "roles": [
+      "Data Scientist",
+      "Data Analyst",
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Business Analyst",
+      "Senior Data Analyst",
+      "Senior Data Engineer",
+      "Machine Learning Engineer"
+    ],
+    "avg_salary_lpa": 15.1,
+    "min_salary_lpa": 7.0,
+    "max_salary_lpa": 28.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Concentrix Corporation",
+    "total_vacancies": 459,
+    "roles_count": 6,
+    "roles": [
+      "Business Analyst",
+      "Data Analyst",
+      "Data Engineer",
+      "Senior Business Analyst",
+      "Senior Data Analyst",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 4.4,
+    "min_salary_lpa": 2.4,
+    "max_salary_lpa": 12.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "ICICI Bank",
+    "total_vacancies": 456,
+    "roles_count": 4,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Analyst",
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 8.9,
+    "min_salary_lpa": 2.5,
+    "max_salary_lpa": 21.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "NTT DATA",
+    "total_vacancies": 442,
+    "roles_count": 7,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Analyst",
+      "Data Engineer",
+      "Senior Business Analyst",
+      "Senior Data Analyst",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 9.7,
+    "min_salary_lpa": 2.1,
+    "max_salary_lpa": 28.6,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Hewlett-Packard Enterprise",
+    "total_vacancies": 431,
+    "roles_count": 9,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Analyst",
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Business Analyst",
+      "Senior Data Analyst",
+      "Senior Data Engineer",
+      "Machine Learning Engineer"
+    ],
+    "avg_salary_lpa": 13.8,
+    "min_salary_lpa": 3.5,
+    "max_salary_lpa": 40.0,
+    "min_experience": 2
+  },
+  {
+    "company_name": "Conduent",
+    "total_vacancies": 413,
+    "roles_count": 3,
+    "roles": [
+      "Business Analyst",
+      "Data Analyst",
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 6.3,
+    "min_salary_lpa": 1.6,
+    "max_salary_lpa": 13.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Ericsson",
+    "total_vacancies": 402,
+    "roles_count": 8,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Analyst",
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Data Analyst",
+      "Machine Learning Engineer",
+      "Data Architect"
+    ],
+    "avg_salary_lpa": 13.6,
+    "min_salary_lpa": 4.0,
+    "max_salary_lpa": 50.6,
+    "min_experience": 2
+  },
+  {
+    "company_name": "Wells Fargo India",
+    "total_vacancies": 395,
+    "roles_count": 8,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Analyst",
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Business Analyst",
+      "Senior Data Analyst",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 15.9,
+    "min_salary_lpa": 3.1,
+    "max_salary_lpa": 31.5,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Barclays",
+    "total_vacancies": 391,
+    "roles_count": 7,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Analyst",
+      "Senior Business Analyst",
+      "Senior Data Analyst",
+      "Machine Learning Engineer",
+      "Data Architect"
+    ],
+    "avg_salary_lpa": 17.1,
+    "min_salary_lpa": 5.5,
+    "max_salary_lpa": 30.7,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Walmart",
+    "total_vacancies": 362,
+    "roles_count": 6,
+    "roles": [
+      "Data Scientist",
+      "Data Analyst",
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Data Analyst",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 28.7,
+    "min_salary_lpa": 3.8,
+    "max_salary_lpa": 65.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "HDFC Bank",
+    "total_vacancies": 355,
+    "roles_count": 6,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Analyst",
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 12.5,
+    "min_salary_lpa": 2.0,
+    "max_salary_lpa": 33.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Mphasis",
+    "total_vacancies": 353,
+    "roles_count": 9,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Analyst",
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Business Analyst",
+      "Senior Data Analyst",
+      "Senior Data Engineer",
+      "Data Architect"
+    ],
+    "avg_salary_lpa": 11.7,
+    "min_salary_lpa": 2.1,
+    "max_salary_lpa": 32.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Dell",
+    "total_vacancies": 348,
+    "roles_count": 8,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Analyst",
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Business Analyst",
+      "Senior Data Analyst",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 12.8,
+    "min_salary_lpa": 2.5,
+    "max_salary_lpa": 32.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Mu Sigma",
+    "total_vacancies": 332,
+    "roles_count": 6,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Analyst",
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 8.9,
+    "min_salary_lpa": 5.0,
+    "max_salary_lpa": 15.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "PwC",
+    "total_vacancies": 326,
+    "roles_count": 9,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Analyst",
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Business Analyst",
+      "Senior Data Analyst",
+      "Senior Data Engineer",
+      "Data Architect"
+    ],
+    "avg_salary_lpa": 13.6,
+    "min_salary_lpa": 3.2,
+    "max_salary_lpa": 32.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "IQVIA",
+    "total_vacancies": 319,
+    "roles_count": 8,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Analyst",
+      "Data Engineer",
+      "Senior Business Analyst",
+      "Senior Data Analyst",
+      "Senior Data Engineer",
+      "Data Architect"
+    ],
+    "avg_salary_lpa": 14.2,
+    "min_salary_lpa": 4.1,
+    "max_salary_lpa": 34.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Axis Bank",
+    "total_vacancies": 313,
+    "roles_count": 6,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Analyst",
+      "Data Engineer",
+      "Senior Business Analyst",
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 10.3,
+    "min_salary_lpa": 4.0,
+    "max_salary_lpa": 22.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Newgen Software Technologies",
+    "total_vacancies": 308,
+    "roles_count": 2,
+    "roles": [
+      "Business Analyst",
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 10.2,
+    "min_salary_lpa": 7.0,
+    "max_salary_lpa": 14.4,
+    "min_experience": 2
+  },
+  {
+    "company_name": "Citicorp",
+    "total_vacancies": 305,
+    "roles_count": 8,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Analyst",
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Business Analyst",
+      "Senior Data Analyst",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 18.5,
+    "min_salary_lpa": 6.0,
+    "max_salary_lpa": 35.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Amdocs",
+    "total_vacancies": 302,
+    "roles_count": 5,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Engineer",
+      "Senior Business Analyst",
+      "Data Architect"
+    ],
+    "avg_salary_lpa": 11.9,
+    "min_salary_lpa": 6.0,
+    "max_salary_lpa": 24.9,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Zomato",
+    "total_vacancies": 301,
+    "roles_count": 3,
+    "roles": [
+      "Business Analyst",
+      "Senior Business Analyst",
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 10.9,
+    "min_salary_lpa": 5.5,
+    "max_salary_lpa": 22.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Tredence",
+    "total_vacancies": 298,
+    "roles_count": 6,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Business Analyst",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 12.2,
+    "min_salary_lpa": 6.1,
+    "max_salary_lpa": 26.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Unilog Content Solutions ( P)",
+    "total_vacancies": 291,
+    "roles_count": 2,
+    "roles": [
+      "Data Analyst",
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 2.9,
+    "min_salary_lpa": 2.0,
+    "max_salary_lpa": 3.8,
+    "min_experience": 1
+  },
+  {
+    "company_name": "UST",
+    "total_vacancies": 289,
+    "roles_count": 10,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Analyst",
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Business Analyst",
+      "Senior Data Analyst",
+      "Senior Data Engineer",
+      "Machine Learning Engineer",
+      "Data Architect"
+    ],
+    "avg_salary_lpa": 12.2,
+    "min_salary_lpa": 3.5,
+    "max_salary_lpa": 45.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Zensar Technologies",
+    "total_vacancies": 286,
+    "roles_count": 6,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Analyst",
+      "Senior Data Scientist",
+      "Senior Business Analyst",
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 9.3,
+    "min_salary_lpa": 2.9,
+    "max_salary_lpa": 22.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Hexaware Technologies",
+    "total_vacancies": 285,
+    "roles_count": 6,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Analyst",
+      "Data Engineer",
+      "Senior Business Analyst",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 11.0,
+    "min_salary_lpa": 0.2,
+    "max_salary_lpa": 23.5,
+    "min_experience": 0
+  },
+  {
+    "company_name": "VMware Software",
+    "total_vacancies": 284,
+    "roles_count": 4,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Senior Data Scientist",
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 18.8,
+    "min_salary_lpa": 6.0,
+    "max_salary_lpa": 36.5,
+    "min_experience": 2
+  },
+  {
+    "company_name": "Novartis Healthcare",
+    "total_vacancies": 279,
+    "roles_count": 7,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Analyst",
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Business Analyst",
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 16.2,
+    "min_salary_lpa": 6.0,
+    "max_salary_lpa": 51.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Exl India",
+    "total_vacancies": 275,
+    "roles_count": 3,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 9.8,
+    "min_salary_lpa": 4.5,
+    "max_salary_lpa": 18.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Temenos",
+    "total_vacancies": 273,
+    "roles_count": 2,
+    "roles": [
+      "Business Analyst",
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 11.0,
+    "min_salary_lpa": 5.6,
+    "max_salary_lpa": 17.1,
+    "min_experience": 2
+  },
+  {
+    "company_name": "KPMG",
+    "total_vacancies": 269,
+    "roles_count": 5,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Analyst",
+      "Data Engineer",
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 9.9,
+    "min_salary_lpa": 3.0,
+    "max_salary_lpa": 20.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "EC-Mobility",
+    "total_vacancies": 259,
+    "roles_count": 1,
+    "roles": [
+      "Data Engineer"
+    ],
+    "avg_salary_lpa": 2.1,
+    "min_salary_lpa": 1.8,
+    "max_salary_lpa": 2.6,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Maersk",
+    "total_vacancies": 259,
+    "roles_count": 6,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Engineer",
+      "Senior Business Analyst",
+      "Senior Data Analyst",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 14.3,
+    "min_salary_lpa": 5.0,
+    "max_salary_lpa": 31.0,
+    "min_experience": 2
+  },
+  {
+    "company_name": "Reliance jio",
+    "total_vacancies": 259,
+    "roles_count": 6,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Analyst",
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Machine Learning Engineer"
+    ],
+    "avg_salary_lpa": 12.6,
+    "min_salary_lpa": 3.5,
+    "max_salary_lpa": 46.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "WNS",
+    "total_vacancies": 258,
+    "roles_count": 5,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Analyst",
+      "Senior Business Analyst",
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 7.2,
+    "min_salary_lpa": 2.0,
+    "max_salary_lpa": 17.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Credit Suisse",
+    "total_vacancies": 257,
+    "roles_count": 3,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 16.3,
+    "min_salary_lpa": 10.0,
+    "max_salary_lpa": 26.0,
+    "min_experience": 2
+  },
+  {
+    "company_name": "Virtusa Consulting Services",
+    "total_vacancies": 249,
+    "roles_count": 6,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Analyst",
+      "Data Engineer",
+      "Senior Business Analyst",
+      "Machine Learning Engineer"
+    ],
+    "avg_salary_lpa": 9.1,
+    "min_salary_lpa": 2.2,
+    "max_salary_lpa": 22.5,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Fiserv",
+    "total_vacancies": 245,
+    "roles_count": 5,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Analyst",
+      "Senior Business Analyst",
+      "Data Architect"
+    ],
+    "avg_salary_lpa": 12.9,
+    "min_salary_lpa": 6.0,
+    "max_salary_lpa": 29.8,
+    "min_experience": 2
+  },
+  {
+    "company_name": "Novo Nordisk",
+    "total_vacancies": 241,
+    "roles_count": 2,
+    "roles": [
+      "Business Analyst",
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 13.6,
+    "min_salary_lpa": 8.0,
+    "max_salary_lpa": 21.0,
+    "min_experience": 4
+  },
+  {
+    "company_name": "Legato Health Technologies",
+    "total_vacancies": 235,
+    "roles_count": 7,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Business Analyst",
+      "Senior Data Analyst",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 14.3,
+    "min_salary_lpa": 5.0,
+    "max_salary_lpa": 26.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Oyo Rooms",
+    "total_vacancies": 235,
+    "roles_count": 5,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Analyst",
+      "Senior Data Scientist",
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 14.8,
+    "min_salary_lpa": 3.4,
+    "max_salary_lpa": 42.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "NetCracker",
+    "total_vacancies": 221,
+    "roles_count": 2,
+    "roles": [
+      "Business Analyst",
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 23.4,
+    "min_salary_lpa": 12.0,
+    "max_salary_lpa": 36.0,
+    "min_experience": 5
+  },
+  {
+    "company_name": "Zen3 Info Solutions",
+    "total_vacancies": 215,
+    "roles_count": 2,
+    "roles": [
+      "Data Analyst",
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 3.7,
+    "min_salary_lpa": 2.2,
+    "max_salary_lpa": 5.5,
+    "min_experience": 1
+  },
+  {
+    "company_name": "ZS",
+    "total_vacancies": 211,
+    "roles_count": 6,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Analyst",
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 14.2,
+    "min_salary_lpa": 7.0,
+    "max_salary_lpa": 25.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Ford Motor",
+    "total_vacancies": 203,
+    "roles_count": 7,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Analyst",
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Data Analyst",
+      "Machine Learning Engineer"
+    ],
+    "avg_salary_lpa": 12.4,
+    "min_salary_lpa": 2.9,
+    "max_salary_lpa": 20.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Citibank",
+    "total_vacancies": 201,
+    "roles_count": 7,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Analyst",
+      "Senior Data Scientist",
+      "Senior Business Analyst",
+      "Senior Data Analyst",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 17.5,
+    "min_salary_lpa": 4.1,
+    "max_salary_lpa": 30.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "InnovAccer",
+    "total_vacancies": 198,
+    "roles_count": 3,
+    "roles": [
+      "Data Analyst",
+      "Data Engineer",
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 10.9,
+    "min_salary_lpa": 5.0,
+    "max_salary_lpa": 22.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Larsen & Toubro Limited",
+    "total_vacancies": 195,
+    "roles_count": 6,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Analyst",
+      "Data Engineer",
+      "Senior Business Analyst",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 8.4,
+    "min_salary_lpa": 2.0,
+    "max_salary_lpa": 23.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Bridgei2i Analytics Solutions",
+    "total_vacancies": 194,
+    "roles_count": 4,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Analyst",
+      "Data Engineer"
+    ],
+    "avg_salary_lpa": 6.8,
+    "min_salary_lpa": 4.5,
+    "max_salary_lpa": 14.4,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Cisco Systems",
+    "total_vacancies": 194,
+    "roles_count": 6,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Analyst",
+      "Data Engineer",
+      "Senior Data Analyst",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 16.8,
+    "min_salary_lpa": 4.0,
+    "max_salary_lpa": 32.5,
+    "min_experience": 2
+  },
+  {
+    "company_name": "Cyient",
+    "total_vacancies": 192,
+    "roles_count": 3,
+    "roles": [
+      "Data Scientist",
+      "Data Analyst",
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 5.8,
+    "min_salary_lpa": 1.8,
+    "max_salary_lpa": 18.5,
+    "min_experience": 1
+  },
+  {
+    "company_name": "bnp paribas india solutions",
+    "total_vacancies": 190,
+    "roles_count": 2,
+    "roles": [
+      "Business Analyst",
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 12.4,
+    "min_salary_lpa": 6.5,
+    "max_salary_lpa": 21.0,
+    "min_experience": 3
+  },
+  {
+    "company_name": "Ab Inbev",
+    "total_vacancies": 189,
+    "roles_count": 5,
+    "roles": [
+      "Data Scientist",
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Data Engineer",
+      "Data Architect"
+    ],
+    "avg_salary_lpa": 24.3,
+    "min_salary_lpa": 8.2,
+    "max_salary_lpa": 35.0,
+    "min_experience": 2
+  },
+  {
+    "company_name": "BNP Paribas",
+    "total_vacancies": 187,
+    "roles_count": 2,
+    "roles": [
+      "Business Analyst",
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 13.2,
+    "min_salary_lpa": 6.7,
+    "max_salary_lpa": 24.0,
+    "min_experience": 3
+  },
+  {
+    "company_name": "Paytm",
+    "total_vacancies": 185,
+    "roles_count": 6,
+    "roles": [
+      "Business Analyst",
+      "Data Analyst",
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Data Analyst",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 15.4,
+    "min_salary_lpa": 3.0,
+    "max_salary_lpa": 40.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Ramco Systems",
+    "total_vacancies": 184,
+    "roles_count": 2,
+    "roles": [
+      "Business Analyst",
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 10.1,
+    "min_salary_lpa": 4.5,
+    "max_salary_lpa": 18.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Standard Chartered Bank",
+    "total_vacancies": 182,
+    "roles_count": 3,
+    "roles": [
+      "Business Analyst",
+      "Senior Business Analyst",
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 13.2,
+    "min_salary_lpa": 4.1,
+    "max_salary_lpa": 30.0,
+    "min_experience": 2
+  },
+  {
+    "company_name": "BNY Mellon",
+    "total_vacancies": 181,
+    "roles_count": 4,
+    "roles": [
+      "Business Analyst",
+      "Senior Data Scientist",
+      "Senior Business Analyst",
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 11.1,
+    "min_salary_lpa": 4.5,
+    "max_salary_lpa": 25.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Allianz Technology",
+    "total_vacancies": 179,
+    "roles_count": 2,
+    "roles": [
+      "Business Analyst",
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 10.1,
+    "min_salary_lpa": 5.1,
+    "max_salary_lpa": 16.0,
+    "min_experience": 3
+  },
+  {
+    "company_name": "Bajaj Finserv",
+    "total_vacancies": 178,
+    "roles_count": 8,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Analyst",
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Data Analyst",
+      "Senior Data Engineer",
+      "Data Architect"
+    ],
+    "avg_salary_lpa": 14.3,
+    "min_salary_lpa": 2.0,
+    "max_salary_lpa": 42.5,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Swiggy",
+    "total_vacancies": 177,
+    "roles_count": 3,
+    "roles": [
+      "Business Analyst",
+      "Data Analyst",
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 12.0,
+    "min_salary_lpa": 3.1,
+    "max_salary_lpa": 22.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "CG Foods",
+    "total_vacancies": 175,
+    "roles_count": 1,
+    "roles": [
+      "Business Analyst"
+    ],
+    "avg_salary_lpa": 4.8,
+    "min_salary_lpa": 2.0,
+    "max_salary_lpa": 10.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Cogencis Information Services",
+    "total_vacancies": 175,
+    "roles_count": 1,
+    "roles": [
+      "Data Analyst"
+    ],
+    "avg_salary_lpa": 1.7,
+    "min_salary_lpa": 1.2,
+    "max_salary_lpa": 2.6,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Tata Technologies",
+    "total_vacancies": 175,
+    "roles_count": 3,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 7.2,
+    "min_salary_lpa": 4.3,
+    "max_salary_lpa": 14.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "ITC Infotech India",
+    "total_vacancies": 174,
+    "roles_count": 7,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Analyst",
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Data Engineer",
+      "Data Architect"
+    ],
+    "avg_salary_lpa": 13.4,
+    "min_salary_lpa": 3.7,
+    "max_salary_lpa": 40.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "NatWest Group",
+    "total_vacancies": 173,
+    "roles_count": 3,
+    "roles": [
+      "Business Analyst",
+      "Data Engineer",
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 13.7,
+    "min_salary_lpa": 3.5,
+    "max_salary_lpa": 32.0,
+    "min_experience": 2
+  },
+  {
+    "company_name": "ValueLabs",
+    "total_vacancies": 169,
+    "roles_count": 8,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Analyst",
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Business Analyst",
+      "Senior Data Engineer",
+      "Data Architect"
+    ],
+    "avg_salary_lpa": 14.9,
+    "min_salary_lpa": 2.4,
+    "max_salary_lpa": 26.7,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Epsilon",
+    "total_vacancies": 168,
+    "roles_count": 6,
+    "roles": [
+      "Business Analyst",
+      "Data Analyst",
+      "Senior Data Scientist",
+      "Senior Business Analyst",
+      "Senior Data Analyst",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 16.4,
+    "min_salary_lpa": 5.5,
+    "max_salary_lpa": 26.8,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Verizon",
+    "total_vacancies": 168,
+    "roles_count": 6,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Analyst",
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 15.2,
+    "min_salary_lpa": 5.6,
+    "max_salary_lpa": 37.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "S&P Global",
+    "total_vacancies": 166,
+    "roles_count": 4,
+    "roles": [
+      "Business Analyst",
+      "Data Analyst",
+      "Senior Business Analyst",
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 9.3,
+    "min_salary_lpa": 3.1,
+    "max_salary_lpa": 20.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Coforge",
+    "total_vacancies": 164,
+    "roles_count": 5,
+    "roles": [
+      "Business Analyst",
+      "Senior Data Scientist",
+      "Senior Business Analyst",
+      "Senior Data Engineer",
+      "Data Architect"
+    ],
+    "avg_salary_lpa": 18.1,
+    "min_salary_lpa": 8.3,
+    "max_salary_lpa": 39.0,
+    "min_experience": 4
+  },
+  {
+    "company_name": "Ugam Solution",
+    "total_vacancies": 160,
+    "roles_count": 3,
+    "roles": [
+      "Data Scientist",
+      "Data Analyst",
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 7.0,
+    "min_salary_lpa": 1.8,
+    "max_salary_lpa": 15.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Urjanet Energy Solutions",
+    "total_vacancies": 160,
+    "roles_count": 2,
+    "roles": [
+      "Data Analyst",
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 3.2,
+    "min_salary_lpa": 2.0,
+    "max_salary_lpa": 5.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "UBS",
+    "total_vacancies": 159,
+    "roles_count": 4,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Analyst",
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 15.5,
+    "min_salary_lpa": 6.0,
+    "max_salary_lpa": 33.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "GEP Worldwide",
+    "total_vacancies": 155,
+    "roles_count": 5,
+    "roles": [
+      "Business Analyst",
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Business Analyst",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 13.9,
+    "min_salary_lpa": 5.0,
+    "max_salary_lpa": 32.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Honeywell Technology Solutions",
+    "total_vacancies": 155,
+    "roles_count": 7,
+    "roles": [
+      "Data Scientist",
+      "Data Analyst",
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Business Analyst",
+      "Senior Data Analyst",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 15.3,
+    "min_salary_lpa": 5.0,
+    "max_salary_lpa": 35.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Barclays Shared Services",
+    "total_vacancies": 154,
+    "roles_count": 2,
+    "roles": [
+      "Business Analyst",
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 7.7,
+    "min_salary_lpa": 3.8,
+    "max_salary_lpa": 14.2,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Deutsche Bank",
+    "total_vacancies": 153,
+    "roles_count": 2,
+    "roles": [
+      "Business Analyst",
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 8.2,
+    "min_salary_lpa": 3.3,
+    "max_salary_lpa": 19.0,
+    "min_experience": 2
+  },
+  {
+    "company_name": "Bank of America",
+    "total_vacancies": 152,
+    "roles_count": 6,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Analyst",
+      "Data Engineer",
+      "Senior Data Analyst",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 16.9,
+    "min_salary_lpa": 5.5,
+    "max_salary_lpa": 30.3,
+    "min_experience": 2
+  },
+  {
+    "company_name": "Affine Analytics",
+    "total_vacancies": 149,
+    "roles_count": 5,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 8.8,
+    "min_salary_lpa": 6.0,
+    "max_salary_lpa": 18.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Qualsquad Infotech",
+    "total_vacancies": 149,
+    "roles_count": 1,
+    "roles": [
+      "Data Analyst"
+    ],
+    "avg_salary_lpa": 2.0,
+    "min_salary_lpa": 1.1,
+    "max_salary_lpa": 3.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Bharti Airtel",
+    "total_vacancies": 148,
+    "roles_count": 3,
+    "roles": [
+      "Data Analyst",
+      "Data Engineer",
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 8.4,
+    "min_salary_lpa": 2.6,
+    "max_salary_lpa": 22.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "LatentView Analytics",
+    "total_vacancies": 148,
+    "roles_count": 3,
+    "roles": [
+      "Data Analyst",
+      "Data Engineer",
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 8.1,
+    "min_salary_lpa": 5.0,
+    "max_salary_lpa": 12.5,
+    "min_experience": 0
+  },
+  {
+    "company_name": "PayPal",
+    "total_vacancies": 148,
+    "roles_count": 5,
+    "roles": [
+      "Data Scientist",
+      "Data Analyst",
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 26.2,
+    "min_salary_lpa": 8.0,
+    "max_salary_lpa": 45.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Nokia",
+    "total_vacancies": 147,
+    "roles_count": 5,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Analyst",
+      "Data Engineer",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 10.9,
+    "min_salary_lpa": 2.2,
+    "max_salary_lpa": 25.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Merkle Sokrati",
+    "total_vacancies": 145,
+    "roles_count": 3,
+    "roles": [
+      "Business Analyst",
+      "Senior Business Analyst",
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 6.9,
+    "min_salary_lpa": 4.2,
+    "max_salary_lpa": 12.3,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Sapient Corporation",
+    "total_vacancies": 145,
+    "roles_count": 5,
+    "roles": [
+      "Data Analyst",
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Data Analyst",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 14.8,
+    "min_salary_lpa": 5.0,
+    "max_salary_lpa": 28.5,
+    "min_experience": 2
+  },
+  {
+    "company_name": "Teleperformance",
+    "total_vacancies": 145,
+    "roles_count": 3,
+    "roles": [
+      "Data Analyst",
+      "Senior Data Scientist",
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 7.2,
+    "min_salary_lpa": 1.8,
+    "max_salary_lpa": 20.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Vodafone Idea",
+    "total_vacancies": 145,
+    "roles_count": 6,
+    "roles": [
+      "Data Scientist",
+      "Data Analyst",
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Data Analyst",
+      "Data Architect"
+    ],
+    "avg_salary_lpa": 14.8,
+    "min_salary_lpa": 2.1,
+    "max_salary_lpa": 32.7,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Barclays Global Service Centre",
+    "total_vacancies": 142,
+    "roles_count": 2,
+    "roles": [
+      "Business Analyst",
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 12.1,
+    "min_salary_lpa": 4.5,
+    "max_salary_lpa": 22.9,
+    "min_experience": 1
+  },
+  {
+    "company_name": "ValueMomentum",
+    "total_vacancies": 142,
+    "roles_count": 4,
+    "roles": [
+      "Business Analyst",
+      "Data Engineer",
+      "Senior Business Analyst",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 12.0,
+    "min_salary_lpa": 3.8,
+    "max_salary_lpa": 27.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "TheMathCompany",
+    "total_vacancies": 141,
+    "roles_count": 4,
+    "roles": [
+      "Data Scientist",
+      "Data Analyst",
+      "Data Engineer",
+      "Senior Data Scientist"
+    ],
+    "avg_salary_lpa": 9.9,
+    "min_salary_lpa": 4.5,
+    "max_salary_lpa": 18.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "3i Infotech",
+    "total_vacancies": 139,
+    "roles_count": 2,
+    "roles": [
+      "Business Analyst",
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 8.4,
+    "min_salary_lpa": 3.9,
+    "max_salary_lpa": 16.1,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Odessa",
+    "total_vacancies": 137,
+    "roles_count": 2,
+    "roles": [
+      "Business Analyst",
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 13.6,
+    "min_salary_lpa": 8.4,
+    "max_salary_lpa": 24.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Birlasoft",
+    "total_vacancies": 135,
+    "roles_count": 6,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Business Analyst",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 10.6,
+    "min_salary_lpa": 4.0,
+    "max_salary_lpa": 22.3,
+    "min_experience": 2
+  },
+  {
+    "company_name": "Globant",
+    "total_vacancies": 133,
+    "roles_count": 4,
+    "roles": [
+      "Business Analyst",
+      "Senior Data Scientist",
+      "Senior Business Analyst",
+      "Data Architect"
+    ],
+    "avg_salary_lpa": 17.2,
+    "min_salary_lpa": 9.0,
+    "max_salary_lpa": 32.0,
+    "min_experience": 2
+  },
+  {
+    "company_name": "Harman Connected Services",
+    "total_vacancies": 132,
+    "roles_count": 6,
+    "roles": [
+      "Data Scientist",
+      "Data Analyst",
+      "Senior Data Scientist",
+      "Senior Business Analyst",
+      "Senior Data Analyst",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 13.0,
+    "min_salary_lpa": 3.5,
+    "max_salary_lpa": 32.0,
+    "min_experience": 2
+  },
+  {
+    "company_name": "Atos Syntel",
+    "total_vacancies": 131,
+    "roles_count": 3,
+    "roles": [
+      "Business Analyst",
+      "Data Engineer",
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 9.6,
+    "min_salary_lpa": 3.8,
+    "max_salary_lpa": 22.8,
+    "min_experience": 2
+  },
+  {
+    "company_name": "First Source",
+    "total_vacancies": 131,
+    "roles_count": 4,
+    "roles": [
+      "Business Analyst",
+      "Data Analyst",
+      "Senior Data Scientist",
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 10.3,
+    "min_salary_lpa": 1.5,
+    "max_salary_lpa": 30.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "R1 RCM",
+    "total_vacancies": 131,
+    "roles_count": 4,
+    "roles": [
+      "Business Analyst",
+      "Data Analyst",
+      "Senior Business Analyst",
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 4.2,
+    "min_salary_lpa": 2.3,
+    "max_salary_lpa": 6.9,
+    "min_experience": 1
+  },
+  {
+    "company_name": "ABC",
+    "total_vacancies": 130,
+    "roles_count": 3,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Analyst"
+    ],
+    "avg_salary_lpa": 14.1,
+    "min_salary_lpa": 3.0,
+    "max_salary_lpa": 35.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Amadeus",
+    "total_vacancies": 128,
+    "roles_count": 1,
+    "roles": [
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 14.8,
+    "min_salary_lpa": 12.0,
+    "max_salary_lpa": 18.5,
+    "min_experience": 4
+  },
+  {
+    "company_name": "Microsoft Corporation",
+    "total_vacancies": 127,
+    "roles_count": 3,
+    "roles": [
+      "Data Scientist",
+      "Data Engineer",
+      "Senior Data Scientist"
+    ],
+    "avg_salary_lpa": 37.9,
+    "min_salary_lpa": 13.0,
+    "max_salary_lpa": 100.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "HCL Technologies BPO Services",
+    "total_vacancies": 125,
+    "roles_count": 2,
+    "roles": [
+      "Business Analyst",
+      "Data Analyst"
+    ],
+    "avg_salary_lpa": 2.6,
+    "min_salary_lpa": 1.6,
+    "max_salary_lpa": 5.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Nielsen",
+    "total_vacancies": 124,
+    "roles_count": 4,
+    "roles": [
+      "Data Scientist",
+      "Data Analyst",
+      "Senior Data Scientist",
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 6.7,
+    "min_salary_lpa": 2.4,
+    "max_salary_lpa": 13.7,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Standard Chartered Global Business Services",
+    "total_vacancies": 124,
+    "roles_count": 3,
+    "roles": [
+      "Business Analyst",
+      "Senior Business Analyst",
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 16.5,
+    "min_salary_lpa": 5.6,
+    "max_salary_lpa": 29.9,
+    "min_experience": 2
+  },
+  {
+    "company_name": "Altimetrik",
+    "total_vacancies": 123,
+    "roles_count": 3,
+    "roles": [
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 15.4,
+    "min_salary_lpa": 6.5,
+    "max_salary_lpa": 26.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Apex CoVantage",
+    "total_vacancies": 123,
+    "roles_count": 1,
+    "roles": [
+      "Data Analyst"
+    ],
+    "avg_salary_lpa": 1.8,
+    "min_salary_lpa": 1.1,
+    "max_salary_lpa": 3.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Target",
+    "total_vacancies": 123,
+    "roles_count": 5,
+    "roles": [
+      "Data Analyst",
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Data Analyst",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 16.3,
+    "min_salary_lpa": 2.9,
+    "max_salary_lpa": 30.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Morningstar",
+    "total_vacancies": 121,
+    "roles_count": 3,
+    "roles": [
+      "Data Analyst",
+      "Senior Data Scientist",
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 9.4,
+    "min_salary_lpa": 3.0,
+    "max_salary_lpa": 24.6,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Indium Software",
+    "total_vacancies": 118,
+    "roles_count": 6,
+    "roles": [
+      "Data Scientist",
+      "Data Analyst",
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Data Analyst",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 11.0,
+    "min_salary_lpa": 3.6,
+    "max_salary_lpa": 22.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Myntra",
+    "total_vacancies": 118,
+    "roles_count": 3,
+    "roles": [
+      "Data Scientist",
+      "Data Analyst",
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 12.8,
+    "min_salary_lpa": 4.8,
+    "max_salary_lpa": 33.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Brillio",
+    "total_vacancies": 116,
+    "roles_count": 5,
+    "roles": [
+      "Data Scientist",
+      "Data Analyst",
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Data Architect"
+    ],
+    "avg_salary_lpa": 15.8,
+    "min_salary_lpa": 4.0,
+    "max_salary_lpa": 38.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Reliance Industries",
+    "total_vacancies": 116,
+    "roles_count": 4,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Analyst",
+      "Senior Data Scientist"
+    ],
+    "avg_salary_lpa": 8.7,
+    "min_salary_lpa": 2.2,
+    "max_salary_lpa": 21.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Course5",
+    "total_vacancies": 114,
+    "roles_count": 4,
+    "roles": [
+      "Data Scientist",
+      "Data Analyst",
+      "Senior Data Scientist",
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 7.7,
+    "min_salary_lpa": 3.0,
+    "max_salary_lpa": 17.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Kantar",
+    "total_vacancies": 114,
+    "roles_count": 3,
+    "roles": [
+      "Data Scientist",
+      "Data Analyst",
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 7.2,
+    "min_salary_lpa": 3.0,
+    "max_salary_lpa": 18.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Etech Global Services",
+    "total_vacancies": 113,
+    "roles_count": 2,
+    "roles": [
+      "Business Analyst",
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 7.8,
+    "min_salary_lpa": 4.4,
+    "max_salary_lpa": 12.1,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Synechron",
+    "total_vacancies": 113,
+    "roles_count": 4,
+    "roles": [
+      "Business Analyst",
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 15.8,
+    "min_salary_lpa": 9.5,
+    "max_salary_lpa": 25.0,
+    "min_experience": 3
+  },
+  {
+    "company_name": "Ola Cabs",
+    "total_vacancies": 112,
+    "roles_count": 2,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst"
+    ],
+    "avg_salary_lpa": 16.6,
+    "min_salary_lpa": 7.7,
+    "max_salary_lpa": 30.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Sapiens",
+    "total_vacancies": 111,
+    "roles_count": 2,
+    "roles": [
+      "Business Analyst",
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 15.2,
+    "min_salary_lpa": 8.0,
+    "max_salary_lpa": 22.7,
+    "min_experience": 2
+  },
+  {
+    "company_name": "Enquero",
+    "total_vacancies": 110,
+    "roles_count": 3,
+    "roles": [
+      "Data Scientist",
+      "Data Engineer",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 12.3,
+    "min_salary_lpa": 5.0,
+    "max_salary_lpa": 20.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "QUADRANT RESOURCE LLC",
+    "total_vacancies": 109,
+    "roles_count": 1,
+    "roles": [
+      "Data Analyst"
+    ],
+    "avg_salary_lpa": 3.0,
+    "min_salary_lpa": 1.5,
+    "max_salary_lpa": 4.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "BYJU'S",
+    "total_vacancies": 108,
+    "roles_count": 4,
+    "roles": [
+      "Business Analyst",
+      "Data Analyst",
+      "Data Engineer",
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 8.4,
+    "min_salary_lpa": 4.0,
+    "max_salary_lpa": 19.5,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Capita",
+    "total_vacancies": 107,
+    "roles_count": 2,
+    "roles": [
+      "Business Analyst",
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 9.2,
+    "min_salary_lpa": 2.3,
+    "max_salary_lpa": 17.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "General Mills",
+    "total_vacancies": 107,
+    "roles_count": 4,
+    "roles": [
+      "Business Analyst",
+      "Data Analyst",
+      "Senior Business Analyst",
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 10.6,
+    "min_salary_lpa": 5.3,
+    "max_salary_lpa": 16.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "TEKsystems",
+    "total_vacancies": 107,
+    "roles_count": 6,
+    "roles": [
+      "Business Analyst",
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Business Analyst",
+      "Senior Data Analyst",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 14.0,
+    "min_salary_lpa": 6.0,
+    "max_salary_lpa": 26.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Intellect Design Arena",
+    "total_vacancies": 106,
+    "roles_count": 2,
+    "roles": [
+      "Business Analyst",
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 14.2,
+    "min_salary_lpa": 5.8,
+    "max_salary_lpa": 22.5,
+    "min_experience": 2
+  },
+  {
+    "company_name": "Kotak Mahindra Bank",
+    "total_vacancies": 106,
+    "roles_count": 1,
+    "roles": [
+      "Business Analyst"
+    ],
+    "avg_salary_lpa": 7.5,
+    "min_salary_lpa": 3.0,
+    "max_salary_lpa": 15.5,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Persistent Systems",
+    "total_vacancies": 102,
+    "roles_count": 4,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Engineer",
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 14.3,
+    "min_salary_lpa": 4.2,
+    "max_salary_lpa": 30.5,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Teradata",
+    "total_vacancies": 102,
+    "roles_count": 2,
+    "roles": [
+      "Data Engineer",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 13.6,
+    "min_salary_lpa": 8.8,
+    "max_salary_lpa": 18.6,
+    "min_experience": 3
+  },
+  {
+    "company_name": "Mercedes-Benz Research & Development India",
+    "total_vacancies": 101,
+    "roles_count": 5,
+    "roles": [
+      "Data Scientist",
+      "Data Analyst",
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 16.3,
+    "min_salary_lpa": 7.0,
+    "max_salary_lpa": 60.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Ameriprise Financial",
+    "total_vacancies": 99,
+    "roles_count": 4,
+    "roles": [
+      "Business Analyst",
+      "Senior Business Analyst",
+      "Senior Data Analyst",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 10.3,
+    "min_salary_lpa": 3.9,
+    "max_salary_lpa": 18.1,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Aon",
+    "total_vacancies": 98,
+    "roles_count": 3,
+    "roles": [
+      "Business Analyst",
+      "Data Analyst",
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 5.7,
+    "min_salary_lpa": 2.9,
+    "max_salary_lpa": 12.2,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Indegene",
+    "total_vacancies": 98,
+    "roles_count": 5,
+    "roles": [
+      "Data Scientist",
+      "Data Analyst",
+      "Senior Business Analyst",
+      "Senior Data Analyst",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 12.8,
+    "min_salary_lpa": 7.5,
+    "max_salary_lpa": 21.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Cerner",
+    "total_vacancies": 96,
+    "roles_count": 4,
+    "roles": [
+      "Data Analyst",
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 13.0,
+    "min_salary_lpa": 3.0,
+    "max_salary_lpa": 35.8,
+    "min_experience": 1
+  },
+  {
+    "company_name": "IHS Markit",
+    "total_vacancies": 96,
+    "roles_count": 4,
+    "roles": [
+      "Data Analyst",
+      "Senior Data Scientist",
+      "Senior Data Analyst",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 15.8,
+    "min_salary_lpa": 3.5,
+    "max_salary_lpa": 29.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Provana",
+    "total_vacancies": 96,
+    "roles_count": 2,
+    "roles": [
+      "Business Analyst",
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 6.3,
+    "min_salary_lpa": 3.5,
+    "max_salary_lpa": 11.5,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Udaan",
+    "total_vacancies": 96,
+    "roles_count": 2,
+    "roles": [
+      "Business Analyst",
+      "Data Analyst"
+    ],
+    "avg_salary_lpa": 8.3,
+    "min_salary_lpa": 3.0,
+    "max_salary_lpa": 18.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "HERE Technologies",
+    "total_vacancies": 95,
+    "roles_count": 3,
+    "roles": [
+      "Data Analyst",
+      "Senior Data Scientist",
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 11.6,
+    "min_salary_lpa": 2.0,
+    "max_salary_lpa": 30.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Iris Software",
+    "total_vacancies": 95,
+    "roles_count": 4,
+    "roles": [
+      "Data Scientist",
+      "Senior Data Scientist",
+      "Senior Business Analyst",
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 19.1,
+    "min_salary_lpa": 10.0,
+    "max_salary_lpa": 27.0,
+    "min_experience": 5
+  },
+  {
+    "company_name": "CitiusTech",
+    "total_vacancies": 94,
+    "roles_count": 4,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Senior Data Scientist",
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 12.9,
+    "min_salary_lpa": 5.8,
+    "max_salary_lpa": 19.5,
+    "min_experience": 2
+  },
+  {
+    "company_name": "Infosys BPM",
+    "total_vacancies": 94,
+    "roles_count": 3,
+    "roles": [
+      "Business Analyst",
+      "Data Analyst",
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 6.2,
+    "min_salary_lpa": 2.1,
+    "max_salary_lpa": 17.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Yash Technologies",
+    "total_vacancies": 93,
+    "roles_count": 6,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Data Analyst",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 10.7,
+    "min_salary_lpa": 3.2,
+    "max_salary_lpa": 23.5,
+    "min_experience": 0
+  },
+  {
+    "company_name": "EPAM Systems",
+    "total_vacancies": 92,
+    "roles_count": 3,
+    "roles": [
+      "Data Engineer",
+      "Senior Business Analyst",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 20.8,
+    "min_salary_lpa": 8.8,
+    "max_salary_lpa": 27.0,
+    "min_experience": 4
+  },
+  {
+    "company_name": "Meesho",
+    "total_vacancies": 92,
+    "roles_count": 2,
+    "roles": [
+      "Business Analyst",
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 16.6,
+    "min_salary_lpa": 8.5,
+    "max_salary_lpa": 23.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "BCG",
+    "total_vacancies": 91,
+    "roles_count": 5,
+    "roles": [
+      "Data Analyst",
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Data Analyst",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 18.7,
+    "min_salary_lpa": 6.0,
+    "max_salary_lpa": 28.0,
+    "min_experience": 2
+  },
+  {
+    "company_name": "N+A",
+    "total_vacancies": 89,
+    "roles_count": 3,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Analyst"
+    ],
+    "avg_salary_lpa": 6.2,
+    "min_salary_lpa": 2.1,
+    "max_salary_lpa": 15.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Axtria",
+    "total_vacancies": 88,
+    "roles_count": 2,
+    "roles": [
+      "Data Analyst",
+      "Data Engineer"
+    ],
+    "avg_salary_lpa": 10.1,
+    "min_salary_lpa": 6.0,
+    "max_salary_lpa": 15.3,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Oracle Financial Services Software",
+    "total_vacancies": 88,
+    "roles_count": 2,
+    "roles": [
+      "Business Analyst",
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 12.2,
+    "min_salary_lpa": 5.6,
+    "max_salary_lpa": 24.1,
+    "min_experience": 3
+  },
+  {
+    "company_name": "Unisys",
+    "total_vacancies": 87,
+    "roles_count": 2,
+    "roles": [
+      "Business Analyst",
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 10.2,
+    "min_salary_lpa": 4.0,
+    "max_salary_lpa": 17.3,
+    "min_experience": 2
+  },
+  {
+    "company_name": "Altisource",
+    "total_vacancies": 85,
+    "roles_count": 2,
+    "roles": [
+      "Business Analyst",
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 7.0,
+    "min_salary_lpa": 3.3,
+    "max_salary_lpa": 15.0,
+    "min_experience": 2
+  },
+  {
+    "company_name": "ADP Solutions",
+    "total_vacancies": 84,
+    "roles_count": 3,
+    "roles": [
+      "Business Analyst",
+      "Senior Data Analyst",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 10.8,
+    "min_salary_lpa": 4.5,
+    "max_salary_lpa": 19.0,
+    "min_experience": 3
+  },
+  {
+    "company_name": "Lowe's",
+    "total_vacancies": 84,
+    "roles_count": 4,
+    "roles": [
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Data Analyst",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 18.4,
+    "min_salary_lpa": 10.0,
+    "max_salary_lpa": 33.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Ebix Software India",
+    "total_vacancies": 83,
+    "roles_count": 2,
+    "roles": [
+      "Business Analyst",
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 8.4,
+    "min_salary_lpa": 4.5,
+    "max_salary_lpa": 13.5,
+    "min_experience": 2
+  },
+  {
+    "company_name": "Franklin Templeton Investments",
+    "total_vacancies": 82,
+    "roles_count": 4,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Senior Data Scientist",
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 18.8,
+    "min_salary_lpa": 4.7,
+    "max_salary_lpa": 45.0,
+    "min_experience": 3
+  },
+  {
+    "company_name": "McKinsey & Company",
+    "total_vacancies": 82,
+    "roles_count": 5,
+    "roles": [
+      "Data Analyst",
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Data Analyst",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 19.9,
+    "min_salary_lpa": 1.0,
+    "max_salary_lpa": 33.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Merilytics",
+    "total_vacancies": 82,
+    "roles_count": 2,
+    "roles": [
+      "Business Analyst",
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 7.4,
+    "min_salary_lpa": 5.5,
+    "max_salary_lpa": 9.5,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Fidelity Investment",
+    "total_vacancies": 81,
+    "roles_count": 3,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Data Engineer"
+    ],
+    "avg_salary_lpa": 15.5,
+    "min_salary_lpa": 6.8,
+    "max_salary_lpa": 36.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Freelancer.com",
+    "total_vacancies": 81,
+    "roles_count": 3,
+    "roles": [
+      "Data Scientist",
+      "Data Analyst",
+      "Machine Learning Engineer"
+    ],
+    "avg_salary_lpa": 5.3,
+    "min_salary_lpa": 1.5,
+    "max_salary_lpa": 15.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "NIIT Technologies",
+    "total_vacancies": 81,
+    "roles_count": 3,
+    "roles": [
+      "Business Analyst",
+      "Senior Data Scientist",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 13.8,
+    "min_salary_lpa": 7.0,
+    "max_salary_lpa": 17.8,
+    "min_experience": 2
+  },
+  {
+    "company_name": "Capco Technologies",
+    "total_vacancies": 80,
+    "roles_count": 2,
+    "roles": [
+      "Business Analyst",
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 16.1,
+    "min_salary_lpa": 6.0,
+    "max_salary_lpa": 22.0,
+    "min_experience": 3
+  },
+  {
+    "company_name": "Ganit Business Solutions",
+    "total_vacancies": 80,
+    "roles_count": 4,
+    "roles": [
+      "Data Scientist",
+      "Data Analyst",
+      "Senior Data Scientist",
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 11.2,
+    "min_salary_lpa": 5.2,
+    "max_salary_lpa": 21.5,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Google",
+    "total_vacancies": 79,
+    "roles_count": 2,
+    "roles": [
+      "Data Analyst",
+      "Data Engineer"
+    ],
+    "avg_salary_lpa": 30.4,
+    "min_salary_lpa": 2.6,
+    "max_salary_lpa": 93.5,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Schlumberger",
+    "total_vacancies": 78,
+    "roles_count": 2,
+    "roles": [
+      "Business Analyst",
+      "Data Engineer"
+    ],
+    "avg_salary_lpa": 14.1,
+    "min_salary_lpa": 6.5,
+    "max_salary_lpa": 22.5,
+    "min_experience": 2
+  },
+  {
+    "company_name": "Datamatics Global Services",
+    "total_vacancies": 76,
+    "roles_count": 2,
+    "roles": [
+      "Data Analyst",
+      "Machine Learning Engineer"
+    ],
+    "avg_salary_lpa": 3.6,
+    "min_salary_lpa": 1.0,
+    "max_salary_lpa": 8.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Dell EMC",
+    "total_vacancies": 76,
+    "roles_count": 3,
+    "roles": [
+      "Business Analyst",
+      "Senior Business Analyst",
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 8.8,
+    "min_salary_lpa": 3.8,
+    "max_salary_lpa": 13.0,
+    "min_experience": 2
+  },
+  {
+    "company_name": "FE fundinfo",
+    "total_vacancies": 76,
+    "roles_count": 2,
+    "roles": [
+      "Data Analyst",
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 4.0,
+    "min_salary_lpa": 2.5,
+    "max_salary_lpa": 5.4,
+    "min_experience": 0
+  },
+  {
+    "company_name": "GE",
+    "total_vacancies": 76,
+    "roles_count": 4,
+    "roles": [
+      "Data Scientist",
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 17.4,
+    "min_salary_lpa": 8.4,
+    "max_salary_lpa": 30.0,
+    "min_experience": 2
+  },
+  {
+    "company_name": "Gartner",
+    "total_vacancies": 76,
+    "roles_count": 2,
+    "roles": [
+      "Business Analyst",
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 16.4,
+    "min_salary_lpa": 10.0,
+    "max_salary_lpa": 24.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Proziod Analytics",
+    "total_vacancies": 76,
+    "roles_count": 2,
+    "roles": [
+      "Data Analyst",
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 4.2,
+    "min_salary_lpa": 3.0,
+    "max_salary_lpa": 6.3,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Uber",
+    "total_vacancies": 76,
+    "roles_count": 3,
+    "roles": [
+      "Data Analyst",
+      "Senior Business Analyst",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 30.9,
+    "min_salary_lpa": 6.5,
+    "max_salary_lpa": 93.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Gartner India Research and Advisory Services",
+    "total_vacancies": 74,
+    "roles_count": 3,
+    "roles": [
+      "Business Analyst",
+      "Senior Business Analyst",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 18.6,
+    "min_salary_lpa": 10.0,
+    "max_salary_lpa": 26.0,
+    "min_experience": 2
+  },
+  {
+    "company_name": "Nvidia",
+    "total_vacancies": 74,
+    "roles_count": 2,
+    "roles": [
+      "Data Analyst",
+      "Senior Data Scientist"
+    ],
+    "avg_salary_lpa": 12.3,
+    "min_salary_lpa": 2.5,
+    "max_salary_lpa": 28.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Confidential",
+    "total_vacancies": 73,
+    "roles_count": 3,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst",
+      "Machine Learning Engineer"
+    ],
+    "avg_salary_lpa": 8.1,
+    "min_salary_lpa": 4.1,
+    "max_salary_lpa": 18.5,
+    "min_experience": 1
+  },
+  {
+    "company_name": "DBS Bank",
+    "total_vacancies": 72,
+    "roles_count": 4,
+    "roles": [
+      "Data Scientist",
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 17.2,
+    "min_salary_lpa": 9.0,
+    "max_salary_lpa": 30.0,
+    "min_experience": 2
+  },
+  {
+    "company_name": "Futurense Technologies",
+    "total_vacancies": 72,
+    "roles_count": 1,
+    "roles": [
+      "Data Engineer"
+    ],
+    "avg_salary_lpa": 9.5,
+    "min_salary_lpa": 7.0,
+    "max_salary_lpa": 12.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "ANR Software",
+    "total_vacancies": 71,
+    "roles_count": 1,
+    "roles": [
+      "Business Analyst"
+    ],
+    "avg_salary_lpa": 4.5,
+    "min_salary_lpa": 3.1,
+    "max_salary_lpa": 7.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "IVY Comptech",
+    "total_vacancies": 71,
+    "roles_count": 3,
+    "roles": [
+      "Business Analyst",
+      "Senior Business Analyst",
+      "Data Architect"
+    ],
+    "avg_salary_lpa": 19.0,
+    "min_salary_lpa": 8.5,
+    "max_salary_lpa": 29.0,
+    "min_experience": 4
+  },
+  {
+    "company_name": "ThoughtWorks",
+    "total_vacancies": 71,
+    "roles_count": 3,
+    "roles": [
+      "Business Analyst",
+      "Data Engineer",
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 16.9,
+    "min_salary_lpa": 8.5,
+    "max_salary_lpa": 26.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Azentio",
+    "total_vacancies": 68,
+    "roles_count": 2,
+    "roles": [
+      "Business Analyst",
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 10.2,
+    "min_salary_lpa": 4.3,
+    "max_salary_lpa": 17.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Continental Automotive Components",
+    "total_vacancies": 68,
+    "roles_count": 2,
+    "roles": [
+      "Data Analyst",
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 2.8,
+    "min_salary_lpa": 2.2,
+    "max_salary_lpa": 3.5,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Dunnhumby",
+    "total_vacancies": 68,
+    "roles_count": 4,
+    "roles": [
+      "Data Scientist",
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 13.6,
+    "min_salary_lpa": 8.5,
+    "max_salary_lpa": 22.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Mercer",
+    "total_vacancies": 68,
+    "roles_count": 3,
+    "roles": [
+      "Data Analyst",
+      "Senior Business Analyst",
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 5.0,
+    "min_salary_lpa": 2.3,
+    "max_salary_lpa": 17.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "RevGurus Info India",
+    "total_vacancies": 68,
+    "roles_count": 1,
+    "roles": [
+      "Business Analyst"
+    ],
+    "avg_salary_lpa": 8.3,
+    "min_salary_lpa": 5.8,
+    "max_salary_lpa": 11.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "SG Analytics",
+    "total_vacancies": 68,
+    "roles_count": 3,
+    "roles": [
+      "Data Analyst",
+      "Data Engineer",
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 6.3,
+    "min_salary_lpa": 3.0,
+    "max_salary_lpa": 12.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Ardem Data Services",
+    "total_vacancies": 67,
+    "roles_count": 1,
+    "roles": [
+      "Data Analyst"
+    ],
+    "avg_salary_lpa": 1.9,
+    "min_salary_lpa": 1.1,
+    "max_salary_lpa": 3.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "E2OPEN",
+    "total_vacancies": 67,
+    "roles_count": 2,
+    "roles": [
+      "Data Analyst",
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 5.1,
+    "min_salary_lpa": 3.2,
+    "max_salary_lpa": 8.3,
+    "min_experience": 2
+  },
+  {
+    "company_name": "Nagarro",
+    "total_vacancies": 67,
+    "roles_count": 4,
+    "roles": [
+      "Data Scientist",
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 16.8,
+    "min_salary_lpa": 7.0,
+    "max_salary_lpa": 32.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Impact Analytics",
+    "total_vacancies": 66,
+    "roles_count": 2,
+    "roles": [
+      "Data Scientist",
+      "Senior Data Scientist"
+    ],
+    "avg_salary_lpa": 11.2,
+    "min_salary_lpa": 7.0,
+    "max_salary_lpa": 19.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "JLL",
+    "total_vacancies": 66,
+    "roles_count": 3,
+    "roles": [
+      "Data Analyst",
+      "Senior Data Analyst",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 11.7,
+    "min_salary_lpa": 3.5,
+    "max_salary_lpa": 33.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Johnson & Johnson",
+    "total_vacancies": 66,
+    "roles_count": 4,
+    "roles": [
+      "Data Analyst",
+      "Senior Data Scientist",
+      "Senior Data Analyst",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 14.4,
+    "min_salary_lpa": 3.0,
+    "max_salary_lpa": 35.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Cybage",
+    "total_vacancies": 65,
+    "roles_count": 2,
+    "roles": [
+      "Business Analyst",
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 16.3,
+    "min_salary_lpa": 10.1,
+    "max_salary_lpa": 23.0,
+    "min_experience": 5
+  },
+  {
+    "company_name": "Tata Communications",
+    "total_vacancies": 65,
+    "roles_count": 2,
+    "roles": [
+      "Business Analyst",
+      "Data Analyst"
+    ],
+    "avg_salary_lpa": 4.5,
+    "min_salary_lpa": 2.1,
+    "max_salary_lpa": 9.2,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Verificient Technologies",
+    "total_vacancies": 65,
+    "roles_count": 1,
+    "roles": [
+      "Data Analyst"
+    ],
+    "avg_salary_lpa": 2.2,
+    "min_salary_lpa": 1.8,
+    "max_salary_lpa": 3.3,
+    "min_experience": 0
+  },
+  {
+    "company_name": "CRG Solutions",
+    "total_vacancies": 64,
+    "roles_count": 1,
+    "roles": [
+      "Data Analyst"
+    ],
+    "avg_salary_lpa": 5.8,
+    "min_salary_lpa": 3.7,
+    "max_salary_lpa": 9.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Bosch Global Software Technologies",
+    "total_vacancies": 63,
+    "roles_count": 4,
+    "roles": [
+      "Data Scientist",
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 14.2,
+    "min_salary_lpa": 3.8,
+    "max_salary_lpa": 30.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Sutherland Global Services",
+    "total_vacancies": 63,
+    "roles_count": 3,
+    "roles": [
+      "Data Scientist",
+      "Data Analyst",
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 6.6,
+    "min_salary_lpa": 2.8,
+    "max_salary_lpa": 12.3,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Thomson Reuters",
+    "total_vacancies": 63,
+    "roles_count": 4,
+    "roles": [
+      "Data Analyst",
+      "Senior Data Scientist",
+      "Senior Business Analyst",
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 11.2,
+    "min_salary_lpa": 2.1,
+    "max_salary_lpa": 27.5,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Broadridge Financial Solutions",
+    "total_vacancies": 62,
+    "roles_count": 1,
+    "roles": [
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 10.8,
+    "min_salary_lpa": 7.2,
+    "max_salary_lpa": 16.0,
+    "min_experience": 3
+  },
+  {
+    "company_name": "Freelance Consultants",
+    "total_vacancies": 62,
+    "roles_count": 3,
+    "roles": [
+      "Data Scientist",
+      "Data Analyst",
+      "Senior Data Scientist"
+    ],
+    "avg_salary_lpa": 15.2,
+    "min_salary_lpa": 1.8,
+    "max_salary_lpa": 42.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Kriya It",
+    "total_vacancies": 61,
+    "roles_count": 1,
+    "roles": [
+      "Data Analyst"
+    ],
+    "avg_salary_lpa": 1.6,
+    "min_salary_lpa": 1.0,
+    "max_salary_lpa": 2.5,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Happiest Minds Technologies",
+    "total_vacancies": 60,
+    "roles_count": 5,
+    "roles": [
+      "Data Scientist",
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Data Engineer",
+      "Data Architect"
+    ],
+    "avg_salary_lpa": 15.4,
+    "min_salary_lpa": 4.0,
+    "max_salary_lpa": 29.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Indus Valley Partners",
+    "total_vacancies": 60,
+    "roles_count": 1,
+    "roles": [
+      "Business Analyst"
+    ],
+    "avg_salary_lpa": 17.0,
+    "min_salary_lpa": 14.0,
+    "max_salary_lpa": 20.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "MSC Technology India",
+    "total_vacancies": 60,
+    "roles_count": 2,
+    "roles": [
+      "Business Analyst",
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 5.5,
+    "min_salary_lpa": 2.9,
+    "max_salary_lpa": 8.7,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Xyz Company",
+    "total_vacancies": 60,
+    "roles_count": 2,
+    "roles": [
+      "Business Analyst",
+      "Data Engineer"
+    ],
+    "avg_salary_lpa": 12.3,
+    "min_salary_lpa": 4.4,
+    "max_salary_lpa": 23.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Schneider Electric",
+    "total_vacancies": 59,
+    "roles_count": 2,
+    "roles": [
+      "Data Analyst",
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 7.9,
+    "min_salary_lpa": 3.0,
+    "max_salary_lpa": 17.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "CRMnext",
+    "total_vacancies": 58,
+    "roles_count": 1,
+    "roles": [
+      "Business Analyst"
+    ],
+    "avg_salary_lpa": 6.6,
+    "min_salary_lpa": 5.0,
+    "max_salary_lpa": 8.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Fidelity National Financial",
+    "total_vacancies": 58,
+    "roles_count": 2,
+    "roles": [
+      "Data Analyst",
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 4.1,
+    "min_salary_lpa": 1.9,
+    "max_salary_lpa": 6.2,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Adobe",
+    "total_vacancies": 57,
+    "roles_count": 5,
+    "roles": [
+      "Data Scientist",
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Data Analyst",
+      "Data Architect"
+    ],
+    "avg_salary_lpa": 28.0,
+    "min_salary_lpa": 9.8,
+    "max_salary_lpa": 50.0,
+    "min_experience": 3
+  },
+  {
+    "company_name": "NeoSoft Technologies",
+    "total_vacancies": 57,
+    "roles_count": 1,
+    "roles": [
+      "Business Analyst"
+    ],
+    "avg_salary_lpa": 6.9,
+    "min_salary_lpa": 3.1,
+    "max_salary_lpa": 10.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Systech Solutions",
+    "total_vacancies": 57,
+    "roles_count": 2,
+    "roles": [
+      "Data Analyst",
+      "Data Engineer"
+    ],
+    "avg_salary_lpa": 4.4,
+    "min_salary_lpa": 3.3,
+    "max_salary_lpa": 7.5,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Hinduja Global Solutions",
+    "total_vacancies": 56,
+    "roles_count": 3,
+    "roles": [
+      "Data Analyst",
+      "Senior Data Scientist",
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 7.5,
+    "min_salary_lpa": 2.0,
+    "max_salary_lpa": 24.7,
+    "min_experience": 1
+  },
+  {
+    "company_name": "NSE.IT",
+    "total_vacancies": 56,
+    "roles_count": 1,
+    "roles": [
+      "Business Analyst"
+    ],
+    "avg_salary_lpa": 6.8,
+    "min_salary_lpa": 3.5,
+    "max_salary_lpa": 12.5,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Straive",
+    "total_vacancies": 56,
+    "roles_count": 2,
+    "roles": [
+      "Data Analyst",
+      "Machine Learning Engineer"
+    ],
+    "avg_salary_lpa": 5.9,
+    "min_salary_lpa": 1.8,
+    "max_salary_lpa": 13.5,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Xoriant",
+    "total_vacancies": 56,
+    "roles_count": 3,
+    "roles": [
+      "Data Scientist",
+      "Senior Data Scientist",
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 15.5,
+    "min_salary_lpa": 5.3,
+    "max_salary_lpa": 23.5,
+    "min_experience": 2
+  },
+  {
+    "company_name": "Commonwealth Bank of Australia",
+    "total_vacancies": 55,
+    "roles_count": 4,
+    "roles": [
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Business Analyst",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 27.9,
+    "min_salary_lpa": 9.9,
+    "max_salary_lpa": 43.1,
+    "min_experience": 2
+  },
+  {
+    "company_name": "Great Learning",
+    "total_vacancies": 55,
+    "roles_count": 2,
+    "roles": [
+      "Data Scientist",
+      "Senior Data Scientist"
+    ],
+    "avg_salary_lpa": 10.8,
+    "min_salary_lpa": 7.0,
+    "max_salary_lpa": 14.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "LiquidHub",
+    "total_vacancies": 55,
+    "roles_count": 2,
+    "roles": [
+      "Data Analyst",
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 3.0,
+    "min_salary_lpa": 1.4,
+    "max_salary_lpa": 5.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Micron Technology",
+    "total_vacancies": 55,
+    "roles_count": 3,
+    "roles": [
+      "Data Scientist",
+      "Data Engineer",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 16.4,
+    "min_salary_lpa": 8.4,
+    "max_salary_lpa": 29.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Caterpillar Inc",
+    "total_vacancies": 54,
+    "roles_count": 3,
+    "roles": [
+      "Data Scientist",
+      "Data Analyst",
+      "Senior Data Scientist"
+    ],
+    "avg_salary_lpa": 13.9,
+    "min_salary_lpa": 3.6,
+    "max_salary_lpa": 24.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Competent Software",
+    "total_vacancies": 54,
+    "roles_count": 1,
+    "roles": [
+      "Data Analyst"
+    ],
+    "avg_salary_lpa": 3.1,
+    "min_salary_lpa": 2.0,
+    "max_salary_lpa": 4.1,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Exela Technologies",
+    "total_vacancies": 54,
+    "roles_count": 1,
+    "roles": [
+      "Business Analyst"
+    ],
+    "avg_salary_lpa": 8.3,
+    "min_salary_lpa": 5.1,
+    "max_salary_lpa": 12.0,
+    "min_experience": 3
+  },
+  {
+    "company_name": "The Smart Cube",
+    "total_vacancies": 54,
+    "roles_count": 2,
+    "roles": [
+      "Data Analyst",
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 8.7,
+    "min_salary_lpa": 6.3,
+    "max_salary_lpa": 12.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Analytics Quotient",
+    "total_vacancies": 53,
+    "roles_count": 1,
+    "roles": [
+      "Business Analyst"
+    ],
+    "avg_salary_lpa": 5.3,
+    "min_salary_lpa": 4.0,
+    "max_salary_lpa": 6.8,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Collabera Technologies",
+    "total_vacancies": 53,
+    "roles_count": 4,
+    "roles": [
+      "Senior Business Analyst",
+      "Senior Data Analyst",
+      "Senior Data Engineer",
+      "Data Architect"
+    ],
+    "avg_salary_lpa": 13.1,
+    "min_salary_lpa": 7.5,
+    "max_salary_lpa": 25.0,
+    "min_experience": 2
+  },
+  {
+    "company_name": "MasterCard",
+    "total_vacancies": 53,
+    "roles_count": 3,
+    "roles": [
+      "Data Scientist",
+      "Data Engineer",
+      "Senior Data Scientist"
+    ],
+    "avg_salary_lpa": 20.1,
+    "min_salary_lpa": 12.1,
+    "max_salary_lpa": 36.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "QualityKiosk Technologies",
+    "total_vacancies": 53,
+    "roles_count": 1,
+    "roles": [
+      "Business Analyst"
+    ],
+    "avg_salary_lpa": 7.7,
+    "min_salary_lpa": 3.6,
+    "max_salary_lpa": 13.0,
+    "min_experience": 2
+  },
+  {
+    "company_name": "S&P Global Market Intelligence",
+    "total_vacancies": 53,
+    "roles_count": 2,
+    "roles": [
+      "Data Analyst",
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 5.5,
+    "min_salary_lpa": 3.0,
+    "max_salary_lpa": 9.5,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Polestar Solutions & Services India",
+    "total_vacancies": 52,
+    "roles_count": 1,
+    "roles": [
+      "Business Analyst"
+    ],
+    "avg_salary_lpa": 6.1,
+    "min_salary_lpa": 4.2,
+    "max_salary_lpa": 8.8,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Sonata Software",
+    "total_vacancies": 52,
+    "roles_count": 2,
+    "roles": [
+      "Data Scientist",
+      "Business Analyst"
+    ],
+    "avg_salary_lpa": 7.9,
+    "min_salary_lpa": 4.8,
+    "max_salary_lpa": 12.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Veeraraghavan & Company",
+    "total_vacancies": 52,
+    "roles_count": 1,
+    "roles": [
+      "Business Analyst"
+    ],
+    "avg_salary_lpa": 1.7,
+    "min_salary_lpa": 1.2,
+    "max_salary_lpa": 2.3,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Better.com",
+    "total_vacancies": 51,
+    "roles_count": 1,
+    "roles": [
+      "Business Analyst"
+    ],
+    "avg_salary_lpa": 7.8,
+    "min_salary_lpa": 6.0,
+    "max_salary_lpa": 11.2,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Innominds Software",
+    "total_vacancies": 51,
+    "roles_count": 2,
+    "roles": [
+      "Data Scientist",
+      "Senior Data Scientist"
+    ],
+    "avg_salary_lpa": 14.7,
+    "min_salary_lpa": 6.5,
+    "max_salary_lpa": 27.5,
+    "min_experience": 1
+  },
+  {
+    "company_name": "KJ System",
+    "total_vacancies": 50,
+    "roles_count": 1,
+    "roles": [
+      "Business Analyst"
+    ],
+    "avg_salary_lpa": 2.9,
+    "min_salary_lpa": 2.4,
+    "max_salary_lpa": 3.6,
+    "min_experience": 1
+  },
+  {
+    "company_name": "IndusInd Bank",
+    "total_vacancies": 49,
+    "roles_count": 1,
+    "roles": [
+      "Business Analyst"
+    ],
+    "avg_salary_lpa": 8.0,
+    "min_salary_lpa": 4.0,
+    "max_salary_lpa": 14.3,
+    "min_experience": 2
+  },
+  {
+    "company_name": "Kyndryl",
+    "total_vacancies": 49,
+    "roles_count": 3,
+    "roles": [
+      "Data Scientist",
+      "Data Engineer",
+      "Senior Data Scientist"
+    ],
+    "avg_salary_lpa": 23.8,
+    "min_salary_lpa": 6.0,
+    "max_salary_lpa": 93.0,
+    "min_experience": 2
+  },
+  {
+    "company_name": "Optimint Solutions",
+    "total_vacancies": 49,
+    "roles_count": 1,
+    "roles": [
+      "Data Analyst"
+    ],
+    "avg_salary_lpa": 2.2,
+    "min_salary_lpa": 1.7,
+    "max_salary_lpa": 3.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Vinculum Solutions",
+    "total_vacancies": 49,
+    "roles_count": 1,
+    "roles": [
+      "Business Analyst"
+    ],
+    "avg_salary_lpa": 8.8,
+    "min_salary_lpa": 6.0,
+    "max_salary_lpa": 13.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "GE Healthcare",
+    "total_vacancies": 48,
+    "roles_count": 3,
+    "roles": [
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 19.4,
+    "min_salary_lpa": 10.0,
+    "max_salary_lpa": 33.0,
+    "min_experience": 3
+  },
+  {
+    "company_name": "Photon Interactive",
+    "total_vacancies": 48,
+    "roles_count": 2,
+    "roles": [
+      "Senior Business Analyst",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 9.0,
+    "min_salary_lpa": 6.3,
+    "max_salary_lpa": 15.0,
+    "min_experience": 4
+  },
+  {
+    "company_name": "Shipco Transport",
+    "total_vacancies": 48,
+    "roles_count": 1,
+    "roles": [
+      "Business Analyst"
+    ],
+    "avg_salary_lpa": 3.4,
+    "min_salary_lpa": 2.1,
+    "max_salary_lpa": 5.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Yodlee",
+    "total_vacancies": 48,
+    "roles_count": 3,
+    "roles": [
+      "Data Analyst",
+      "Senior Data Scientist",
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 15.0,
+    "min_salary_lpa": 3.9,
+    "max_salary_lpa": 36.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "DataMetica",
+    "total_vacancies": 47,
+    "roles_count": 2,
+    "roles": [
+      "Data Engineer",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 9.9,
+    "min_salary_lpa": 4.0,
+    "max_salary_lpa": 23.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Intelligent Image Management Inc",
+    "total_vacancies": 47,
+    "roles_count": 1,
+    "roles": [
+      "Data Analyst"
+    ],
+    "avg_salary_lpa": 1.4,
+    "min_salary_lpa": 0.2,
+    "max_salary_lpa": 2.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Reliance Retail",
+    "total_vacancies": 47,
+    "roles_count": 2,
+    "roles": [
+      "Business Analyst",
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 6.5,
+    "min_salary_lpa": 3.5,
+    "max_salary_lpa": 13.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Sopra Steria",
+    "total_vacancies": 47,
+    "roles_count": 2,
+    "roles": [
+      "Data Scientist",
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 13.3,
+    "min_salary_lpa": 8.0,
+    "max_salary_lpa": 19.7,
+    "min_experience": 3
+  },
+  {
+    "company_name": "UnitedLex",
+    "total_vacancies": 47,
+    "roles_count": 1,
+    "roles": [
+      "Data Analyst"
+    ],
+    "avg_salary_lpa": 3.1,
+    "min_salary_lpa": 2.5,
+    "max_salary_lpa": 4.2,
+    "min_experience": 1
+  },
+  {
+    "company_name": "CAMP Systems",
+    "total_vacancies": 46,
+    "roles_count": 2,
+    "roles": [
+      "Data Analyst",
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 4.4,
+    "min_salary_lpa": 3.0,
+    "max_salary_lpa": 6.2,
+    "min_experience": 1
+  },
+  {
+    "company_name": "InSync Analytics",
+    "total_vacancies": 46,
+    "roles_count": 2,
+    "roles": [
+      "Data Analyst",
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 3.0,
+    "min_salary_lpa": 1.9,
+    "max_salary_lpa": 4.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Lumiq.ai",
+    "total_vacancies": 46,
+    "roles_count": 3,
+    "roles": [
+      "Data Scientist",
+      "Data Engineer",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 10.1,
+    "min_salary_lpa": 6.0,
+    "max_salary_lpa": 17.5,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Subex",
+    "total_vacancies": 46,
+    "roles_count": 3,
+    "roles": [
+      "Data Scientist",
+      "Senior Data Scientist",
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 14.7,
+    "min_salary_lpa": 5.5,
+    "max_salary_lpa": 37.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Bahar Infocons",
+    "total_vacancies": 45,
+    "roles_count": 1,
+    "roles": [
+      "Data Analyst"
+    ],
+    "avg_salary_lpa": 2.2,
+    "min_salary_lpa": 1.4,
+    "max_salary_lpa": 3.1,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Lentra AI",
+    "total_vacancies": 45,
+    "roles_count": 1,
+    "roles": [
+      "Business Analyst"
+    ],
+    "avg_salary_lpa": 6.8,
+    "min_salary_lpa": 4.1,
+    "max_salary_lpa": 11.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Morgan Stanley",
+    "total_vacancies": 45,
+    "roles_count": 3,
+    "roles": [
+      "Data Scientist",
+      "Data Engineer",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 22.5,
+    "min_salary_lpa": 10.5,
+    "max_salary_lpa": 36.5,
+    "min_experience": 2
+  },
+  {
+    "company_name": "SAP",
+    "total_vacancies": 45,
+    "roles_count": 2,
+    "roles": [
+      "Data Scientist",
+      "Senior Data Scientist"
+    ],
+    "avg_salary_lpa": 27.0,
+    "min_salary_lpa": 11.0,
+    "max_salary_lpa": 51.0,
+    "min_experience": 2
+  },
+  {
+    "company_name": "Siemens",
+    "total_vacancies": 45,
+    "roles_count": 3,
+    "roles": [
+      "Data Scientist",
+      "Data Engineer",
+      "Machine Learning Engineer"
+    ],
+    "avg_salary_lpa": 12.7,
+    "min_salary_lpa": 6.0,
+    "max_salary_lpa": 24.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Fidelity International",
+    "total_vacancies": 44,
+    "roles_count": 2,
+    "roles": [
+      "Senior Business Analyst",
+      "Data Architect"
+    ],
+    "avg_salary_lpa": 33.2,
+    "min_salary_lpa": 13.5,
+    "max_salary_lpa": 93.0,
+    "min_experience": 5
+  },
+  {
+    "company_name": "Wolters Kluwer",
+    "total_vacancies": 44,
+    "roles_count": 2,
+    "roles": [
+      "Data Scientist",
+      "Senior Data Scientist"
+    ],
+    "avg_salary_lpa": 18.1,
+    "min_salary_lpa": 9.9,
+    "max_salary_lpa": 30.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Acidaes Solutions",
+    "total_vacancies": 43,
+    "roles_count": 1,
+    "roles": [
+      "Business Analyst"
+    ],
+    "avg_salary_lpa": 7.0,
+    "min_salary_lpa": 5.0,
+    "max_salary_lpa": 10.0,
+    "min_experience": 2
+  },
+  {
+    "company_name": "Atos",
+    "total_vacancies": 43,
+    "roles_count": 3,
+    "roles": [
+      "Data Scientist",
+      "Data Engineer",
+      "Data Architect"
+    ],
+    "avg_salary_lpa": 14.8,
+    "min_salary_lpa": 3.7,
+    "max_salary_lpa": 35.7,
+    "min_experience": 2
+  },
+  {
+    "company_name": "Citigroup",
+    "total_vacancies": 43,
+    "roles_count": 3,
+    "roles": [
+      "Data Scientist",
+      "Senior Business Analyst",
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 17.0,
+    "min_salary_lpa": 9.2,
+    "max_salary_lpa": 27.5,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Landmark Group",
+    "total_vacancies": 43,
+    "roles_count": 1,
+    "roles": [
+      "Business Analyst"
+    ],
+    "avg_salary_lpa": 11.6,
+    "min_salary_lpa": 7.5,
+    "max_salary_lpa": 15.0,
+    "min_experience": 2
+  },
+  {
+    "company_name": "Sigmoid Analytics",
+    "total_vacancies": 43,
+    "roles_count": 3,
+    "roles": [
+      "Data Scientist",
+      "Data Engineer",
+      "Senior Data Scientist"
+    ],
+    "avg_salary_lpa": 17.5,
+    "min_salary_lpa": 11.0,
+    "max_salary_lpa": 30.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "eClinicalWorks",
+    "total_vacancies": 43,
+    "roles_count": 1,
+    "roles": [
+      "Business Analyst"
+    ],
+    "avg_salary_lpa": 5.3,
+    "min_salary_lpa": 3.8,
+    "max_salary_lpa": 8.3,
+    "min_experience": 2
+  },
+  {
+    "company_name": "Care Health Insurance",
+    "total_vacancies": 42,
+    "roles_count": 1,
+    "roles": [
+      "Business Analyst"
+    ],
+    "avg_salary_lpa": 5.9,
+    "min_salary_lpa": 3.3,
+    "max_salary_lpa": 8.4,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Decision Point",
+    "total_vacancies": 42,
+    "roles_count": 3,
+    "roles": [
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 13.4,
+    "min_salary_lpa": 4.8,
+    "max_salary_lpa": 25.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "IBS Software Services",
+    "total_vacancies": 42,
+    "roles_count": 1,
+    "roles": [
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 6.2,
+    "min_salary_lpa": 4.3,
+    "max_salary_lpa": 8.3,
+    "min_experience": 2
+  },
+  {
+    "company_name": "Sphera Solutions",
+    "total_vacancies": 42,
+    "roles_count": 1,
+    "roles": [
+      "Data Analyst"
+    ],
+    "avg_salary_lpa": 3.4,
+    "min_salary_lpa": 3.2,
+    "max_salary_lpa": 3.8,
+    "min_experience": 0
+  },
+  {
+    "company_name": "VeeTechnologies",
+    "total_vacancies": 42,
+    "roles_count": 2,
+    "roles": [
+      "Data Analyst",
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 2.5,
+    "min_salary_lpa": 1.2,
+    "max_salary_lpa": 4.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Visa",
+    "total_vacancies": 42,
+    "roles_count": 2,
+    "roles": [
+      "Data Engineer",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 28.0,
+    "min_salary_lpa": 16.5,
+    "max_salary_lpa": 37.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Celebal Technologies",
+    "total_vacancies": 41,
+    "roles_count": 2,
+    "roles": [
+      "Data Scientist",
+      "Data Engineer"
+    ],
+    "avg_salary_lpa": 7.0,
+    "min_salary_lpa": 4.5,
+    "max_salary_lpa": 13.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Incedo",
+    "total_vacancies": 41,
+    "roles_count": 2,
+    "roles": [
+      "Data Scientist",
+      "Senior Data Scientist"
+    ],
+    "avg_salary_lpa": 15.5,
+    "min_salary_lpa": 7.0,
+    "max_salary_lpa": 25.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Koch Business Solutions",
+    "total_vacancies": 41,
+    "roles_count": 3,
+    "roles": [
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 30.9,
+    "min_salary_lpa": 12.0,
+    "max_salary_lpa": 51.0,
+    "min_experience": 4
+  },
+  {
+    "company_name": "Tavant Technologies",
+    "total_vacancies": 41,
+    "roles_count": 3,
+    "roles": [
+      "Data Engineer",
+      "Senior Business Analyst",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 11.3,
+    "min_salary_lpa": 5.8,
+    "max_salary_lpa": 20.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Atidiv",
+    "total_vacancies": 40,
+    "roles_count": 1,
+    "roles": [
+      "Business Analyst"
+    ],
+    "avg_salary_lpa": 3.0,
+    "min_salary_lpa": 2.2,
+    "max_salary_lpa": 4.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "NatWest Markets",
+    "total_vacancies": 40,
+    "roles_count": 2,
+    "roles": [
+      "Data Scientist",
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 14.7,
+    "min_salary_lpa": 5.0,
+    "max_salary_lpa": 26.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Pboplus Consulting Services",
+    "total_vacancies": 40,
+    "roles_count": 1,
+    "roles": [
+      "Business Analyst"
+    ],
+    "avg_salary_lpa": 4.0,
+    "min_salary_lpa": 3.0,
+    "max_salary_lpa": 5.2,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Principal Global Services",
+    "total_vacancies": 40,
+    "roles_count": 2,
+    "roles": [
+      "Data Engineer",
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 11.8,
+    "min_salary_lpa": 5.8,
+    "max_salary_lpa": 17.5,
+    "min_experience": 1
+  },
+  {
+    "company_name": "R Systems International",
+    "total_vacancies": 40,
+    "roles_count": 2,
+    "roles": [
+      "Data Scientist",
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 15.5,
+    "min_salary_lpa": 7.5,
+    "max_salary_lpa": 24.4,
+    "min_experience": 2
+  },
+  {
+    "company_name": "Randstad",
+    "total_vacancies": 40,
+    "roles_count": 2,
+    "roles": [
+      "Data Analyst",
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 5.6,
+    "min_salary_lpa": 2.5,
+    "max_salary_lpa": 12.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Tsys Card Tech Services",
+    "total_vacancies": 40,
+    "roles_count": 1,
+    "roles": [
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 15.7,
+    "min_salary_lpa": 12.5,
+    "max_salary_lpa": 18.9,
+    "min_experience": 6
+  },
+  {
+    "company_name": "CMS Computers Limited (INDIA)",
+    "total_vacancies": 39,
+    "roles_count": 1,
+    "roles": [
+      "Business Analyst"
+    ],
+    "avg_salary_lpa": 4.0,
+    "min_salary_lpa": 2.6,
+    "max_salary_lpa": 6.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Factspan Analytics",
+    "total_vacancies": 39,
+    "roles_count": 1,
+    "roles": [
+      "Business Analyst"
+    ],
+    "avg_salary_lpa": 8.1,
+    "min_salary_lpa": 6.5,
+    "max_salary_lpa": 10.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "GE Aviation",
+    "total_vacancies": 39,
+    "roles_count": 3,
+    "roles": [
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 17.7,
+    "min_salary_lpa": 9.0,
+    "max_salary_lpa": 29.0,
+    "min_experience": 2
+  },
+  {
+    "company_name": "Goldman Sachs",
+    "total_vacancies": 39,
+    "roles_count": 1,
+    "roles": [
+      "Business Analyst"
+    ],
+    "avg_salary_lpa": 14.9,
+    "min_salary_lpa": 6.5,
+    "max_salary_lpa": 30.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Hindustan Unilever",
+    "total_vacancies": 39,
+    "roles_count": 1,
+    "roles": [
+      "Business Analyst"
+    ],
+    "avg_salary_lpa": 7.1,
+    "min_salary_lpa": 3.4,
+    "max_salary_lpa": 10.7,
+    "min_experience": 2
+  },
+  {
+    "company_name": "Simplify Healthcare",
+    "total_vacancies": 39,
+    "roles_count": 1,
+    "roles": [
+      "Business Analyst"
+    ],
+    "avg_salary_lpa": 5.8,
+    "min_salary_lpa": 4.0,
+    "max_salary_lpa": 9.5,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Data Entry",
+    "total_vacancies": 38,
+    "roles_count": 1,
+    "roles": [
+      "Data Analyst"
+    ],
+    "avg_salary_lpa": 1.7,
+    "min_salary_lpa": 0.2,
+    "max_salary_lpa": 3.4,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Ecolab Digital Center",
+    "total_vacancies": 38,
+    "roles_count": 4,
+    "roles": [
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Data Analyst",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 17.2,
+    "min_salary_lpa": 8.5,
+    "max_salary_lpa": 26.1,
+    "min_experience": 2
+  },
+  {
+    "company_name": "Fluentgrid",
+    "total_vacancies": 38,
+    "roles_count": 1,
+    "roles": [
+      "Business Analyst"
+    ],
+    "avg_salary_lpa": 5.5,
+    "min_salary_lpa": 3.2,
+    "max_salary_lpa": 8.8,
+    "min_experience": 2
+  },
+  {
+    "company_name": "Huawei Technologies",
+    "total_vacancies": 38,
+    "roles_count": 1,
+    "roles": [
+      "Data Analyst"
+    ],
+    "avg_salary_lpa": 4.3,
+    "min_salary_lpa": 3.3,
+    "max_salary_lpa": 5.8,
+    "min_experience": 2
+  },
+  {
+    "company_name": "International School of Engineering",
+    "total_vacancies": 38,
+    "roles_count": 2,
+    "roles": [
+      "Data Scientist",
+      "Senior Data Scientist"
+    ],
+    "avg_salary_lpa": 15.3,
+    "min_salary_lpa": 5.4,
+    "max_salary_lpa": 25.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Philips",
+    "total_vacancies": 38,
+    "roles_count": 3,
+    "roles": [
+      "Data Scientist",
+      "Senior Data Scientist",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 19.3,
+    "min_salary_lpa": 11.2,
+    "max_salary_lpa": 30.0,
+    "min_experience": 2
+  },
+  {
+    "company_name": "Whitehat jr",
+    "total_vacancies": 38,
+    "roles_count": 2,
+    "roles": [
+      "Data Analyst",
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 9.2,
+    "min_salary_lpa": 4.3,
+    "max_salary_lpa": 17.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Innodatatics",
+    "total_vacancies": 37,
+    "roles_count": 1,
+    "roles": [
+      "Data Scientist"
+    ],
+    "avg_salary_lpa": 4.5,
+    "min_salary_lpa": 2.0,
+    "max_salary_lpa": 7.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "LearningMate Solutions",
+    "total_vacancies": 37,
+    "roles_count": 2,
+    "roles": [
+      "Senior Business Analyst",
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 9.8,
+    "min_salary_lpa": 6.4,
+    "max_salary_lpa": 14.0,
+    "min_experience": 3
+  },
+  {
+    "company_name": "Blue Yonder",
+    "total_vacancies": 36,
+    "roles_count": 2,
+    "roles": [
+      "Data Scientist",
+      "Senior Data Scientist"
+    ],
+    "avg_salary_lpa": 26.1,
+    "min_salary_lpa": 15.1,
+    "max_salary_lpa": 50.0,
+    "min_experience": 2
+  },
+  {
+    "company_name": "Tesco",
+    "total_vacancies": 36,
+    "roles_count": 2,
+    "roles": [
+      "Data Analyst",
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 7.9,
+    "min_salary_lpa": 3.9,
+    "max_salary_lpa": 15.5,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Xceedance",
+    "total_vacancies": 36,
+    "roles_count": 1,
+    "roles": [
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 13.4,
+    "min_salary_lpa": 9.5,
+    "max_salary_lpa": 18.6,
+    "min_experience": 5
+  },
+  {
+    "company_name": "Yardi Systems",
+    "total_vacancies": 36,
+    "roles_count": 1,
+    "roles": [
+      "Data Analyst"
+    ],
+    "avg_salary_lpa": 3.7,
+    "min_salary_lpa": 2.7,
+    "max_salary_lpa": 4.6,
+    "min_experience": 2
+  },
+  {
+    "company_name": "Axa XL",
+    "total_vacancies": 35,
+    "roles_count": 2,
+    "roles": [
+      "Senior Data Analyst",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 8.8,
+    "min_salary_lpa": 6.1,
+    "max_salary_lpa": 15.0,
+    "min_experience": 2
+  },
+  {
+    "company_name": "D Cube Analytics",
+    "total_vacancies": 35,
+    "roles_count": 1,
+    "roles": [
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 11.7,
+    "min_salary_lpa": 9.2,
+    "max_salary_lpa": 14.0,
+    "min_experience": 2
+  },
+  {
+    "company_name": "MetLife",
+    "total_vacancies": 35,
+    "roles_count": 1,
+    "roles": [
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 6.0,
+    "min_salary_lpa": 4.0,
+    "max_salary_lpa": 9.3,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Numeratr",
+    "total_vacancies": 35,
+    "roles_count": 1,
+    "roles": [
+      "Data Analyst"
+    ],
+    "avg_salary_lpa": 3.0,
+    "min_salary_lpa": 2.0,
+    "max_salary_lpa": 4.4,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Vaco Binary Semantics",
+    "total_vacancies": 35,
+    "roles_count": 2,
+    "roles": [
+      "Data Analyst",
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 4.3,
+    "min_salary_lpa": 2.4,
+    "max_salary_lpa": 6.8,
+    "min_experience": 0
+  },
+  {
+    "company_name": "eMids Technologies",
+    "total_vacancies": 35,
+    "roles_count": 1,
+    "roles": [
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 15.3,
+    "min_salary_lpa": 10.0,
+    "max_salary_lpa": 21.0,
+    "min_experience": 5
+  },
+  {
+    "company_name": "BEPEC Solutions",
+    "total_vacancies": 34,
+    "roles_count": 1,
+    "roles": [
+      "Data Scientist"
+    ],
+    "avg_salary_lpa": 4.9,
+    "min_salary_lpa": 3.0,
+    "max_salary_lpa": 7.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Yukthi Datasoft",
+    "total_vacancies": 34,
+    "roles_count": 1,
+    "roles": [
+      "Data Analyst"
+    ],
+    "avg_salary_lpa": 2.1,
+    "min_salary_lpa": 1.5,
+    "max_salary_lpa": 2.9,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Gramener",
+    "total_vacancies": 33,
+    "roles_count": 2,
+    "roles": [
+      "Data Scientist",
+      "Senior Data Scientist"
+    ],
+    "avg_salary_lpa": 12.1,
+    "min_salary_lpa": 7.5,
+    "max_salary_lpa": 20.8,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Info Edge",
+    "total_vacancies": 33,
+    "roles_count": 2,
+    "roles": [
+      "Data Scientist",
+      "Senior Data Scientist"
+    ],
+    "avg_salary_lpa": 23.9,
+    "min_salary_lpa": 12.0,
+    "max_salary_lpa": 37.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "KPI Partners",
+    "total_vacancies": 33,
+    "roles_count": 3,
+    "roles": [
+      "Data Engineer",
+      "Senior Data Analyst",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 14.3,
+    "min_salary_lpa": 5.0,
+    "max_salary_lpa": 22.3,
+    "min_experience": 1
+  },
+  {
+    "company_name": "SpringML",
+    "total_vacancies": 33,
+    "roles_count": 2,
+    "roles": [
+      "Data Engineer",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 10.4,
+    "min_salary_lpa": 5.5,
+    "max_salary_lpa": 16.5,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Wavicle Data Solutions",
+    "total_vacancies": 33,
+    "roles_count": 2,
+    "roles": [
+      "Data Engineer",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 8.4,
+    "min_salary_lpa": 3.5,
+    "max_salary_lpa": 15.6,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Collegedunia",
+    "total_vacancies": 32,
+    "roles_count": 2,
+    "roles": [
+      "Data Analyst",
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 4.2,
+    "min_salary_lpa": 3.0,
+    "max_salary_lpa": 5.4,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Data Gyan",
+    "total_vacancies": 32,
+    "roles_count": 1,
+    "roles": [
+      "Data Analyst"
+    ],
+    "avg_salary_lpa": 1.8,
+    "min_salary_lpa": 1.5,
+    "max_salary_lpa": 2.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Orange Business Services",
+    "total_vacancies": 32,
+    "roles_count": 2,
+    "roles": [
+      "Senior Business Analyst",
+      "Machine Learning Engineer"
+    ],
+    "avg_salary_lpa": 14.5,
+    "min_salary_lpa": 7.0,
+    "max_salary_lpa": 20.0,
+    "min_experience": 5
+  },
+  {
+    "company_name": "BA Continuum",
+    "total_vacancies": 31,
+    "roles_count": 2,
+    "roles": [
+      "Data Engineer",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 18.1,
+    "min_salary_lpa": 12.0,
+    "max_salary_lpa": 22.8,
+    "min_experience": 4
+  },
+  {
+    "company_name": "Danske IT",
+    "total_vacancies": 31,
+    "roles_count": 1,
+    "roles": [
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 18.7,
+    "min_salary_lpa": 14.3,
+    "max_salary_lpa": 24.1,
+    "min_experience": 7
+  },
+  {
+    "company_name": "Data Semantics",
+    "total_vacancies": 31,
+    "roles_count": 2,
+    "roles": [
+      "Data Engineer",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 12.2,
+    "min_salary_lpa": 4.5,
+    "max_salary_lpa": 17.4,
+    "min_experience": 3
+  },
+  {
+    "company_name": "Dataction Analytics",
+    "total_vacancies": 31,
+    "roles_count": 1,
+    "roles": [
+      "Data Analyst"
+    ],
+    "avg_salary_lpa": 2.6,
+    "min_salary_lpa": 1.9,
+    "max_salary_lpa": 3.5,
+    "min_experience": 0
+  },
+  {
+    "company_name": "TSWRDC WOMEN'S DEGREE COLLEGE",
+    "total_vacancies": 31,
+    "roles_count": 1,
+    "roles": [
+      "Data Analyst"
+    ],
+    "avg_salary_lpa": 2.5,
+    "min_salary_lpa": 2.0,
+    "max_salary_lpa": 3.5,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Allscripts",
+    "total_vacancies": 30,
+    "roles_count": 1,
+    "roles": [
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 13.9,
+    "min_salary_lpa": 11.0,
+    "max_salary_lpa": 17.7,
+    "min_experience": 5
+  },
+  {
+    "company_name": "BlazeClan Technologies",
+    "total_vacancies": 30,
+    "roles_count": 2,
+    "roles": [
+      "Data Engineer",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 7.8,
+    "min_salary_lpa": 3.2,
+    "max_salary_lpa": 11.7,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Fragma Data Systems",
+    "total_vacancies": 30,
+    "roles_count": 1,
+    "roles": [
+      "Data Engineer"
+    ],
+    "avg_salary_lpa": 5.5,
+    "min_salary_lpa": 3.5,
+    "max_salary_lpa": 11.9,
+    "min_experience": 0
+  },
+  {
+    "company_name": "HUDL",
+    "total_vacancies": 30,
+    "roles_count": 1,
+    "roles": [
+      "Data Analyst"
+    ],
+    "avg_salary_lpa": 2.9,
+    "min_salary_lpa": 2.0,
+    "max_salary_lpa": 3.8,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Annalect",
+    "total_vacancies": 29,
+    "roles_count": 1,
+    "roles": [
+      "Data Analyst"
+    ],
+    "avg_salary_lpa": 5.6,
+    "min_salary_lpa": 3.6,
+    "max_salary_lpa": 7.5,
+    "min_experience": 0
+  },
+  {
+    "company_name": "DataWeave",
+    "total_vacancies": 29,
+    "roles_count": 2,
+    "roles": [
+      "Data Engineer",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 10.8,
+    "min_salary_lpa": 5.5,
+    "max_salary_lpa": 16.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "NIKE",
+    "total_vacancies": 29,
+    "roles_count": 2,
+    "roles": [
+      "Data Engineer",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 26.1,
+    "min_salary_lpa": 14.1,
+    "max_salary_lpa": 35.0,
+    "min_experience": 3
+  },
+  {
+    "company_name": "Saama Technologies",
+    "total_vacancies": 29,
+    "roles_count": 2,
+    "roles": [
+      "Data Engineer",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 13.1,
+    "min_salary_lpa": 6.0,
+    "max_salary_lpa": 21.2,
+    "min_experience": 2
+  },
+  {
+    "company_name": "Accion Labs",
+    "total_vacancies": 28,
+    "roles_count": 2,
+    "roles": [
+      "Data Engineer",
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 17.8,
+    "min_salary_lpa": 8.0,
+    "max_salary_lpa": 30.0,
+    "min_experience": 3
+  },
+  {
+    "company_name": "FedEx Express",
+    "total_vacancies": 28,
+    "roles_count": 1,
+    "roles": [
+      "Data Analyst"
+    ],
+    "avg_salary_lpa": 7.4,
+    "min_salary_lpa": 3.3,
+    "max_salary_lpa": 12.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Galytix Analytics",
+    "total_vacancies": 28,
+    "roles_count": 1,
+    "roles": [
+      "Data Analyst"
+    ],
+    "avg_salary_lpa": 6.0,
+    "min_salary_lpa": 6.0,
+    "max_salary_lpa": 6.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "L&T Technology Services",
+    "total_vacancies": 28,
+    "roles_count": 3,
+    "roles": [
+      "Data Scientist",
+      "Senior Data Scientist",
+      "Machine Learning Engineer"
+    ],
+    "avg_salary_lpa": 9.7,
+    "min_salary_lpa": 4.3,
+    "max_salary_lpa": 24.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "APA Engineering",
+    "total_vacancies": 27,
+    "roles_count": 1,
+    "roles": [
+      "Data Analyst"
+    ],
+    "avg_salary_lpa": 2.0,
+    "min_salary_lpa": 1.5,
+    "max_salary_lpa": 3.1,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Boeing",
+    "total_vacancies": 27,
+    "roles_count": 3,
+    "roles": [
+      "Data Scientist",
+      "Senior Data Scientist",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 23.1,
+    "min_salary_lpa": 13.5,
+    "max_salary_lpa": 35.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "CES",
+    "total_vacancies": 27,
+    "roles_count": 1,
+    "roles": [
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 7.4,
+    "min_salary_lpa": 5.2,
+    "max_salary_lpa": 9.5,
+    "min_experience": 5
+  },
+  {
+    "company_name": "MResult Services",
+    "total_vacancies": 27,
+    "roles_count": 2,
+    "roles": [
+      "Senior Business Analyst",
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 8.3,
+    "min_salary_lpa": 5.5,
+    "max_salary_lpa": 12.0,
+    "min_experience": 4
+  },
+  {
+    "company_name": "Statestreet HCL Services",
+    "total_vacancies": 27,
+    "roles_count": 1,
+    "roles": [
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 3.0,
+    "min_salary_lpa": 2.4,
+    "max_salary_lpa": 3.6,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Apple",
+    "total_vacancies": 26,
+    "roles_count": 2,
+    "roles": [
+      "Data Scientist",
+      "Data Engineer"
+    ],
+    "avg_salary_lpa": 29.3,
+    "min_salary_lpa": 8.2,
+    "max_salary_lpa": 74.5,
+    "min_experience": 2
+  },
+  {
+    "company_name": "Applied Materials",
+    "total_vacancies": 26,
+    "roles_count": 1,
+    "roles": [
+      "Data Scientist"
+    ],
+    "avg_salary_lpa": 14.2,
+    "min_salary_lpa": 7.0,
+    "max_salary_lpa": 22.0,
+    "min_experience": 2
+  },
+  {
+    "company_name": "Bristlecone",
+    "total_vacancies": 26,
+    "roles_count": 1,
+    "roles": [
+      "Data Scientist"
+    ],
+    "avg_salary_lpa": 9.0,
+    "min_salary_lpa": 6.6,
+    "max_salary_lpa": 11.5,
+    "min_experience": 1
+  },
+  {
+    "company_name": "DUNNHUMBY IT SERVICES INDIA",
+    "total_vacancies": 26,
+    "roles_count": 3,
+    "roles": [
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 12.5,
+    "min_salary_lpa": 9.0,
+    "max_salary_lpa": 18.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Eli Lilly and Company",
+    "total_vacancies": 26,
+    "roles_count": 3,
+    "roles": [
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 23.5,
+    "min_salary_lpa": 16.0,
+    "max_salary_lpa": 32.0,
+    "min_experience": 3
+  },
+  {
+    "company_name": "First American Corporation",
+    "total_vacancies": 26,
+    "roles_count": 1,
+    "roles": [
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 13.4,
+    "min_salary_lpa": 5.9,
+    "max_salary_lpa": 18.5,
+    "min_experience": 5
+  },
+  {
+    "company_name": "Maersk Line",
+    "total_vacancies": 26,
+    "roles_count": 2,
+    "roles": [
+      "Data Engineer",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 17.1,
+    "min_salary_lpa": 8.0,
+    "max_salary_lpa": 29.5,
+    "min_experience": 2
+  },
+  {
+    "company_name": "MindGate Solutions",
+    "total_vacancies": 26,
+    "roles_count": 1,
+    "roles": [
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 12.5,
+    "min_salary_lpa": 8.0,
+    "max_salary_lpa": 18.0,
+    "min_experience": 5
+  },
+  {
+    "company_name": "Objectways Technologies",
+    "total_vacancies": 26,
+    "roles_count": 1,
+    "roles": [
+      "Data Analyst"
+    ],
+    "avg_salary_lpa": 1.5,
+    "min_salary_lpa": 1.2,
+    "max_salary_lpa": 2.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Sandcube Analytics",
+    "total_vacancies": 26,
+    "roles_count": 1,
+    "roles": [
+      "Data Analyst"
+    ],
+    "avg_salary_lpa": 2.3,
+    "min_salary_lpa": 1.1,
+    "max_salary_lpa": 3.6,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Stats Systems India",
+    "total_vacancies": 26,
+    "roles_count": 1,
+    "roles": [
+      "Data Analyst"
+    ],
+    "avg_salary_lpa": 2.1,
+    "min_salary_lpa": 1.5,
+    "max_salary_lpa": 3.1,
+    "min_experience": 0
+  },
+  {
+    "company_name": "ANZ Banking Group",
+    "total_vacancies": 25,
+    "roles_count": 1,
+    "roles": [
+      "Data Analyst"
+    ],
+    "avg_salary_lpa": 9.8,
+    "min_salary_lpa": 4.4,
+    "max_salary_lpa": 15.6,
+    "min_experience": 2
+  },
+  {
+    "company_name": "Crif High Mark Credit Information Services",
+    "total_vacancies": 25,
+    "roles_count": 1,
+    "roles": [
+      "Data Analyst"
+    ],
+    "avg_salary_lpa": 5.5,
+    "min_salary_lpa": 3.8,
+    "max_salary_lpa": 8.0,
+    "min_experience": 2
+  },
+  {
+    "company_name": "Hive",
+    "total_vacancies": 25,
+    "roles_count": 1,
+    "roles": [
+      "Data Analyst"
+    ],
+    "avg_salary_lpa": 4.2,
+    "min_salary_lpa": 3.5,
+    "max_salary_lpa": 5.8,
+    "min_experience": 0
+  },
+  {
+    "company_name": "IDFC FIRST Bank",
+    "total_vacancies": 25,
+    "roles_count": 2,
+    "roles": [
+      "Data Engineer",
+      "Senior Data Scientist"
+    ],
+    "avg_salary_lpa": 18.1,
+    "min_salary_lpa": 8.5,
+    "max_salary_lpa": 26.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Jio Platforms",
+    "total_vacancies": 25,
+    "roles_count": 2,
+    "roles": [
+      "Data Scientist",
+      "Machine Learning Engineer"
+    ],
+    "avg_salary_lpa": 12.4,
+    "min_salary_lpa": 6.7,
+    "max_salary_lpa": 23.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "NISC Export Services",
+    "total_vacancies": 25,
+    "roles_count": 1,
+    "roles": [
+      "Data Analyst"
+    ],
+    "avg_salary_lpa": 3.2,
+    "min_salary_lpa": 2.3,
+    "max_salary_lpa": 5.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Pacecom Technologies",
+    "total_vacancies": 25,
+    "roles_count": 1,
+    "roles": [
+      "Data Analyst"
+    ],
+    "avg_salary_lpa": 2.1,
+    "min_salary_lpa": 2.0,
+    "max_salary_lpa": 2.6,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Quest Global",
+    "total_vacancies": 25,
+    "roles_count": 3,
+    "roles": [
+      "Data Scientist",
+      "Senior Data Scientist",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 16.6,
+    "min_salary_lpa": 4.8,
+    "max_salary_lpa": 41.0,
+    "min_experience": 2
+  },
+  {
+    "company_name": "Baker Hughes",
+    "total_vacancies": 24,
+    "roles_count": 3,
+    "roles": [
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 21.2,
+    "min_salary_lpa": 12.0,
+    "max_salary_lpa": 32.0,
+    "min_experience": 3
+  },
+  {
+    "company_name": "Eurofins It Solutions",
+    "total_vacancies": 24,
+    "roles_count": 1,
+    "roles": [
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 22.0,
+    "min_salary_lpa": 16.0,
+    "max_salary_lpa": 24.8,
+    "min_experience": 7
+  },
+  {
+    "company_name": "Hsbc Technology",
+    "total_vacancies": 24,
+    "roles_count": 1,
+    "roles": [
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 18.7,
+    "min_salary_lpa": 13.0,
+    "max_salary_lpa": 25.0,
+    "min_experience": 6
+  },
+  {
+    "company_name": "T-Systems",
+    "total_vacancies": 24,
+    "roles_count": 3,
+    "roles": [
+      "Data Scientist",
+      "Senior Data Engineer",
+      "Data Architect"
+    ],
+    "avg_salary_lpa": 22.9,
+    "min_salary_lpa": 7.8,
+    "max_salary_lpa": 34.0,
+    "min_experience": 3
+  },
+  {
+    "company_name": "TVS Credit Services",
+    "total_vacancies": 24,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Scientist"
+    ],
+    "avg_salary_lpa": 14.7,
+    "min_salary_lpa": 11.5,
+    "max_salary_lpa": 21.0,
+    "min_experience": 4
+  },
+  {
+    "company_name": "iNeuron.ai",
+    "total_vacancies": 24,
+    "roles_count": 1,
+    "roles": [
+      "Data Scientist"
+    ],
+    "avg_salary_lpa": 5.1,
+    "min_salary_lpa": 3.0,
+    "max_salary_lpa": 8.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "NCR Corporation",
+    "total_vacancies": 23,
+    "roles_count": 2,
+    "roles": [
+      "Data Engineer",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 12.8,
+    "min_salary_lpa": 6.2,
+    "max_salary_lpa": 22.6,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Northern Trust Operating Services",
+    "total_vacancies": 23,
+    "roles_count": 1,
+    "roles": [
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 6.2,
+    "min_salary_lpa": 4.9,
+    "max_salary_lpa": 9.5,
+    "min_experience": 3
+  },
+  {
+    "company_name": "Apexon",
+    "total_vacancies": 22,
+    "roles_count": 2,
+    "roles": [
+      "Data Scientist",
+      "Senior Data Scientist"
+    ],
+    "avg_salary_lpa": 8.9,
+    "min_salary_lpa": 4.9,
+    "max_salary_lpa": 11.1,
+    "min_experience": 2
+  },
+  {
+    "company_name": "Jocata Financial Advisory and Technology",
+    "total_vacancies": 22,
+    "roles_count": 1,
+    "roles": [
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 14.3,
+    "min_salary_lpa": 9.0,
+    "max_salary_lpa": 23.0,
+    "min_experience": 6
+  },
+  {
+    "company_name": "Sabre",
+    "total_vacancies": 22,
+    "roles_count": 1,
+    "roles": [
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 20.1,
+    "min_salary_lpa": 13.8,
+    "max_salary_lpa": 28.0,
+    "min_experience": 6
+  },
+  {
+    "company_name": "Scienaptic Systems",
+    "total_vacancies": 22,
+    "roles_count": 2,
+    "roles": [
+      "Data Scientist",
+      "Senior Data Scientist"
+    ],
+    "avg_salary_lpa": 17.1,
+    "min_salary_lpa": 8.0,
+    "max_salary_lpa": 23.5,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Toluna",
+    "total_vacancies": 22,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 7.1,
+    "min_salary_lpa": 5.4,
+    "max_salary_lpa": 9.0,
+    "min_experience": 3
+  },
+  {
+    "company_name": "Volante Technologies",
+    "total_vacancies": 22,
+    "roles_count": 1,
+    "roles": [
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 22.3,
+    "min_salary_lpa": 15.0,
+    "max_salary_lpa": 28.0,
+    "min_experience": 9
+  },
+  {
+    "company_name": "Allsec Technologies",
+    "total_vacancies": 21,
+    "roles_count": 1,
+    "roles": [
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 6.1,
+    "min_salary_lpa": 5.2,
+    "max_salary_lpa": 7.5,
+    "min_experience": 3
+  },
+  {
+    "company_name": "AstraZeneca",
+    "total_vacancies": 21,
+    "roles_count": 2,
+    "roles": [
+      "Data Engineer",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 11.7,
+    "min_salary_lpa": 6.8,
+    "max_salary_lpa": 19.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Colgate Global Business Services",
+    "total_vacancies": 21,
+    "roles_count": 1,
+    "roles": [
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 15.2,
+    "min_salary_lpa": 13.2,
+    "max_salary_lpa": 17.5,
+    "min_experience": 7
+  },
+  {
+    "company_name": "Neal Analytics",
+    "total_vacancies": 21,
+    "roles_count": 2,
+    "roles": [
+      "Data Engineer",
+      "Senior Data Scientist"
+    ],
+    "avg_salary_lpa": 17.1,
+    "min_salary_lpa": 6.8,
+    "max_salary_lpa": 29.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Prodapt Solutions",
+    "total_vacancies": 21,
+    "roles_count": 1,
+    "roles": [
+      "Data Scientist"
+    ],
+    "avg_salary_lpa": 6.9,
+    "min_salary_lpa": 3.3,
+    "max_salary_lpa": 16.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Rubixe",
+    "total_vacancies": 21,
+    "roles_count": 1,
+    "roles": [
+      "Data Scientist"
+    ],
+    "avg_salary_lpa": 4.7,
+    "min_salary_lpa": 2.4,
+    "max_salary_lpa": 9.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Sopra Banking Software",
+    "total_vacancies": 21,
+    "roles_count": 1,
+    "roles": [
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 16.3,
+    "min_salary_lpa": 10.2,
+    "max_salary_lpa": 25.0,
+    "min_experience": 6
+  },
+  {
+    "company_name": "o9 Solutions",
+    "total_vacancies": 21,
+    "roles_count": 2,
+    "roles": [
+      "Data Scientist",
+      "Senior Data Scientist"
+    ],
+    "avg_salary_lpa": 17.6,
+    "min_salary_lpa": 11.0,
+    "max_salary_lpa": 28.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "ABB Group",
+    "total_vacancies": 20,
+    "roles_count": 1,
+    "roles": [
+      "Data Scientist"
+    ],
+    "avg_salary_lpa": 13.0,
+    "min_salary_lpa": 8.3,
+    "max_salary_lpa": 19.0,
+    "min_experience": 2
+  },
+  {
+    "company_name": "Algonomy",
+    "total_vacancies": 20,
+    "roles_count": 3,
+    "roles": [
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 17.0,
+    "min_salary_lpa": 5.0,
+    "max_salary_lpa": 32.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Blackbuck Insights",
+    "total_vacancies": 20,
+    "roles_count": 1,
+    "roles": [
+      "Data Engineer"
+    ],
+    "avg_salary_lpa": 4.2,
+    "min_salary_lpa": 2.5,
+    "max_salary_lpa": 8.5,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Flip Robo Technologies",
+    "total_vacancies": 20,
+    "roles_count": 1,
+    "roles": [
+      "Data Scientist"
+    ],
+    "avg_salary_lpa": 4.7,
+    "min_salary_lpa": 3.0,
+    "max_salary_lpa": 7.9,
+    "min_experience": 1
+  },
+  {
+    "company_name": "KPIT Technologies",
+    "total_vacancies": 20,
+    "roles_count": 1,
+    "roles": [
+      "Data Scientist"
+    ],
+    "avg_salary_lpa": 7.7,
+    "min_salary_lpa": 4.5,
+    "max_salary_lpa": 15.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "L&T Financial Services",
+    "total_vacancies": 20,
+    "roles_count": 1,
+    "roles": [
+      "Data Scientist"
+    ],
+    "avg_salary_lpa": 9.3,
+    "min_salary_lpa": 8.2,
+    "max_salary_lpa": 12.5,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Lumen Technologies",
+    "total_vacancies": 20,
+    "roles_count": 1,
+    "roles": [
+      "Data Engineer"
+    ],
+    "avg_salary_lpa": 6.6,
+    "min_salary_lpa": 4.5,
+    "max_salary_lpa": 9.2,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Marlabs",
+    "total_vacancies": 20,
+    "roles_count": 2,
+    "roles": [
+      "Data Scientist",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 11.8,
+    "min_salary_lpa": 5.5,
+    "max_salary_lpa": 20.6,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Mastek",
+    "total_vacancies": 20,
+    "roles_count": 1,
+    "roles": [
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 13.6,
+    "min_salary_lpa": 9.7,
+    "max_salary_lpa": 17.5,
+    "min_experience": 7
+  },
+  {
+    "company_name": "NDS InfoServ",
+    "total_vacancies": 20,
+    "roles_count": 1,
+    "roles": [
+      "Data Scientist"
+    ],
+    "avg_salary_lpa": 9.1,
+    "min_salary_lpa": 5.0,
+    "max_salary_lpa": 12.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Springer Nature",
+    "total_vacancies": 20,
+    "roles_count": 1,
+    "roles": [
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 17.0,
+    "min_salary_lpa": 13.0,
+    "max_salary_lpa": 21.9,
+    "min_experience": 6
+  },
+  {
+    "company_name": "Thryve Digital",
+    "total_vacancies": 20,
+    "roles_count": 1,
+    "roles": [
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 10.0,
+    "min_salary_lpa": 7.1,
+    "max_salary_lpa": 14.0,
+    "min_experience": 5
+  },
+  {
+    "company_name": "Value c Consulting India",
+    "total_vacancies": 20,
+    "roles_count": 1,
+    "roles": [
+      "Data Scientist"
+    ],
+    "avg_salary_lpa": 5.2,
+    "min_salary_lpa": 4.2,
+    "max_salary_lpa": 6.0,
+    "min_experience": 2
+  },
+  {
+    "company_name": "Brane Enterprises",
+    "total_vacancies": 19,
+    "roles_count": 1,
+    "roles": [
+      "Data Scientist"
+    ],
+    "avg_salary_lpa": 14.0,
+    "min_salary_lpa": 8.0,
+    "max_salary_lpa": 22.5,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Cygnet Infotech",
+    "total_vacancies": 19,
+    "roles_count": 1,
+    "roles": [
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 8.6,
+    "min_salary_lpa": 5.5,
+    "max_salary_lpa": 11.0,
+    "min_experience": 4
+  },
+  {
+    "company_name": "Dun & Bradstreet",
+    "total_vacancies": 19,
+    "roles_count": 3,
+    "roles": [
+      "Data Engineer",
+      "Senior Data Scientist",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 13.8,
+    "min_salary_lpa": 8.6,
+    "max_salary_lpa": 23.0,
+    "min_experience": 2
+  },
+  {
+    "company_name": "Infor Global Solution",
+    "total_vacancies": 19,
+    "roles_count": 1,
+    "roles": [
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 16.8,
+    "min_salary_lpa": 13.5,
+    "max_salary_lpa": 20.0,
+    "min_experience": 6
+  },
+  {
+    "company_name": "MakeMyTrip",
+    "total_vacancies": 19,
+    "roles_count": 2,
+    "roles": [
+      "Senior Data Analyst",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 16.9,
+    "min_salary_lpa": 6.0,
+    "max_salary_lpa": 37.0,
+    "min_experience": 3
+  },
+  {
+    "company_name": "Royal Bank of Scotland International",
+    "total_vacancies": 19,
+    "roles_count": 1,
+    "roles": [
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 5.7,
+    "min_salary_lpa": 4.1,
+    "max_salary_lpa": 10.5,
+    "min_experience": 3
+  },
+  {
+    "company_name": "CARS24.com",
+    "total_vacancies": 18,
+    "roles_count": 1,
+    "roles": [
+      "Data Scientist"
+    ],
+    "avg_salary_lpa": 20.3,
+    "min_salary_lpa": 14.5,
+    "max_salary_lpa": 24.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Expedia",
+    "total_vacancies": 18,
+    "roles_count": 2,
+    "roles": [
+      "Data Engineer",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 31.2,
+    "min_salary_lpa": 20.0,
+    "max_salary_lpa": 41.3,
+    "min_experience": 4
+  },
+  {
+    "company_name": "HCL Infosystems",
+    "total_vacancies": 18,
+    "roles_count": 1,
+    "roles": [
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 9.0,
+    "min_salary_lpa": 3.4,
+    "max_salary_lpa": 15.0,
+    "min_experience": 3
+  },
+  {
+    "company_name": "InfoStretch",
+    "total_vacancies": 18,
+    "roles_count": 2,
+    "roles": [
+      "Data Engineer",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 13.7,
+    "min_salary_lpa": 4.2,
+    "max_salary_lpa": 23.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Ocwen Financial Solutions",
+    "total_vacancies": 18,
+    "roles_count": 1,
+    "roles": [
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 9.9,
+    "min_salary_lpa": 5.9,
+    "max_salary_lpa": 13.3,
+    "min_experience": 4
+  },
+  {
+    "company_name": "State Street Corporation",
+    "total_vacancies": 18,
+    "roles_count": 1,
+    "roles": [
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 10.7,
+    "min_salary_lpa": 3.5,
+    "max_salary_lpa": 22.0,
+    "min_experience": 2
+  },
+  {
+    "company_name": "Unacademy",
+    "total_vacancies": 18,
+    "roles_count": 1,
+    "roles": [
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 13.0,
+    "min_salary_lpa": 4.0,
+    "max_salary_lpa": 25.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Vedantu",
+    "total_vacancies": 18,
+    "roles_count": 1,
+    "roles": [
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 16.9,
+    "min_salary_lpa": 6.6,
+    "max_salary_lpa": 21.0,
+    "min_experience": 2
+  },
+  {
+    "company_name": "Accolite Digital",
+    "total_vacancies": 17,
+    "roles_count": 2,
+    "roles": [
+      "Data Scientist",
+      "Senior Data Scientist"
+    ],
+    "avg_salary_lpa": 13.7,
+    "min_salary_lpa": 6.0,
+    "max_salary_lpa": 19.5,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Clover Infotech",
+    "total_vacancies": 17,
+    "roles_count": 1,
+    "roles": [
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 9.1,
+    "min_salary_lpa": 6.5,
+    "max_salary_lpa": 12.5,
+    "min_experience": 3
+  },
+  {
+    "company_name": "Impetus Technologies",
+    "total_vacancies": 17,
+    "roles_count": 1,
+    "roles": [
+      "Data Engineer"
+    ],
+    "avg_salary_lpa": 13.1,
+    "min_salary_lpa": 11.5,
+    "max_salary_lpa": 16.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Infinite Computer Solutions",
+    "total_vacancies": 17,
+    "roles_count": 1,
+    "roles": [
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 9.3,
+    "min_salary_lpa": 6.0,
+    "max_salary_lpa": 13.0,
+    "min_experience": 4
+  },
+  {
+    "company_name": "Innova Solutions",
+    "total_vacancies": 17,
+    "roles_count": 2,
+    "roles": [
+      "Senior Data Scientist",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 33.4,
+    "min_salary_lpa": 6.0,
+    "max_salary_lpa": 97.0,
+    "min_experience": 4
+  },
+  {
+    "company_name": "Majesco",
+    "total_vacancies": 17,
+    "roles_count": 1,
+    "roles": [
+      "Senior Business Analyst"
+    ],
+    "avg_salary_lpa": 13.6,
+    "min_salary_lpa": 9.0,
+    "max_salary_lpa": 18.0,
+    "min_experience": 5
+  },
+  {
+    "company_name": "Abzooba India Infotech",
+    "total_vacancies": 16,
+    "roles_count": 1,
+    "roles": [
+      "Data Scientist"
+    ],
+    "avg_salary_lpa": 15.0,
+    "min_salary_lpa": 8.5,
+    "max_salary_lpa": 20.1,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Advance Auto Parts",
+    "total_vacancies": 16,
+    "roles_count": 2,
+    "roles": [
+      "Data Engineer",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 19.5,
+    "min_salary_lpa": 10.2,
+    "max_salary_lpa": 28.9,
+    "min_experience": 3
+  },
+  {
+    "company_name": "Delhivery",
+    "total_vacancies": 16,
+    "roles_count": 1,
+    "roles": [
+      "Data Scientist"
+    ],
+    "avg_salary_lpa": 15.6,
+    "min_salary_lpa": 10.0,
+    "max_salary_lpa": 20.8,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Dynata",
+    "total_vacancies": 16,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 8.8,
+    "min_salary_lpa": 7.5,
+    "max_salary_lpa": 10.3,
+    "min_experience": 4
+  },
+  {
+    "company_name": "Embibe",
+    "total_vacancies": 16,
+    "roles_count": 1,
+    "roles": [
+      "Data Scientist"
+    ],
+    "avg_salary_lpa": 16.6,
+    "min_salary_lpa": 12.0,
+    "max_salary_lpa": 21.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Exxon Mobil",
+    "total_vacancies": 16,
+    "roles_count": 1,
+    "roles": [
+      "Data Scientist"
+    ],
+    "avg_salary_lpa": 23.2,
+    "min_salary_lpa": 14.0,
+    "max_salary_lpa": 30.1,
+    "min_experience": 2
+  },
+  {
+    "company_name": "GE Digital",
+    "total_vacancies": 16,
+    "roles_count": 2,
+    "roles": [
+      "Data Engineer",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 14.8,
+    "min_salary_lpa": 8.3,
+    "max_salary_lpa": 19.9,
+    "min_experience": 4
+  },
+  {
+    "company_name": "Knoema IT Solutions",
+    "total_vacancies": 16,
+    "roles_count": 2,
+    "roles": [
+      "Data Engineer",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 6.1,
+    "min_salary_lpa": 2.0,
+    "max_salary_lpa": 13.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Rakuten",
+    "total_vacancies": 16,
+    "roles_count": 2,
+    "roles": [
+      "Data Engineer",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 18.2,
+    "min_salary_lpa": 8.5,
+    "max_salary_lpa": 30.9,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Synchrony",
+    "total_vacancies": 16,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 7.5,
+    "min_salary_lpa": 5.0,
+    "max_salary_lpa": 12.5,
+    "min_experience": 2
+  },
+  {
+    "company_name": "TransOrg Analytics",
+    "total_vacancies": 16,
+    "roles_count": 1,
+    "roles": [
+      "Data Scientist"
+    ],
+    "avg_salary_lpa": 9.4,
+    "min_salary_lpa": 7.0,
+    "max_salary_lpa": 13.5,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Unire Business Solutions",
+    "total_vacancies": 16,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 1.9,
+    "min_salary_lpa": 1.4,
+    "max_salary_lpa": 2.5,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Go-Jek",
+    "total_vacancies": 15,
+    "roles_count": 1,
+    "roles": [
+      "Data Scientist"
+    ],
+    "avg_salary_lpa": 30.5,
+    "min_salary_lpa": 16.5,
+    "max_salary_lpa": 44.0,
+    "min_experience": 3
+  },
+  {
+    "company_name": "Clairvoyant India",
+    "total_vacancies": 14,
+    "roles_count": 2,
+    "roles": [
+      "Data Engineer",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 13.3,
+    "min_salary_lpa": 5.0,
+    "max_salary_lpa": 20.0,
+    "min_experience": 2
+  },
+  {
+    "company_name": "ICICI Lombard General Insurance Company",
+    "total_vacancies": 14,
+    "roles_count": 1,
+    "roles": [
+      "Data Scientist"
+    ],
+    "avg_salary_lpa": 12.1,
+    "min_salary_lpa": 7.4,
+    "max_salary_lpa": 15.4,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Michelin",
+    "total_vacancies": 14,
+    "roles_count": 1,
+    "roles": [
+      "Data Engineer"
+    ],
+    "avg_salary_lpa": 9.8,
+    "min_salary_lpa": 7.7,
+    "max_salary_lpa": 11.3,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Nailbiter Research",
+    "total_vacancies": 14,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 4.7,
+    "min_salary_lpa": 4.2,
+    "max_salary_lpa": 5.2,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Reserve Bank Information Technology",
+    "total_vacancies": 14,
+    "roles_count": 1,
+    "roles": [
+      "Data Scientist"
+    ],
+    "avg_salary_lpa": 15.9,
+    "min_salary_lpa": 8.0,
+    "max_salary_lpa": 23.5,
+    "min_experience": 2
+  },
+  {
+    "company_name": "Samsung",
+    "total_vacancies": 14,
+    "roles_count": 2,
+    "roles": [
+      "Senior Data Engineer",
+      "Machine Learning Engineer"
+    ],
+    "avg_salary_lpa": 16.0,
+    "min_salary_lpa": 10.0,
+    "max_salary_lpa": 21.5,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Samsung Research",
+    "total_vacancies": 14,
+    "roles_count": 2,
+    "roles": [
+      "Senior Data Scientist",
+      "Machine Learning Engineer"
+    ],
+    "avg_salary_lpa": 24.5,
+    "min_salary_lpa": 11.0,
+    "max_salary_lpa": 40.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "VASTA BIO-INFORMATICS",
+    "total_vacancies": 14,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 3.6,
+    "min_salary_lpa": 3.3,
+    "max_salary_lpa": 4.3,
+    "min_experience": 1
+  },
+  {
+    "company_name": "iOPEX Technologies",
+    "total_vacancies": 14,
+    "roles_count": 1,
+    "roles": [
+      "Data Scientist"
+    ],
+    "avg_salary_lpa": 7.9,
+    "min_salary_lpa": 3.5,
+    "max_salary_lpa": 12.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Adidas",
+    "total_vacancies": 13,
+    "roles_count": 1,
+    "roles": [
+      "Data Engineer"
+    ],
+    "avg_salary_lpa": 23.0,
+    "min_salary_lpa": 14.5,
+    "max_salary_lpa": 34.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Bitwise Solutions",
+    "total_vacancies": 13,
+    "roles_count": 1,
+    "roles": [
+      "Data Engineer"
+    ],
+    "avg_salary_lpa": 6.1,
+    "min_salary_lpa": 3.8,
+    "max_salary_lpa": 9.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "CSS Corp",
+    "total_vacancies": 13,
+    "roles_count": 1,
+    "roles": [
+      "Data Scientist"
+    ],
+    "avg_salary_lpa": 10.2,
+    "min_salary_lpa": 7.0,
+    "max_salary_lpa": 14.5,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Cittabase Solutions",
+    "total_vacancies": 13,
+    "roles_count": 1,
+    "roles": [
+      "Data Engineer"
+    ],
+    "avg_salary_lpa": 7.9,
+    "min_salary_lpa": 5.0,
+    "max_salary_lpa": 10.3,
+    "min_experience": 3
+  },
+  {
+    "company_name": "HTC Global Services",
+    "total_vacancies": 13,
+    "roles_count": 1,
+    "roles": [
+      "Data Scientist"
+    ],
+    "avg_salary_lpa": 6.4,
+    "min_salary_lpa": 3.6,
+    "max_salary_lpa": 10.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Mr Cooper",
+    "total_vacancies": 13,
+    "roles_count": 2,
+    "roles": [
+      "Senior Data Analyst",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 13.4,
+    "min_salary_lpa": 9.0,
+    "max_salary_lpa": 17.0,
+    "min_experience": 2
+  },
+  {
+    "company_name": "Oil Field Instrumentation",
+    "total_vacancies": 13,
+    "roles_count": 1,
+    "roles": [
+      "Data Engineer"
+    ],
+    "avg_salary_lpa": 6.9,
+    "min_salary_lpa": 1.2,
+    "max_salary_lpa": 11.1,
+    "min_experience": 6
+  },
+  {
+    "company_name": "The Data Team",
+    "total_vacancies": 13,
+    "roles_count": 1,
+    "roles": [
+      "Data Engineer"
+    ],
+    "avg_salary_lpa": 11.5,
+    "min_salary_lpa": 8.5,
+    "max_salary_lpa": 15.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Webhelp",
+    "total_vacancies": 13,
+    "roles_count": 2,
+    "roles": [
+      "Data Engineer",
+      "Data Architect"
+    ],
+    "avg_salary_lpa": 11.3,
+    "min_salary_lpa": 7.5,
+    "max_salary_lpa": 18.0,
+    "min_experience": 3
+  },
+  {
+    "company_name": "Wipro Digital",
+    "total_vacancies": 13,
+    "roles_count": 1,
+    "roles": [
+      "Data Scientist"
+    ],
+    "avg_salary_lpa": 11.1,
+    "min_salary_lpa": 7.0,
+    "max_salary_lpa": 17.5,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Zee Entertainment Enterprises",
+    "total_vacancies": 13,
+    "roles_count": 1,
+    "roles": [
+      "Data Scientist"
+    ],
+    "avg_salary_lpa": 16.7,
+    "min_salary_lpa": 13.2,
+    "max_salary_lpa": 23.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Advantmed",
+    "total_vacancies": 12,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 7.1,
+    "min_salary_lpa": 4.0,
+    "max_salary_lpa": 12.0,
+    "min_experience": 3
+  },
+  {
+    "company_name": "Expert Global Solutions",
+    "total_vacancies": 12,
+    "roles_count": 1,
+    "roles": [
+      "Data Engineer"
+    ],
+    "avg_salary_lpa": 2.1,
+    "min_salary_lpa": 1.1,
+    "max_salary_lpa": 3.1,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Publicis",
+    "total_vacancies": 12,
+    "roles_count": 2,
+    "roles": [
+      "Senior Data Scientist",
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 16.4,
+    "min_salary_lpa": 7.5,
+    "max_salary_lpa": 28.0,
+    "min_experience": 3
+  },
+  {
+    "company_name": "Qualcomm",
+    "total_vacancies": 12,
+    "roles_count": 1,
+    "roles": [
+      "Machine Learning Engineer"
+    ],
+    "avg_salary_lpa": 19.4,
+    "min_salary_lpa": 12.0,
+    "max_salary_lpa": 29.8,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Rackspace",
+    "total_vacancies": 12,
+    "roles_count": 1,
+    "roles": [
+      "Data Engineer"
+    ],
+    "avg_salary_lpa": 16.3,
+    "min_salary_lpa": 11.0,
+    "max_salary_lpa": 21.6,
+    "min_experience": 3
+  },
+  {
+    "company_name": "Red Hat",
+    "total_vacancies": 12,
+    "roles_count": 2,
+    "roles": [
+      "Data Engineer",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 15.6,
+    "min_salary_lpa": 4.5,
+    "max_salary_lpa": 26.0,
+    "min_experience": 2
+  },
+  {
+    "company_name": "Searce Cosourcing Services",
+    "total_vacancies": 12,
+    "roles_count": 1,
+    "roles": [
+      "Data Engineer"
+    ],
+    "avg_salary_lpa": 7.4,
+    "min_salary_lpa": 5.0,
+    "max_salary_lpa": 12.5,
+    "min_experience": 1
+  },
+  {
+    "company_name": "AI Touch",
+    "total_vacancies": 11,
+    "roles_count": 1,
+    "roles": [
+      "Data Engineer"
+    ],
+    "avg_salary_lpa": 2.3,
+    "min_salary_lpa": 2.0,
+    "max_salary_lpa": 3.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Autodesk",
+    "total_vacancies": 11,
+    "roles_count": 1,
+    "roles": [
+      "Data Engineer"
+    ],
+    "avg_salary_lpa": 26.5,
+    "min_salary_lpa": 6.4,
+    "max_salary_lpa": 40.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Bluemind Solutions",
+    "total_vacancies": 11,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 3.1,
+    "min_salary_lpa": 2.8,
+    "max_salary_lpa": 3.5,
+    "min_experience": 4
+  },
+  {
+    "company_name": "Cross-tab Marketing Services",
+    "total_vacancies": 11,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 5.0,
+    "min_salary_lpa": 3.5,
+    "max_salary_lpa": 7.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Denave",
+    "total_vacancies": 11,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 6.7,
+    "min_salary_lpa": 3.5,
+    "max_salary_lpa": 9.8,
+    "min_experience": 2
+  },
+  {
+    "company_name": "GSK Pharmaceuticals",
+    "total_vacancies": 11,
+    "roles_count": 1,
+    "roles": [
+      "Data Engineer"
+    ],
+    "avg_salary_lpa": 23.1,
+    "min_salary_lpa": 19.0,
+    "max_salary_lpa": 27.0,
+    "min_experience": 5
+  },
+  {
+    "company_name": "OptiSol Business Solutions",
+    "total_vacancies": 11,
+    "roles_count": 1,
+    "roles": [
+      "Machine Learning Engineer"
+    ],
+    "avg_salary_lpa": 5.6,
+    "min_salary_lpa": 3.5,
+    "max_salary_lpa": 8.5,
+    "min_experience": 0
+  },
+  {
+    "company_name": "PepsiCo",
+    "total_vacancies": 11,
+    "roles_count": 2,
+    "roles": [
+      "Senior Data Scientist",
+      "Data Architect"
+    ],
+    "avg_salary_lpa": 31.6,
+    "min_salary_lpa": 19.0,
+    "max_salary_lpa": 49.0,
+    "min_experience": 8
+  },
+  {
+    "company_name": "Resilinc",
+    "total_vacancies": 11,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 5.8,
+    "min_salary_lpa": 5.0,
+    "max_salary_lpa": 7.0,
+    "min_experience": 4
+  },
+  {
+    "company_name": "Shadowfax Technologies",
+    "total_vacancies": 11,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 7.7,
+    "min_salary_lpa": 6.3,
+    "max_salary_lpa": 10.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Wissend",
+    "total_vacancies": 11,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 1.9,
+    "min_salary_lpa": 1.4,
+    "max_salary_lpa": 2.2,
+    "min_experience": 0
+  },
+  {
+    "company_name": "nThrive Global Solutions",
+    "total_vacancies": 11,
+    "roles_count": 1,
+    "roles": [
+      "Data Engineer"
+    ],
+    "avg_salary_lpa": 11.8,
+    "min_salary_lpa": 7.8,
+    "max_salary_lpa": 17.6,
+    "min_experience": 2
+  },
+  {
+    "company_name": "AVASOFT",
+    "total_vacancies": 10,
+    "roles_count": 1,
+    "roles": [
+      "Data Engineer"
+    ],
+    "avg_salary_lpa": 4.0,
+    "min_salary_lpa": 3.5,
+    "max_salary_lpa": 4.9,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Apisero",
+    "total_vacancies": 10,
+    "roles_count": 1,
+    "roles": [
+      "Data Engineer"
+    ],
+    "avg_salary_lpa": 13.5,
+    "min_salary_lpa": 8.0,
+    "max_salary_lpa": 18.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Colgate Palmolive",
+    "total_vacancies": 10,
+    "roles_count": 1,
+    "roles": [
+      "Data Engineer"
+    ],
+    "avg_salary_lpa": 10.7,
+    "min_salary_lpa": 6.0,
+    "max_salary_lpa": 15.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Experis IT",
+    "total_vacancies": 10,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 8.2,
+    "min_salary_lpa": 6.6,
+    "max_salary_lpa": 9.8,
+    "min_experience": 5
+  },
+  {
+    "company_name": "Fedby Information Services",
+    "total_vacancies": 10,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 4.6,
+    "min_salary_lpa": 4.0,
+    "max_salary_lpa": 5.5,
+    "min_experience": 3
+  },
+  {
+    "company_name": "Intersoft Data Labs",
+    "total_vacancies": 10,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 29.2,
+    "min_salary_lpa": 20.0,
+    "max_salary_lpa": 37.8,
+    "min_experience": 3
+  },
+  {
+    "company_name": "Lenovo",
+    "total_vacancies": 10,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 13.5,
+    "min_salary_lpa": 12.0,
+    "max_salary_lpa": 17.0,
+    "min_experience": 4
+  },
+  {
+    "company_name": "Mobikwik",
+    "total_vacancies": 10,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 13.9,
+    "min_salary_lpa": 11.0,
+    "max_salary_lpa": 17.0,
+    "min_experience": 3
+  },
+  {
+    "company_name": "Phoenix American Sales Focus Solutions India",
+    "total_vacancies": 10,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 5.7,
+    "min_salary_lpa": 5.0,
+    "max_salary_lpa": 7.0,
+    "min_experience": 3
+  },
+  {
+    "company_name": "comScore",
+    "total_vacancies": 10,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 19.7,
+    "min_salary_lpa": 13.5,
+    "max_salary_lpa": 24.0,
+    "min_experience": 5
+  },
+  {
+    "company_name": "i2e Consulting",
+    "total_vacancies": 10,
+    "roles_count": 1,
+    "roles": [
+      "Data Engineer"
+    ],
+    "avg_salary_lpa": 13.1,
+    "min_salary_lpa": 9.0,
+    "max_salary_lpa": 16.5,
+    "min_experience": 2
+  },
+  {
+    "company_name": "Ags Infotech",
+    "total_vacancies": 9,
+    "roles_count": 1,
+    "roles": [
+      "Data Engineer"
+    ],
+    "avg_salary_lpa": 5.0,
+    "min_salary_lpa": 4.4,
+    "max_salary_lpa": 5.5,
+    "min_experience": 2
+  },
+  {
+    "company_name": "Akamai Technologies",
+    "total_vacancies": 9,
+    "roles_count": 2,
+    "roles": [
+      "Senior Data Scientist",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 25.7,
+    "min_salary_lpa": 21.8,
+    "max_salary_lpa": 34.0,
+    "min_experience": 4
+  },
+  {
+    "company_name": "Aktrix Technologies",
+    "total_vacancies": 9,
+    "roles_count": 1,
+    "roles": [
+      "Data Engineer"
+    ],
+    "avg_salary_lpa": 4.1,
+    "min_salary_lpa": 3.0,
+    "max_salary_lpa": 5.5,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Automatic Data Processing",
+    "total_vacancies": 9,
+    "roles_count": 2,
+    "roles": [
+      "Senior Data Scientist",
+      "Data Architect"
+    ],
+    "avg_salary_lpa": 35.5,
+    "min_salary_lpa": 14.0,
+    "max_salary_lpa": 102.0,
+    "min_experience": 7
+  },
+  {
+    "company_name": "Clarivate Analytics",
+    "total_vacancies": 9,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 17.7,
+    "min_salary_lpa": 10.0,
+    "max_salary_lpa": 26.5,
+    "min_experience": 1
+  },
+  {
+    "company_name": "DecisionTree Analytics & Services",
+    "total_vacancies": 9,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 12.8,
+    "min_salary_lpa": 9.0,
+    "max_salary_lpa": 17.0,
+    "min_experience": 3
+  },
+  {
+    "company_name": "Denodo Technologies",
+    "total_vacancies": 9,
+    "roles_count": 1,
+    "roles": [
+      "Data Engineer"
+    ],
+    "avg_salary_lpa": 8.0,
+    "min_salary_lpa": 6.0,
+    "max_salary_lpa": 10.5,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Equifax",
+    "total_vacancies": 9,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 6.2,
+    "min_salary_lpa": 3.5,
+    "max_salary_lpa": 8.5,
+    "min_experience": 3
+  },
+  {
+    "company_name": "Hashedin By Deloitte",
+    "total_vacancies": 9,
+    "roles_count": 1,
+    "roles": [
+      "Data Engineer"
+    ],
+    "avg_salary_lpa": 15.0,
+    "min_salary_lpa": 11.1,
+    "max_salary_lpa": 19.0,
+    "min_experience": 2
+  },
+  {
+    "company_name": "Landis+Gyr",
+    "total_vacancies": 9,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 15.0,
+    "min_salary_lpa": 12.6,
+    "max_salary_lpa": 17.5,
+    "min_experience": 5
+  },
+  {
+    "company_name": "News Technology Services",
+    "total_vacancies": 9,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 17.4,
+    "min_salary_lpa": 12.3,
+    "max_salary_lpa": 21.0,
+    "min_experience": 5
+  },
+  {
+    "company_name": "QL2 Software",
+    "total_vacancies": 9,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 3.4,
+    "min_salary_lpa": 2.7,
+    "max_salary_lpa": 5.5,
+    "min_experience": 4
+  },
+  {
+    "company_name": "Rapido",
+    "total_vacancies": 9,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 14.9,
+    "min_salary_lpa": 6.5,
+    "max_salary_lpa": 20.4,
+    "min_experience": 2
+  },
+  {
+    "company_name": "Swiss Re",
+    "total_vacancies": 9,
+    "roles_count": 2,
+    "roles": [
+      "Senior Data Scientist",
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 23.5,
+    "min_salary_lpa": 11.9,
+    "max_salary_lpa": 34.5,
+    "min_experience": 5
+  },
+  {
+    "company_name": "AntWorks",
+    "total_vacancies": 8,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Scientist"
+    ],
+    "avg_salary_lpa": 20.6,
+    "min_salary_lpa": 14.0,
+    "max_salary_lpa": 30.0,
+    "min_experience": 3
+  },
+  {
+    "company_name": "BUDDI.AI",
+    "total_vacancies": 8,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 4.2,
+    "min_salary_lpa": 4.0,
+    "max_salary_lpa": 5.0,
+    "min_experience": 3
+  },
+  {
+    "company_name": "Blinkit",
+    "total_vacancies": 8,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 16.7,
+    "min_salary_lpa": 13.5,
+    "max_salary_lpa": 23.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Claim Genius",
+    "total_vacancies": 8,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Scientist"
+    ],
+    "avg_salary_lpa": 21.4,
+    "min_salary_lpa": 18.4,
+    "max_salary_lpa": 27.0,
+    "min_experience": 3
+  },
+  {
+    "company_name": "Games24x7",
+    "total_vacancies": 8,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 17.9,
+    "min_salary_lpa": 11.5,
+    "max_salary_lpa": 23.1,
+    "min_experience": 5
+  },
+  {
+    "company_name": "Home Credit Finance",
+    "total_vacancies": 8,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 7.6,
+    "min_salary_lpa": 4.8,
+    "max_salary_lpa": 10.0,
+    "min_experience": 3
+  },
+  {
+    "company_name": "Hudson's bay Company",
+    "total_vacancies": 8,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 15.7,
+    "min_salary_lpa": 13.2,
+    "max_salary_lpa": 18.9,
+    "min_experience": 3
+  },
+  {
+    "company_name": "Lam Research",
+    "total_vacancies": 8,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Scientist"
+    ],
+    "avg_salary_lpa": 16.5,
+    "min_salary_lpa": 13.9,
+    "max_salary_lpa": 20.0,
+    "min_experience": 3
+  },
+  {
+    "company_name": "NielsenIQ",
+    "total_vacancies": 8,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Scientist"
+    ],
+    "avg_salary_lpa": 8.7,
+    "min_salary_lpa": 8.0,
+    "max_salary_lpa": 9.4,
+    "min_experience": 3
+  },
+  {
+    "company_name": "Nisum Technologies",
+    "total_vacancies": 8,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 20.1,
+    "min_salary_lpa": 18.0,
+    "max_salary_lpa": 24.0,
+    "min_experience": 3
+  },
+  {
+    "company_name": "Optum Global Solutions",
+    "total_vacancies": 8,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 18.5,
+    "min_salary_lpa": 14.5,
+    "max_salary_lpa": 23.5,
+    "min_experience": 7
+  },
+  {
+    "company_name": "S&P Capital IQ",
+    "total_vacancies": 8,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 6.4,
+    "min_salary_lpa": 5.0,
+    "max_salary_lpa": 9.2,
+    "min_experience": 3
+  },
+  {
+    "company_name": "Sentieo",
+    "total_vacancies": 8,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 5.9,
+    "min_salary_lpa": 5.0,
+    "max_salary_lpa": 7.0,
+    "min_experience": 2
+  },
+  {
+    "company_name": "Wunderman",
+    "total_vacancies": 8,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 5.7,
+    "min_salary_lpa": 4.5,
+    "max_salary_lpa": 7.4,
+    "min_experience": 2
+  },
+  {
+    "company_name": "Xiaomi",
+    "total_vacancies": 8,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 9.5,
+    "min_salary_lpa": 8.1,
+    "max_salary_lpa": 10.5,
+    "min_experience": 5
+  },
+  {
+    "company_name": "Aakash Institute",
+    "total_vacancies": 7,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 5.3,
+    "min_salary_lpa": 3.8,
+    "max_salary_lpa": 6.5,
+    "min_experience": 1
+  },
+  {
+    "company_name": "B3Intelligence",
+    "total_vacancies": 7,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 6.8,
+    "min_salary_lpa": 4.0,
+    "max_salary_lpa": 8.5,
+    "min_experience": 3
+  },
+  {
+    "company_name": "Bajaj Finance",
+    "total_vacancies": 7,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Scientist"
+    ],
+    "avg_salary_lpa": 20.0,
+    "min_salary_lpa": 16.0,
+    "max_salary_lpa": 30.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Cartesian Consulting",
+    "total_vacancies": 7,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 7.5,
+    "min_salary_lpa": 5.6,
+    "max_salary_lpa": 11.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "D2L Pharma Research Solutions",
+    "total_vacancies": 7,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 4.3,
+    "min_salary_lpa": 3.4,
+    "max_salary_lpa": 5.2,
+    "min_experience": 4
+  },
+  {
+    "company_name": "Fuel Intelligence",
+    "total_vacancies": 7,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 4.5,
+    "min_salary_lpa": 4.0,
+    "max_salary_lpa": 5.0,
+    "min_experience": 2
+  },
+  {
+    "company_name": "GE Power",
+    "total_vacancies": 7,
+    "roles_count": 2,
+    "roles": [
+      "Senior Data Engineer",
+      "Data Architect"
+    ],
+    "avg_salary_lpa": 16.1,
+    "min_salary_lpa": 11.0,
+    "max_salary_lpa": 22.0,
+    "min_experience": 7
+  },
+  {
+    "company_name": "HARMAN",
+    "total_vacancies": 7,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 9.4,
+    "min_salary_lpa": 6.5,
+    "max_salary_lpa": 12.2,
+    "min_experience": 5
+  },
+  {
+    "company_name": "Johnson Controls",
+    "total_vacancies": 7,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Scientist"
+    ],
+    "avg_salary_lpa": 25.1,
+    "min_salary_lpa": 18.5,
+    "max_salary_lpa": 32.0,
+    "min_experience": 4
+  },
+  {
+    "company_name": "Luxoft",
+    "total_vacancies": 7,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 19.5,
+    "min_salary_lpa": 15.0,
+    "max_salary_lpa": 23.0,
+    "min_experience": 5
+  },
+  {
+    "company_name": "Mobile Premier League",
+    "total_vacancies": 7,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 25.2,
+    "min_salary_lpa": 20.0,
+    "max_salary_lpa": 28.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Nailbiter",
+    "total_vacancies": 7,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 4.9,
+    "min_salary_lpa": 4.5,
+    "max_salary_lpa": 5.2,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Symphony Retail AI",
+    "total_vacancies": 7,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 10.5,
+    "min_salary_lpa": 10.0,
+    "max_salary_lpa": 11.0,
+    "min_experience": 3
+  },
+  {
+    "company_name": "TIAA Global Business Services",
+    "total_vacancies": 7,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 15.5,
+    "min_salary_lpa": 12.0,
+    "max_salary_lpa": 21.5,
+    "min_experience": 6
+  },
+  {
+    "company_name": "TO THE NEW",
+    "total_vacancies": 7,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 18.9,
+    "min_salary_lpa": 18.0,
+    "max_salary_lpa": 20.0,
+    "min_experience": 4
+  },
+  {
+    "company_name": "Trantor",
+    "total_vacancies": 7,
+    "roles_count": 1,
+    "roles": [
+      "Machine Learning Engineer"
+    ],
+    "avg_salary_lpa": 9.4,
+    "min_salary_lpa": 7.0,
+    "max_salary_lpa": 16.5,
+    "min_experience": 1
+  },
+  {
+    "company_name": "e-Zest",
+    "total_vacancies": 7,
+    "roles_count": 1,
+    "roles": [
+      "Machine Learning Engineer"
+    ],
+    "avg_salary_lpa": 4.5,
+    "min_salary_lpa": 2.1,
+    "max_salary_lpa": 7.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Anthology",
+    "total_vacancies": 6,
+    "roles_count": 1,
+    "roles": [
+      "Data Architect"
+    ],
+    "avg_salary_lpa": 25.5,
+    "min_salary_lpa": 25.0,
+    "max_salary_lpa": 26.3,
+    "min_experience": 11
+  },
+  {
+    "company_name": "Arthur J. Gallagher & Co",
+    "total_vacancies": 6,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 5.5,
+    "min_salary_lpa": 5.0,
+    "max_salary_lpa": 6.6,
+    "min_experience": 3
+  },
+  {
+    "company_name": "Athenahealth Technology",
+    "total_vacancies": 6,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 6.1,
+    "min_salary_lpa": 5.6,
+    "max_salary_lpa": 6.6,
+    "min_experience": 6
+  },
+  {
+    "company_name": "Cummins",
+    "total_vacancies": 6,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Scientist"
+    ],
+    "avg_salary_lpa": 23.2,
+    "min_salary_lpa": 17.8,
+    "max_salary_lpa": 29.9,
+    "min_experience": 3
+  },
+  {
+    "company_name": "Ecolab Food Safety & Hygiene Solutions",
+    "total_vacancies": 6,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Scientist"
+    ],
+    "avg_salary_lpa": 13.9,
+    "min_salary_lpa": 11.5,
+    "max_salary_lpa": 18.0,
+    "min_experience": 4
+  },
+  {
+    "company_name": "Encore Capital Group",
+    "total_vacancies": 6,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 8.5,
+    "min_salary_lpa": 7.5,
+    "max_salary_lpa": 9.1,
+    "min_experience": 3
+  },
+  {
+    "company_name": "Eversana",
+    "total_vacancies": 6,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Scientist"
+    ],
+    "avg_salary_lpa": 14.3,
+    "min_salary_lpa": 12.0,
+    "max_salary_lpa": 17.8,
+    "min_experience": 4
+  },
+  {
+    "company_name": "GE Transportation",
+    "total_vacancies": 6,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 22.2,
+    "min_salary_lpa": 21.0,
+    "max_salary_lpa": 23.0,
+    "min_experience": 8
+  },
+  {
+    "company_name": "Ignitarium Technology Solutions",
+    "total_vacancies": 6,
+    "roles_count": 1,
+    "roles": [
+      "Machine Learning Engineer"
+    ],
+    "avg_salary_lpa": 5.8,
+    "min_salary_lpa": 5.0,
+    "max_salary_lpa": 7.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Lucida Technologies",
+    "total_vacancies": 6,
+    "roles_count": 1,
+    "roles": [
+      "Machine Learning Engineer"
+    ],
+    "avg_salary_lpa": 3.6,
+    "min_salary_lpa": 3.3,
+    "max_salary_lpa": 4.3,
+    "min_experience": 1
+  },
+  {
+    "company_name": "MKS Vision",
+    "total_vacancies": 6,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Scientist"
+    ],
+    "avg_salary_lpa": 18.1,
+    "min_salary_lpa": 15.0,
+    "max_salary_lpa": 22.0,
+    "min_experience": 7
+  },
+  {
+    "company_name": "Monsoon CreditTech",
+    "total_vacancies": 6,
+    "roles_count": 1,
+    "roles": [
+      "Machine Learning Engineer"
+    ],
+    "avg_salary_lpa": 9.6,
+    "min_salary_lpa": 7.0,
+    "max_salary_lpa": 12.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Ninjacart",
+    "total_vacancies": 6,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 6.7,
+    "min_salary_lpa": 6.0,
+    "max_salary_lpa": 9.5,
+    "min_experience": 2
+  },
+  {
+    "company_name": "Quantium Analytics",
+    "total_vacancies": 6,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Scientist"
+    ],
+    "avg_salary_lpa": 25.0,
+    "min_salary_lpa": 24.0,
+    "max_salary_lpa": 27.0,
+    "min_experience": 5
+  },
+  {
+    "company_name": "Renault Nissan Technology & Business Centre India",
+    "total_vacancies": 6,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 8.2,
+    "min_salary_lpa": 7.7,
+    "max_salary_lpa": 9.1,
+    "min_experience": 5
+  },
+  {
+    "company_name": "Sysark",
+    "total_vacancies": 6,
+    "roles_count": 1,
+    "roles": [
+      "Machine Learning Engineer"
+    ],
+    "avg_salary_lpa": 3.7,
+    "min_salary_lpa": 3.1,
+    "max_salary_lpa": 4.5,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Williams Lea Tag",
+    "total_vacancies": 6,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 6.6,
+    "min_salary_lpa": 5.0,
+    "max_salary_lpa": 9.0,
+    "min_experience": 5
+  },
+  {
+    "company_name": "XL Catlin",
+    "total_vacancies": 6,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Analyst"
+    ],
+    "avg_salary_lpa": 14.9,
+    "min_salary_lpa": 11.8,
+    "max_salary_lpa": 17.4,
+    "min_experience": 3
+  },
+  {
+    "company_name": "Xpo Logistics",
+    "total_vacancies": 6,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 16.3,
+    "min_salary_lpa": 14.0,
+    "max_salary_lpa": 18.0,
+    "min_experience": 6
+  },
+  {
+    "company_name": "Yum!",
+    "total_vacancies": 6,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Scientist"
+    ],
+    "avg_salary_lpa": 15.3,
+    "min_salary_lpa": 11.0,
+    "max_salary_lpa": 17.8,
+    "min_experience": 2
+  },
+  {
+    "company_name": "AAIC Technologies",
+    "total_vacancies": 5,
+    "roles_count": 1,
+    "roles": [
+      "Machine Learning Engineer"
+    ],
+    "avg_salary_lpa": 9.1,
+    "min_salary_lpa": 6.0,
+    "max_salary_lpa": 14.8,
+    "min_experience": 0
+  },
+  {
+    "company_name": "ACL Digital",
+    "total_vacancies": 5,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Scientist"
+    ],
+    "avg_salary_lpa": 18.8,
+    "min_salary_lpa": 10.7,
+    "max_salary_lpa": 25.0,
+    "min_experience": 3
+  },
+  {
+    "company_name": "ACS Solution",
+    "total_vacancies": 5,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 15.2,
+    "min_salary_lpa": 13.8,
+    "max_salary_lpa": 16.4,
+    "min_experience": 3
+  },
+  {
+    "company_name": "AlgoAnalytics Financial Consultancy",
+    "total_vacancies": 5,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Scientist"
+    ],
+    "avg_salary_lpa": 18.9,
+    "min_salary_lpa": 16.5,
+    "max_salary_lpa": 20.7,
+    "min_experience": 3
+  },
+  {
+    "company_name": "Alliance Data",
+    "total_vacancies": 5,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 16.9,
+    "min_salary_lpa": 14.5,
+    "max_salary_lpa": 19.0,
+    "min_experience": 4
+  },
+  {
+    "company_name": "Allstate",
+    "total_vacancies": 5,
+    "roles_count": 1,
+    "roles": [
+      "Machine Learning Engineer"
+    ],
+    "avg_salary_lpa": 12.1,
+    "min_salary_lpa": 11.2,
+    "max_salary_lpa": 13.0,
+    "min_experience": 5
+  },
+  {
+    "company_name": "Amnet Digital",
+    "total_vacancies": 5,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Scientist"
+    ],
+    "avg_salary_lpa": 11.8,
+    "min_salary_lpa": 1.0,
+    "max_salary_lpa": 18.0,
+    "min_experience": 2
+  },
+  {
+    "company_name": "Anju Software",
+    "total_vacancies": 5,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 16.9,
+    "min_salary_lpa": 6.8,
+    "max_salary_lpa": 20.0,
+    "min_experience": 4
+  },
+  {
+    "company_name": "Apar Technologies",
+    "total_vacancies": 5,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 24.5,
+    "min_salary_lpa": 21.5,
+    "max_salary_lpa": 28.0,
+    "min_experience": 8
+  },
+  {
+    "company_name": "Blend360",
+    "total_vacancies": 5,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Scientist"
+    ],
+    "avg_salary_lpa": 30.4,
+    "min_salary_lpa": 26.3,
+    "max_salary_lpa": 35.0,
+    "min_experience": 5
+  },
+  {
+    "company_name": "CIMCON Software",
+    "total_vacancies": 5,
+    "roles_count": 1,
+    "roles": [
+      "Machine Learning Engineer"
+    ],
+    "avg_salary_lpa": 6.6,
+    "min_salary_lpa": 3.0,
+    "max_salary_lpa": 10.0,
+    "min_experience": 2
+  },
+  {
+    "company_name": "Chegg",
+    "total_vacancies": 5,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Scientist"
+    ],
+    "avg_salary_lpa": 32.2,
+    "min_salary_lpa": 29.9,
+    "max_salary_lpa": 35.0,
+    "min_experience": 3
+  },
+  {
+    "company_name": "Chubb Group",
+    "total_vacancies": 5,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Scientist"
+    ],
+    "avg_salary_lpa": 16.6,
+    "min_salary_lpa": 13.5,
+    "max_salary_lpa": 21.0,
+    "min_experience": 4
+  },
+  {
+    "company_name": "ConcertAI",
+    "total_vacancies": 5,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 28.2,
+    "min_salary_lpa": 22.0,
+    "max_salary_lpa": 32.0,
+    "min_experience": 5
+  },
+  {
+    "company_name": "Danaher",
+    "total_vacancies": 5,
+    "roles_count": 1,
+    "roles": [
+      "Machine Learning Engineer"
+    ],
+    "avg_salary_lpa": 24.8,
+    "min_salary_lpa": 24.0,
+    "max_salary_lpa": 26.0,
+    "min_experience": 6
+  },
+  {
+    "company_name": "Decimal Point Analytics",
+    "total_vacancies": 5,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Scientist"
+    ],
+    "avg_salary_lpa": 20.2,
+    "min_salary_lpa": 12.2,
+    "max_salary_lpa": 24.0,
+    "min_experience": 2
+  },
+  {
+    "company_name": "Decision Minds",
+    "total_vacancies": 5,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Scientist"
+    ],
+    "avg_salary_lpa": 19.0,
+    "min_salary_lpa": 13.0,
+    "max_salary_lpa": 22.4,
+    "min_experience": 5
+  },
+  {
+    "company_name": "Digitalmain",
+    "total_vacancies": 5,
+    "roles_count": 1,
+    "roles": [
+      "Machine Learning Engineer"
+    ],
+    "avg_salary_lpa": 4.4,
+    "min_salary_lpa": 3.0,
+    "max_salary_lpa": 5.8,
+    "min_experience": 1
+  },
+  {
+    "company_name": "EEGRAB",
+    "total_vacancies": 5,
+    "roles_count": 1,
+    "roles": [
+      "Machine Learning Engineer"
+    ],
+    "avg_salary_lpa": 5.1,
+    "min_salary_lpa": 3.5,
+    "max_salary_lpa": 7.2,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Emirates Airlines",
+    "total_vacancies": 5,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 68.3,
+    "min_salary_lpa": 20.0,
+    "max_salary_lpa": 94.0,
+    "min_experience": 6
+  },
+  {
+    "company_name": "Franklin Templeton International Services",
+    "total_vacancies": 5,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 18.7,
+    "min_salary_lpa": 14.2,
+    "max_salary_lpa": 23.5,
+    "min_experience": 5
+  },
+  {
+    "company_name": "GGK Technologies",
+    "total_vacancies": 5,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 11.2,
+    "min_salary_lpa": 9.0,
+    "max_salary_lpa": 14.5,
+    "min_experience": 5
+  },
+  {
+    "company_name": "HALODOC",
+    "total_vacancies": 5,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Scientist"
+    ],
+    "avg_salary_lpa": 27.4,
+    "min_salary_lpa": 18.0,
+    "max_salary_lpa": 38.0,
+    "min_experience": 2
+  },
+  {
+    "company_name": "Hitachi Vantara",
+    "total_vacancies": 5,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Scientist"
+    ],
+    "avg_salary_lpa": 24.6,
+    "min_salary_lpa": 18.7,
+    "max_salary_lpa": 35.0,
+    "min_experience": 7
+  },
+  {
+    "company_name": "Information Evolution",
+    "total_vacancies": 5,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 3.4,
+    "min_salary_lpa": 2.5,
+    "max_salary_lpa": 4.3,
+    "min_experience": 3
+  },
+  {
+    "company_name": "Intuit",
+    "total_vacancies": 5,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 39.0,
+    "min_salary_lpa": 26.0,
+    "max_salary_lpa": 47.0,
+    "min_experience": 8
+  },
+  {
+    "company_name": "Kloud 9",
+    "total_vacancies": 5,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 29.9,
+    "min_salary_lpa": 24.0,
+    "max_salary_lpa": 39.0,
+    "min_experience": 7
+  },
+  {
+    "company_name": "MassMutual",
+    "total_vacancies": 5,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 19.3,
+    "min_salary_lpa": 18.3,
+    "max_salary_lpa": 21.0,
+    "min_experience": 6
+  },
+  {
+    "company_name": "Metagogy Learning Systems",
+    "total_vacancies": 5,
+    "roles_count": 1,
+    "roles": [
+      "Machine Learning Engineer"
+    ],
+    "avg_salary_lpa": 3.7,
+    "min_salary_lpa": 3.0,
+    "max_salary_lpa": 4.2,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Neewee Analytics",
+    "total_vacancies": 5,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Scientist"
+    ],
+    "avg_salary_lpa": 14.9,
+    "min_salary_lpa": 12.1,
+    "max_salary_lpa": 21.5,
+    "min_experience": 3
+  },
+  {
+    "company_name": "Noodle.Ai",
+    "total_vacancies": 5,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Scientist"
+    ],
+    "avg_salary_lpa": 21.7,
+    "min_salary_lpa": 18.0,
+    "max_salary_lpa": 26.0,
+    "min_experience": 2
+  },
+  {
+    "company_name": "Phenom",
+    "total_vacancies": 5,
+    "roles_count": 1,
+    "roles": [
+      "Machine Learning Engineer"
+    ],
+    "avg_salary_lpa": 12.6,
+    "min_salary_lpa": 9.0,
+    "max_salary_lpa": 16.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Qualitas Technologies",
+    "total_vacancies": 5,
+    "roles_count": 1,
+    "roles": [
+      "Machine Learning Engineer"
+    ],
+    "avg_salary_lpa": 4.7,
+    "min_salary_lpa": 2.8,
+    "max_salary_lpa": 7.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Reflections Info Systems",
+    "total_vacancies": 5,
+    "roles_count": 1,
+    "roles": [
+      "Machine Learning Engineer"
+    ],
+    "avg_salary_lpa": 3.6,
+    "min_salary_lpa": 3.0,
+    "max_salary_lpa": 4.5,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Riskonnect",
+    "total_vacancies": 5,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 8.5,
+    "min_salary_lpa": 7.0,
+    "max_salary_lpa": 9.8,
+    "min_experience": 4
+  },
+  {
+    "company_name": "Siemens Healthineers",
+    "total_vacancies": 5,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 20.0,
+    "min_salary_lpa": 14.0,
+    "max_salary_lpa": 24.0,
+    "min_experience": 4
+  },
+  {
+    "company_name": "Softcrylic Technology Solutions",
+    "total_vacancies": 5,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 18.6,
+    "min_salary_lpa": 10.0,
+    "max_salary_lpa": 29.5,
+    "min_experience": 4
+  },
+  {
+    "company_name": "Sri Ayyan Kendra Vidyalaya International School",
+    "total_vacancies": 5,
+    "roles_count": 1,
+    "roles": [
+      "Machine Learning Engineer"
+    ],
+    "avg_salary_lpa": 6.1,
+    "min_salary_lpa": 2.3,
+    "max_salary_lpa": 10.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Taglr Technologies",
+    "total_vacancies": 5,
+    "roles_count": 1,
+    "roles": [
+      "Machine Learning Engineer"
+    ],
+    "avg_salary_lpa": 6.3,
+    "min_salary_lpa": 4.5,
+    "max_salary_lpa": 10.0,
+    "min_experience": 0
+  },
+  {
+    "company_name": "Takvaviya Analytics",
+    "total_vacancies": 5,
+    "roles_count": 1,
+    "roles": [
+      "Machine Learning Engineer"
+    ],
+    "avg_salary_lpa": 4.8,
+    "min_salary_lpa": 4.2,
+    "max_salary_lpa": 5.3,
+    "min_experience": 1
+  },
+  {
+    "company_name": "V2 Solutions",
+    "total_vacancies": 5,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Scientist"
+    ],
+    "avg_salary_lpa": 8.5,
+    "min_salary_lpa": 8.5,
+    "max_salary_lpa": 8.6,
+    "min_experience": 2
+  },
+  {
+    "company_name": "ZF Group",
+    "total_vacancies": 5,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Scientist"
+    ],
+    "avg_salary_lpa": 16.8,
+    "min_salary_lpa": 14.5,
+    "max_salary_lpa": 20.3,
+    "min_experience": 2
+  },
+  {
+    "company_name": "phData",
+    "total_vacancies": 5,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 20.0,
+    "min_salary_lpa": 16.0,
+    "max_salary_lpa": 25.0,
+    "min_experience": 4
+  },
+  {
+    "company_name": "Aditya Birla Group",
+    "total_vacancies": 4,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Scientist"
+    ],
+    "avg_salary_lpa": 28.0,
+    "min_salary_lpa": 26.0,
+    "max_salary_lpa": 30.0,
+    "min_experience": 7
+  },
+  {
+    "company_name": "Blackhawk Network",
+    "total_vacancies": 4,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 21.8,
+    "min_salary_lpa": 16.4,
+    "max_salary_lpa": 25.0,
+    "min_experience": 5
+  },
+  {
+    "company_name": "Calsoft",
+    "total_vacancies": 4,
+    "roles_count": 1,
+    "roles": [
+      "Machine Learning Engineer"
+    ],
+    "avg_salary_lpa": 10.9,
+    "min_salary_lpa": 6.0,
+    "max_salary_lpa": 25.0,
+    "min_experience": 1
+  },
+  {
+    "company_name": "Cimpress",
+    "total_vacancies": 4,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 20.5,
+    "min_salary_lpa": 15.0,
+    "max_salary_lpa": 23.0,
+    "min_experience": 4
+  },
+  {
+    "company_name": "EdgeVerve Systems",
+    "total_vacancies": 4,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Scientist"
+    ],
+    "avg_salary_lpa": 20.4,
+    "min_salary_lpa": 12.0,
+    "max_salary_lpa": 27.5,
+    "min_experience": 5
+  },
+  {
+    "company_name": "Intel",
+    "total_vacancies": 4,
+    "roles_count": 1,
+    "roles": [
+      "Machine Learning Engineer"
+    ],
+    "avg_salary_lpa": 14.4,
+    "min_salary_lpa": 10.5,
+    "max_salary_lpa": 16.1,
+    "min_experience": 1
+  },
+  {
+    "company_name": "KrazyBee",
+    "total_vacancies": 4,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 10.3,
+    "min_salary_lpa": 8.5,
+    "max_salary_lpa": 15.7,
+    "min_experience": 3
+  },
+  {
+    "company_name": "MSCI",
+    "total_vacancies": 4,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Scientist"
+    ],
+    "avg_salary_lpa": 38.4,
+    "min_salary_lpa": 35.4,
+    "max_salary_lpa": 42.0,
+    "min_experience": 6
+  },
+  {
+    "company_name": "Maveric Systems",
+    "total_vacancies": 4,
+    "roles_count": 1,
+    "roles": [
+      "Data Architect"
+    ],
+    "avg_salary_lpa": 19.0,
+    "min_salary_lpa": 19.0,
+    "max_salary_lpa": 19.0,
+    "min_experience": 9
+  },
+  {
+    "company_name": "Milliman",
+    "total_vacancies": 4,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 19.5,
+    "min_salary_lpa": 14.1,
+    "max_salary_lpa": 25.0,
+    "min_experience": 5
+  },
+  {
+    "company_name": "Omega Healthcare",
+    "total_vacancies": 4,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Scientist"
+    ],
+    "avg_salary_lpa": 14.1,
+    "min_salary_lpa": 10.8,
+    "max_salary_lpa": 15.8,
+    "min_experience": 7
+  },
+  {
+    "company_name": "Onepoint IT Consulting",
+    "total_vacancies": 4,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 10.3,
+    "min_salary_lpa": 9.6,
+    "max_salary_lpa": 10.8,
+    "min_experience": 4
+  },
+  {
+    "company_name": "Pitney Bowes",
+    "total_vacancies": 4,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Scientist"
+    ],
+    "avg_salary_lpa": 17.5,
+    "min_salary_lpa": 14.1,
+    "max_salary_lpa": 22.0,
+    "min_experience": 3
+  },
+  {
+    "company_name": "Roche Diagnostics",
+    "total_vacancies": 4,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 33.1,
+    "min_salary_lpa": 23.5,
+    "max_salary_lpa": 43.0,
+    "min_experience": 5
+  },
+  {
+    "company_name": "Sapient Global Markets",
+    "total_vacancies": 4,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 19.9,
+    "min_salary_lpa": 15.0,
+    "max_salary_lpa": 25.0,
+    "min_experience": 5
+  },
+  {
+    "company_name": "Senvion",
+    "total_vacancies": 4,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 12.7,
+    "min_salary_lpa": 9.0,
+    "max_salary_lpa": 16.0,
+    "min_experience": 4
+  },
+  {
+    "company_name": "Tata Motors",
+    "total_vacancies": 4,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Scientist"
+    ],
+    "avg_salary_lpa": 11.5,
+    "min_salary_lpa": 5.8,
+    "max_salary_lpa": 14.0,
+    "min_experience": 4
+  },
+  {
+    "company_name": "Techolution",
+    "total_vacancies": 4,
+    "roles_count": 1,
+    "roles": [
+      "Machine Learning Engineer"
+    ],
+    "avg_salary_lpa": 10.0,
+    "min_salary_lpa": 7.0,
+    "max_salary_lpa": 14.0,
+    "min_experience": 4
+  },
+  {
+    "company_name": "Telstra",
+    "total_vacancies": 4,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 27.6,
+    "min_salary_lpa": 18.0,
+    "max_salary_lpa": 32.0,
+    "min_experience": 7
+  },
+  {
+    "company_name": "USEReady",
+    "total_vacancies": 4,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 14.3,
+    "min_salary_lpa": 9.4,
+    "max_salary_lpa": 18.4,
+    "min_experience": 4
+  },
+  {
+    "company_name": "Wabtec",
+    "total_vacancies": 4,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 20.0,
+    "min_salary_lpa": 19.0,
+    "max_salary_lpa": 21.0,
+    "min_experience": 9
+  },
+  {
+    "company_name": "Western Union",
+    "total_vacancies": 4,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Scientist"
+    ],
+    "avg_salary_lpa": 22.2,
+    "min_salary_lpa": 20.0,
+    "max_salary_lpa": 25.0,
+    "min_experience": 4
+  },
+  {
+    "company_name": "Whishworks It Consulting",
+    "total_vacancies": 4,
+    "roles_count": 1,
+    "roles": [
+      "Data Architect"
+    ],
+    "avg_salary_lpa": 29.8,
+    "min_salary_lpa": 20.0,
+    "max_salary_lpa": 37.0,
+    "min_experience": 13
+  },
+  {
+    "company_name": "XL Health",
+    "total_vacancies": 4,
+    "roles_count": 1,
+    "roles": [
+      "Senior Data Engineer"
+    ],
+    "avg_salary_lpa": 9.9,
+    "min_salary_lpa": 8.5,
+    "max_salary_lpa": 12.0,
+    "min_experience": 4
+  },
+  {
+    "company_name": "Hitachi",
+    "total_vacancies": 3,
+    "roles_count": 1,
+    "roles": [
+      "Data Architect"
+    ],
+    "avg_salary_lpa": 40.0,
+    "min_salary_lpa": 25.0,
+    "max_salary_lpa": 50.0,
+    "min_experience": 21
+  }
+]

@@ -1,0 +1,333 @@
+{
+  "total_records": 139,
+  "target_distribution": {
+    "high_hike_count": 73,
+    "high_hike_pct": 52.5,
+    "low_hike_count": 66,
+    "low_hike_pct": 47.5
+  },
+  "feature_names": [
+    "big_data_skills",
+    "maths_stats_skills",
+    "coding_skills",
+    "ai_and_ml_skills",
+    "dashboard_and_storytelling_skills"
+  ],
+  "cv_metrics": {
+    "Logistic Regression": {
+      "accuracy": 0.8407,
+      "accuracy_std": 0.0836,
+      "precision": 0.8298,
+      "precision_std": 0.0681,
+      "recall": 0.8752,
+      "recall_std": 0.1306,
+      "f1": 0.8484,
+      "f1_std": 0.0882,
+      "roc_auc": 0.9042,
+      "roc_auc_std": 0.0477
+    },
+    "Random Forest": {
+      "accuracy": 0.8487,
+      "accuracy_std": 0.0533,
+      "precision": 0.8445,
+      "precision_std": 0.047,
+      "recall": 0.8781,
+      "recall_std": 0.107,
+      "f1": 0.8566,
+      "f1_std": 0.0539,
+      "roc_auc": 0.8898,
+      "roc_auc_std": 0.0504
+    },
+    "Decision Tree": {
+      "accuracy": 0.7984,
+      "accuracy_std": 0.0667,
+      "precision": 0.7869,
+      "precision_std": 0.0531,
+      "recall": 0.8495,
+      "recall_std": 0.1111,
+      "f1": 0.8135,
+      "f1_std": 0.0647,
+      "roc_auc": 0.8186,
+      "roc_auc_std": 0.0661
+    }
+  },
+  "logistic_regression_coefficients": {
+    "big_data_skills": 0.7533,
+    "maths_stats_skills": 1.4513,
+    "coding_skills": 0.5896,
+    "ai_and_ml_skills": 1.0425,
+    "dashboard_and_storytelling_skills": 1.1861
+  },
+  "random_forest_feature_importances": {
+    "big_data_skills": 0.0502,
+    "maths_stats_skills": 0.2321,
+    "coding_skills": 0.1526,
+    "ai_and_ml_skills": 0.1679,
+    "dashboard_and_storytelling_skills": 0.3973
+  },
+  "confusion_matrix": {
+    "tn": 56,
+    "fp": 10,
+    "fn": 7,
+    "tp": 66
+  },
+  "roc_curve": [
+    {
+      "fpr": 0.0,
+      "tpr": 0.0
+    },
+    {
+      "fpr": 0.0,
+      "tpr": 0.0137
+    },
+    {
+      "fpr": 0.0,
+      "tpr": 0.0411
+    },
+    {
+      "fpr": 0.0,
+      "tpr": 0.0685
+    },
+    {
+      "fpr": 0.0,
+      "tpr": 0.0822
+    },
+    {
+      "fpr": 0.0,
+      "tpr": 0.1096
+    },
+    {
+      "fpr": 0.0,
+      "tpr": 0.1507
+    },
+    {
+      "fpr": 0.0152,
+      "tpr": 0.1644
+    },
+    {
+      "fpr": 0.0152,
+      "tpr": 0.1918
+    },
+    {
+      "fpr": 0.0303,
+      "tpr": 0.1918
+    },
+    {
+      "fpr": 0.0303,
+      "tpr": 0.2329
+    },
+    {
+      "fpr": 0.0303,
+      "tpr": 0.2877
+    },
+    {
+      "fpr": 0.0303,
+      "tpr": 0.3288
+    },
+    {
+      "fpr": 0.0303,
+      "tpr": 0.3562
+    },
+    {
+      "fpr": 0.0303,
+      "tpr": 0.3699
+    },
+    {
+      "fpr": 0.0303,
+      "tpr": 0.3973
+    },
+    {
+      "fpr": 0.0303,
+      "tpr": 0.4247
+    },
+    {
+      "fpr": 0.0303,
+      "tpr": 0.4658
+    },
+    {
+      "fpr": 0.0455,
+      "tpr": 0.4795
+    },
+    {
+      "fpr": 0.0455,
+      "tpr": 0.4932
+    },
+    {
+      "fpr": 0.0606,
+      "tpr": 0.5205
+    },
+    {
+      "fpr": 0.0606,
+      "tpr": 0.5342
+    },
+    {
+      "fpr": 0.0758,
+      "tpr": 0.5342
+    },
+    {
+      "fpr": 0.0758,
+      "tpr": 0.589
+    },
+    {
+      "fpr": 0.0758,
+      "tpr": 0.6164
+    },
+    {
+      "fpr": 0.0758,
+      "tpr": 0.6438
+    },
+    {
+      "fpr": 0.0909,
+      "tpr": 0.6575
+    },
+    {
+      "fpr": 0.0909,
+      "tpr": 0.726
+    },
+    {
+      "fpr": 0.0909,
+      "tpr": 0.7808
+    },
+    {
+      "fpr": 0.0909,
+      "tpr": 0.7945
+    },
+    {
+      "fpr": 0.1061,
+      "tpr": 0.8082
+    },
+    {
+      "fpr": 0.1061,
+      "tpr": 0.8219
+    },
+    {
+      "fpr": 0.1212,
+      "tpr": 0.8219
+    },
+    {
+      "fpr": 0.1212,
+      "tpr": 0.8493
+    },
+    {
+      "fpr": 0.1364,
+      "tpr": 0.863
+    },
+    {
+      "fpr": 0.1364,
+      "tpr": 0.8767
+    },
+    {
+      "fpr": 0.1515,
+      "tpr": 0.8904
+    },
+    {
+      "fpr": 0.1515,
+      "tpr": 0.9178
+    },
+    {
+      "fpr": 0.1818,
+      "tpr": 0.9178
+    },
+    {
+      "fpr": 0.2121,
+      "tpr": 0.9452
+    },
+    {
+      "fpr": 0.3182,
+      "tpr": 0.9452
+    },
+    {
+      "fpr": 0.3182,
+      "tpr": 0.9589
+    },
+    {
+      "fpr": 0.3636,
+      "tpr": 0.9589
+    },
+    {
+      "fpr": 0.3939,
+      "tpr": 0.9589
+    },
+    {
+      "fpr": 0.4545,
+      "tpr": 0.9589
+    },
+    {
+      "fpr": 0.4697,
+      "tpr": 0.9726
+    },
+    {
+      "fpr": 0.5,
+      "tpr": 0.9726
+    },
+    {
+      "fpr": 0.5455,
+      "tpr": 0.9726
+    },
+    {
+      "fpr": 0.5758,
+      "tpr": 1.0
+    },
+    {
+      "fpr": 0.6061,
+      "tpr": 1.0
+    },
+    {
+      "fpr": 0.6364,
+      "tpr": 1.0
+    },
+    {
+      "fpr": 0.7879,
+      "tpr": 1.0
+    },
+    {
+      "fpr": 0.8182,
+      "tpr": 1.0
+    },
+    {
+      "fpr": 0.8636,
+      "tpr": 1.0
+    },
+    {
+      "fpr": 0.9242,
+      "tpr": 1.0
+    },
+    {
+      "fpr": 0.9697,
+      "tpr": 1.0
+    },
+    {
+      "fpr": 1.0,
+      "tpr": 1.0
+    }
+  ],
+  "hike_group_averages": {
+    "low_hike": {
+      "big_data_skills": 3.75,
+      "maths_stats_skills": 3.83,
+      "coding_skills": 3.85,
+      "ai_and_ml_skills": 4.28,
+      "dashboard_and_storytelling_skills": 3.81
+    },
+    "high_hike": {
+      "big_data_skills": 3.94,
+      "maths_stats_skills": 4.71,
+      "coding_skills": 4.64,
+      "ai_and_ml_skills": 4.82,
+      "dashboard_and_storytelling_skills": 4.85
+    }
+  },
+  "correlations_with_hike": {
+    "big_data_skills": 0.1123,
+    "maths_stats_skills": 0.5238,
+    "coding_skills": 0.4438,
+    "ai_and_ml_skills": 0.4046,
+    "dashboard_and_storytelling_skills": 0.5541
+  },
+  "key_findings": [
+    "Dashboard and storytelling skills exhibit the strongest Random Forest importance (0.397) and high Logistic Regression weighting (1.186), indicating communication of data insights strongly associates with salary hikes.",
+    "Quantitative, maths and statistical skills show the highest Logistic Regression coefficient (1.451), confirming solid mathematical foundations provide substantial leverage in junior data scientist advancement.",
+    "AI and ML skills provide a balanced positive outcome relationship (coef: 1.043), while big data tools and baseline coding operate as baseline prerequisites with lower incremental variance."
+  ],
+  "limitations": "Sample size consists of 139 junior data scientists from a corporate training-cum-evaluation program. While cross-validation confirms strong predictive consistency (ROC-AUC ~0.90), results represent observed statistical association within this sample, not absolute universal causation."
+}

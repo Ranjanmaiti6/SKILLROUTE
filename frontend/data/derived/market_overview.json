@@ -1,0 +1,213 @@
+{
+  "total_analytics_job_postings": 15841,
+  "total_datascience_benchmark_records": 1602,
+  "total_represented_vacancies": 93005,
+  "overall_average_salary_lpa": 13.2,
+  "salary_bracket_distribution": {
+    "10to15": 3608,
+    "15to25": 3281,
+    "6to10": 2876,
+    "0to3": 2592,
+    "3to6": 2239,
+    "25to50": 1245
+  },
+  "experience_distribution": {
+    "0-2 yrs (Entry)": 1660,
+    "2-5 yrs (Mid)": 5857,
+    "5-8 yrs (Senior)": 4404,
+    "8-12 yrs (Lead)": 2560,
+    "12+ yrs (Executive)": 1360
+  },
+  "location_distribution": {
+    "Bengaluru": 4081,
+    "Mumbai": 2737,
+    "Delhi NCR": 1680,
+    "Gurgaon": 1676,
+    "Pune": 1167,
+    "Hyderabad": 1042,
+    "Chennai": 1027,
+    "Noida": 597,
+    "Ahmedabad": 204,
+    "Kolkata": 197,
+    "Chandigarh": 106,
+    "Kochi": 92
+  },
+  "top_roles_demand": {
+    "General Analytics Specialist": 11230,
+    "Software & Application Developer": 1496,
+    "Business Analyst": 669,
+    "Marketing & SEO Analyst": 498,
+    "Data Scientist": 432,
+    "Data Analyst": 402,
+    "Analytics Manager & Consultant": 165,
+    "Financial & Risk Analyst": 160,
+    "Senior Business Analyst": 151,
+    "Machine Learning Engineer": 148,
+    "BI & Visualization Analyst": 113,
+    "Data Operations & Processing": 111
+  },
+  "top_hiring_companies": [
+    {
+      "company": "TCS",
+      "total_jobs": 9064,
+      "avg_salary_lpa": 9.5
+    },
+    {
+      "company": "Accenture",
+      "total_jobs": 5425,
+      "avg_salary_lpa": 12.2
+    },
+    {
+      "company": "Cognizant",
+      "total_jobs": 3813,
+      "avg_salary_lpa": 11.2
+    },
+    {
+      "company": "Wipro",
+      "total_jobs": 2566,
+      "avg_salary_lpa": 10.5
+    },
+    {
+      "company": "IBM",
+      "total_jobs": 2480,
+      "avg_salary_lpa": 13.3
+    },
+    {
+      "company": "Genpact",
+      "total_jobs": 2147,
+      "avg_salary_lpa": 11.8
+    },
+    {
+      "company": "Capgemini",
+      "total_jobs": 1994,
+      "avg_salary_lpa": 10.8
+    },
+    {
+      "company": "L&T Infotech",
+      "total_jobs": 1873,
+      "avg_salary_lpa": 12.6
+    },
+    {
+      "company": "Tech Mahindra",
+      "total_jobs": 1830,
+      "avg_salary_lpa": 9.9
+    },
+    {
+      "company": "HCL Technologies",
+      "total_jobs": 1783,
+      "avg_salary_lpa": 11.7
+    },
+    {
+      "company": "Deloitte",
+      "total_jobs": 1714,
+      "avg_salary_lpa": 14.2
+    },
+    {
+      "company": "Evalueserve",
+      "total_jobs": 1698,
+      "avg_salary_lpa": 9.6
+    }
+  ],
+  "top_market_skills": [
+    {
+      "skill": "Data Analysis",
+      "count": 2756,
+      "percentage": 17.4
+    },
+    {
+      "skill": "SQL",
+      "count": 1658,
+      "percentage": 10.5
+    },
+    {
+      "skill": "Java",
+      "count": 916,
+      "percentage": 5.8
+    },
+    {
+      "skill": "Python",
+      "count": 861,
+      "percentage": 5.4
+    },
+    {
+      "skill": "Finance",
+      "count": 756,
+      "percentage": 4.8
+    },
+    {
+      "skill": "SAS",
+      "count": 710,
+      "percentage": 4.5
+    },
+    {
+      "skill": "Business Analysis",
+      "count": 699,
+      "percentage": 4.4
+    },
+    {
+      "skill": "Machine Learning",
+      "count": 646,
+      "percentage": 4.1
+    },
+    {
+      "skill": "Advanced Excel",
+      "count": 576,
+      "percentage": 3.6
+    },
+    {
+      "skill": "Digital Marketing",
+      "count": 566,
+      "percentage": 3.6
+    },
+    {
+      "skill": "Javascript",
+      "count": 536,
+      "percentage": 3.4
+    },
+    {
+      "skill": "Project Management",
+      "count": 505,
+      "percentage": 3.2
+    },
+    {
+      "skill": "Seo",
+      "count": 496,
+      "percentage": 3.1
+    },
+    {
+      "skill": "Sales",
+      "count": 404,
+      "percentage": 2.6
+    },
+    {
+      "skill": "Accounting",
+      "count": 376,
+      "percentage": 2.4
+    },
+    {
+      "skill": "Big Data (Hadoop)",
+      "count": 366,
+      "percentage": 2.3
+    },
+    {
+      "skill": "Outsourcing",
+      "count": 360,
+      "percentage": 2.3
+    },
+    {
+      "skill": "Marketing",
+      "count": 326,
+      "percentage": 2.1
+    },
+    {
+      "skill": "Html",
+      "count": 309,
+      "percentage": 2.0
+    },
+    {
+      "skill": "SAP",
+      "count": 300,
+      "percentage": 1.9
+    }
+  ]
+}

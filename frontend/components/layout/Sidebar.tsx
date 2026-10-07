@@ -30,22 +30,23 @@ export const Sidebar: React.FC<SidebarProps> = ({ onCloseMobile, onOpenCommand }
   const { user, logout } = useAuth();
 
   const primaryNav = [
-    { name: 'Overview', href: '/dashboard', icon: LayoutDashboard },
-    { name: 'Capability', href: '/profile', icon: Layers },
+    { name: 'Market Overview', href: '/dashboard', icon: LayoutDashboard },
+    { name: 'JDS Hike Simulator', href: '/jds-simulator', icon: Award, badge: 'Dataset 3' },
+    { name: 'SDS Leadership Diagnostic', href: '/sds-diagnostic', icon: Sliders, badge: 'Dataset 4' },
+    { name: 'Evidence & Research Hub', href: '/evidence', icon: CheckCircle2, badge: 'Datasets 1-4' },
     { name: 'Opportunities', href: '/opportunities', icon: Compass },
-    { name: 'Transition', href: '/transition/analytics-engineer', icon: GitFork },
     { name: 'Pathway', href: '/pathway', icon: Route },
-    { name: 'Evidence', href: '/evidence', icon: CheckCircle2 },
   ];
 
   const intelligenceNav = [
-    { name: 'Transition Engine', href: '/transition-engine', icon: GitFork, badge: 'Core' },
-    { name: 'Next Best Skill', href: '/next-best-skill', icon: Zap, badge: 'Optimal' },
     { name: 'Career Simulator', href: '/career-simulator', icon: Route, badge: 'Paths' },
+    { name: 'Next Best Skill', href: '/next-best-skill', icon: Zap, badge: 'Optimal' },
+    { name: 'Transition Engine', href: '/transition-engine', icon: GitFork, badge: 'Core' },
     { name: 'What-If Lab', href: '/what-if', icon: Sliders, badge: 'Sim' },
   ];
 
   const secondaryNav = [
+    { name: 'Capability', href: '/profile', icon: Layers },
     { name: 'Outcomes', href: '/outcomes', icon: LineChart },
     { name: 'How It Works', href: '/how-it-works', icon: HelpCircle },
   ];
@@ -62,11 +63,11 @@ export const Sidebar: React.FC<SidebarProps> = ({ onCloseMobile, onOpenCommand }
             <div className="font-extrabold text-sm tracking-tight text-brand-navy flex items-center gap-1.5">
               <span>SKILLROUTE</span>
               <span className="text-[9px] px-1.5 py-0.5 rounded font-bold uppercase tracking-wider bg-amber-50 text-amber-800 border border-amber-200">
-                2.0
+                SAS CU
               </span>
             </div>
             <div className="text-[10px] text-brand-muted tracking-wider uppercase font-medium">
-              Transition Intelligence
+              SAS Analytics & AI Platform
             </div>
           </div>
         </Link>
@@ -197,13 +198,13 @@ export const Sidebar: React.FC<SidebarProps> = ({ onCloseMobile, onOpenCommand }
         <div className="p-3 bg-slate-50/80 rounded-xl border border-brand-border text-xs text-slate-600 space-y-1">
           <div className="flex items-center gap-1.5 text-brand-navy font-bold text-[11px]">
             <Award className="w-3.5 h-3.5 text-brand-saffron" />
-            <span>BUILD FOR BHARAT 2.0</span>
+            <span>SAS CU HACKATHON 2026</span>
           </div>
           <div className="text-[11px] text-slate-600">
-            Team: <strong className="text-brand-navy">ELITECORE</strong>
+            Hosted by: <strong className="text-brand-navy">SAS Institute & CU</strong>
           </div>
-          <div className="text-[10px] text-slate-400">
-            Workforce Transition Intelligence
+          <div className="text-[10px] text-slate-500">
+            All 4 Official Datasets Integrated
           </div>
         </div>
       </div>

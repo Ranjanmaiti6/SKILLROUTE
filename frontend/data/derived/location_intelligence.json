@@ -1,0 +1,146 @@
+[
+  {
+    "location": "Bengaluru",
+    "job_postings": 4081,
+    "avg_salary_lpa": 13.2,
+    "top_roles": {
+      "General Analytics Specialist": 2803,
+      "Software & Application Developer": 483,
+      "Business Analyst": 153,
+      "Data Scientist": 134,
+      "Data Analyst": 97
+    }
+  },
+  {
+    "location": "Mumbai",
+    "job_postings": 2737,
+    "avg_salary_lpa": 12.7,
+    "top_roles": {
+      "General Analytics Specialist": 2056,
+      "Software & Application Developer": 179,
+      "Business Analyst": 126,
+      "Marketing & SEO Analyst": 82,
+      "Data Analyst": 79
+    }
+  },
+  {
+    "location": "Delhi NCR",
+    "job_postings": 1680,
+    "avg_salary_lpa": 13.3,
+    "top_roles": {
+      "General Analytics Specialist": 1225,
+      "Marketing & SEO Analyst": 107,
+      "Software & Application Developer": 104,
+      "Business Analyst": 58,
+      "Data Scientist": 36
+    }
+  },
+  {
+    "location": "Gurgaon",
+    "job_postings": 1676,
+    "avg_salary_lpa": 12.9,
+    "top_roles": {
+      "General Analytics Specialist": 1233,
+      "Software & Application Developer": 112,
+      "Business Analyst": 55,
+      "Data Analyst": 52,
+      "Data Scientist": 50
+    }
+  },
+  {
+    "location": "Pune",
+    "job_postings": 1167,
+    "avg_salary_lpa": 11.5,
+    "top_roles": {
+      "General Analytics Specialist": 753,
+      "Software & Application Developer": 147,
+      "Business Analyst": 75,
+      "Data Analyst": 46,
+      "Marketing & SEO Analyst": 33
+    }
+  },
+  {
+    "location": "Hyderabad",
+    "job_postings": 1042,
+    "avg_salary_lpa": 12.0,
+    "top_roles": {
+      "General Analytics Specialist": 740,
+      "Software & Application Developer": 138,
+      "Business Analyst": 36,
+      "Data Scientist": 33,
+      "Data Analyst": 32
+    }
+  },
+  {
+    "location": "Chennai",
+    "job_postings": 1027,
+    "avg_salary_lpa": 10.4,
+    "top_roles": {
+      "General Analytics Specialist": 698,
+      "Software & Application Developer": 123,
+      "Business Analyst": 58,
+      "Data Analyst": 39,
+      "Marketing & SEO Analyst": 27
+    }
+  },
+  {
+    "location": "Noida",
+    "job_postings": 597,
+    "avg_salary_lpa": 10.0,
+    "top_roles": {
+      "General Analytics Specialist": 395,
+      "Software & Application Developer": 55,
+      "Marketing & SEO Analyst": 43,
+      "Data Scientist": 32,
+      "Business Analyst": 18
+    }
+  },
+  {
+    "location": "Ahmedabad",
+    "job_postings": 204,
+    "avg_salary_lpa": 8.6,
+    "top_roles": {
+      "General Analytics Specialist": 156,
+      "Software & Application Developer": 22,
+      "Marketing & SEO Analyst": 14,
+      "Business Analyst": 5,
+      "Financial & Risk Analyst": 2
+    }
+  },
+  {
+    "location": "Kolkata",
+    "job_postings": 197,
+    "avg_salary_lpa": 8.8,
+    "top_roles": {
+      "General Analytics Specialist": 137,
+      "Marketing & SEO Analyst": 16,
+      "Software & Application Developer": 15,
+      "Data Scientist": 9,
+      "Data Analyst": 4
+    }
+  },
+  {
+    "location": "Chandigarh",
+    "job_postings": 106,
+    "avg_salary_lpa": 5.3,
+    "top_roles": {
+      "General Analytics Specialist": 71,
+      "Software & Application Developer": 13,
+      "Business Analyst": 7,
+      "Marketing & SEO Analyst": 5,
+      "Data Analyst": 3
+    }
+  },
+  {
+    "location": "Kochi",
+    "job_postings": 92,
+    "avg_salary_lpa": 8.9,
+    "top_roles": {
+      "General Analytics Specialist": 72,
+      "Software & Application Developer": 8,
+      "Data Analyst": 3,
+      "BI & Visualization Analyst": 2,
+      "Marketing & SEO Analyst": 2
+    }
+  }
+]

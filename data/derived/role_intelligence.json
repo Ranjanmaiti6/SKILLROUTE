@@ -1,0 +1,1142 @@
+[
+  {
+    "id": "data-scientist",
+    "title": "Data Scientist",
+    "category": "Core Data Science & Predictive Analytics",
+    "slug": "data-scientist",
+    "vacancies_count": 9051,
+    "dataset_postings": 432,
+    "salary_lpa": {
+      "avg": 13.5,
+      "min": 2.0,
+      "max": 74.5,
+      "display": "\u20b92.0L - \u20b974.5L (Avg \u20b913.5L)"
+    },
+    "min_experience_years": 2,
+    "top_locations": {
+      "Bengaluru": 134,
+      "Mumbai": 63,
+      "Gurgaon": 50,
+      "Delhi NCR": 36,
+      "Hyderabad": 33
+    },
+    "hiring_companies": [
+      "TCS",
+      "Accenture",
+      "IBM",
+      "Cognizant",
+      "Capgemini",
+      "Infosys",
+      "Wipro",
+      "Tech Mahindra"
+    ],
+    "demanded_skills": [
+      {
+        "skill": "Machine Learning",
+        "frequency": 182,
+        "weight": 42.1
+      },
+      {
+        "skill": "Python",
+        "frequency": 156,
+        "weight": 36.1
+      },
+      {
+        "skill": "Data Analysis",
+        "frequency": 140,
+        "weight": 32.4
+      },
+      {
+        "skill": "Data Science",
+        "frequency": 131,
+        "weight": 30.3
+      },
+      {
+        "skill": "Deep Learning",
+        "frequency": 93,
+        "weight": 21.5
+      },
+      {
+        "skill": "SQL",
+        "frequency": 72,
+        "weight": 16.7
+      },
+      {
+        "skill": "Natural Language Processing",
+        "frequency": 68,
+        "weight": 15.7
+      },
+      {
+        "skill": "Data Scientist",
+        "frequency": 61,
+        "weight": 14.1
+      },
+      {
+        "skill": "Java",
+        "frequency": 54,
+        "weight": 12.5
+      },
+      {
+        "skill": "Data Mining",
+        "frequency": 50,
+        "weight": 11.6
+      },
+      {
+        "skill": "Statistics",
+        "frequency": 46,
+        "weight": 10.6
+      },
+      {
+        "skill": "Big Data (Hadoop)",
+        "frequency": 43,
+        "weight": 10.0
+      }
+    ],
+    "learning_roadmap": {
+      "phase_1_foundations": [
+        "Machine Learning",
+        "Python"
+      ],
+      "phase_2_core_tools": [
+        "Data Analysis",
+        "Data Science",
+        "Deep Learning"
+      ],
+      "phase_3_advanced_mastery": [
+        "SQL",
+        "Natural Language Processing",
+        "Data Scientist"
+      ],
+      "phase_4_capstone_readiness": [
+        "Domain Projects",
+        "Business Impact Storytelling"
+      ]
+    }
+  },
+  {
+    "id": "data-analyst",
+    "title": "Data Analyst",
+    "category": "Business Intelligence & Exploratory Analysis",
+    "slug": "data-analyst",
+    "vacancies_count": 18095,
+    "dataset_postings": 402,
+    "salary_lpa": {
+      "avg": 5.7,
+      "min": 0.2,
+      "max": 50.0,
+      "display": "\u20b90.2L - \u20b950.0L (Avg \u20b95.7L)"
+    },
+    "min_experience_years": 1,
+    "top_locations": {
+      "Bengaluru": 97,
+      "Mumbai": 79,
+      "Gurgaon": 52,
+      "Pune": 46,
+      "Chennai": 39
+    },
+    "hiring_companies": [
+      "TCS",
+      "Cognizant",
+      "Accenture",
+      "Capgemini",
+      "Wipro",
+      "GlobalLogic",
+      "Tech Mahindra",
+      "Amazon"
+    ],
+    "demanded_skills": [
+      {
+        "skill": "Data Analysis",
+        "frequency": 259,
+        "weight": 64.4
+      },
+      {
+        "skill": "SQL",
+        "frequency": 128,
+        "weight": 31.8
+      },
+      {
+        "skill": "Advanced Excel",
+        "frequency": 83,
+        "weight": 20.6
+      },
+      {
+        "skill": "SAS",
+        "frequency": 43,
+        "weight": 10.7
+      },
+      {
+        "skill": "Python",
+        "frequency": 39,
+        "weight": 9.7
+      },
+      {
+        "skill": "Data Mining",
+        "frequency": 38,
+        "weight": 9.5
+      },
+      {
+        "skill": "Data Analytics...",
+        "frequency": 35,
+        "weight": 8.7
+      },
+      {
+        "skill": "Statistics",
+        "frequency": 32,
+        "weight": 8.0
+      },
+      {
+        "skill": "Big Data",
+        "frequency": 28,
+        "weight": 7.0
+      },
+      {
+        "skill": "Data Analyst",
+        "frequency": 28,
+        "weight": 7.0
+      },
+      {
+        "skill": "Big Data (Hadoop)",
+        "frequency": 27,
+        "weight": 6.7
+      },
+      {
+        "skill": "Machine Learning",
+        "frequency": 25,
+        "weight": 6.2
+      }
+    ],
+    "learning_roadmap": {
+      "phase_1_foundations": [
+        "Data Analysis",
+        "SQL"
+      ],
+      "phase_2_core_tools": [
+        "Advanced Excel",
+        "SAS",
+        "Python"
+      ],
+      "phase_3_advanced_mastery": [
+        "Data Mining",
+        "Data Analytics...",
+        "Statistics"
+      ],
+      "phase_4_capstone_readiness": [
+        "Domain Projects",
+        "Business Impact Storytelling"
+      ]
+    }
+  },
+  {
+    "id": "data-engineer",
+    "title": "Data Engineer",
+    "category": "Data Architecture & Pipeline Infrastructure",
+    "slug": "data-engineer",
+    "vacancies_count": 8044,
+    "dataset_postings": 99,
+    "salary_lpa": {
+      "avg": 11.8,
+      "min": 1.1,
+      "max": 93.5,
+      "display": "\u20b91.1L - \u20b993.5L (Avg \u20b911.8L)"
+    },
+    "min_experience_years": 1,
+    "top_locations": {
+      "Bengaluru": 37,
+      "Mumbai": 16,
+      "Gurgaon": 9,
+      "Pune": 8,
+      "Hyderabad": 6
+    },
+    "hiring_companies": [
+      "TCS",
+      "IBM",
+      "L&T Infotech",
+      "Accenture",
+      "Cognizant",
+      "EC-Mobility",
+      "Capgemini",
+      "Infosys"
+    ],
+    "demanded_skills": [
+      {
+        "skill": "SQL",
+        "frequency": 48,
+        "weight": 48.5
+      },
+      {
+        "skill": "Big Data (Hadoop)",
+        "frequency": 46,
+        "weight": 46.5
+      },
+      {
+        "skill": "Apache Spark",
+        "frequency": 39,
+        "weight": 39.4
+      },
+      {
+        "skill": "Big Data",
+        "frequency": 32,
+        "weight": 32.3
+      },
+      {
+        "skill": "Python",
+        "frequency": 27,
+        "weight": 27.3
+      },
+      {
+        "skill": "Java",
+        "frequency": 27,
+        "weight": 27.3
+      },
+      {
+        "skill": "Data Analysis",
+        "frequency": 20,
+        "weight": 20.2
+      },
+      {
+        "skill": "Pig",
+        "frequency": 19,
+        "weight": 19.2
+      },
+      {
+        "skill": "Scala",
+        "frequency": 18,
+        "weight": 18.2
+      },
+      {
+        "skill": "Hbase",
+        "frequency": 17,
+        "weight": 17.2
+      },
+      {
+        "skill": "NoSQL",
+        "frequency": 16,
+        "weight": 16.2
+      },
+      {
+        "skill": "ETL & Data Pipelines",
+        "frequency": 15,
+        "weight": 15.2
+      }
+    ],
+    "learning_roadmap": {
+      "phase_1_foundations": [
+        "SQL",
+        "Big Data (Hadoop)"
+      ],
+      "phase_2_core_tools": [
+        "Apache Spark",
+        "Big Data",
+        "Python"
+      ],
+      "phase_3_advanced_mastery": [
+        "Java",
+        "Data Analysis",
+        "Pig"
+      ],
+      "phase_4_capstone_readiness": [
+        "Domain Projects",
+        "Business Impact Storytelling"
+      ]
+    }
+  },
+  {
+    "id": "machine-learning-engineer",
+    "title": "Machine Learning Engineer",
+    "category": "Applied ML Systems & Production AI",
+    "slug": "machine-learning-engineer",
+    "vacancies_count": 964,
+    "dataset_postings": 148,
+    "salary_lpa": {
+      "avg": 9.9,
+      "min": 2.0,
+      "max": 40.0,
+      "display": "\u20b92.0L - \u20b940.0L (Avg \u20b99.9L)"
+    },
+    "min_experience_years": 1,
+    "top_locations": {
+      "Bengaluru": 60,
+      "Gurgaon": 26,
+      "Mumbai": 19,
+      "Delhi NCR": 16,
+      "Chennai": 9
+    },
+    "hiring_companies": [
+      "TCS",
+      "Quantiphi Analytics Solutions",
+      "Accenture",
+      "Wipro",
+      "Tiger Analytics",
+      "Capgemini",
+      "Infosys",
+      "Cognizant"
+    ],
+    "demanded_skills": [
+      {
+        "skill": "Machine Learning",
+        "frequency": 115,
+        "weight": 77.7
+      },
+      {
+        "skill": "Python",
+        "frequency": 62,
+        "weight": 41.9
+      },
+      {
+        "skill": "Data Analysis",
+        "frequency": 38,
+        "weight": 25.7
+      },
+      {
+        "skill": "Natural Language Processing",
+        "frequency": 38,
+        "weight": 25.7
+      },
+      {
+        "skill": "Deep Learning",
+        "frequency": 28,
+        "weight": 18.9
+      },
+      {
+        "skill": "Data Mining",
+        "frequency": 24,
+        "weight": 16.2
+      },
+      {
+        "skill": "Java",
+        "frequency": 24,
+        "weight": 16.2
+      },
+      {
+        "skill": "C++",
+        "frequency": 22,
+        "weight": 14.9
+      },
+      {
+        "skill": "Computer Vision",
+        "frequency": 16,
+        "weight": 10.8
+      },
+      {
+        "skill": "SQL",
+        "frequency": 13,
+        "weight": 8.8
+      },
+      {
+        "skill": "Text Mining",
+        "frequency": 9,
+        "weight": 6.1
+      },
+      {
+        "skill": "Machine Learning...",
+        "frequency": 8,
+        "weight": 5.4
+      }
+    ],
+    "learning_roadmap": {
+      "phase_1_foundations": [
+        "Machine Learning",
+        "Python"
+      ],
+      "phase_2_core_tools": [
+        "Data Analysis",
+        "Natural Language Processing",
+        "Deep Learning"
+      ],
+      "phase_3_advanced_mastery": [
+        "Data Mining",
+        "Java",
+        "C++"
+      ],
+      "phase_4_capstone_readiness": [
+        "Domain Projects",
+        "Business Impact Storytelling"
+      ]
+    }
+  },
+  {
+    "id": "business-analyst",
+    "title": "Business Analyst",
+    "category": "Domain Strategy & Process Intelligence",
+    "slug": "business-analyst",
+    "vacancies_count": 32843,
+    "dataset_postings": 669,
+    "salary_lpa": {
+      "avg": 8.9,
+      "min": 1.2,
+      "max": 30.0,
+      "display": "\u20b91.2L - \u20b930.0L (Avg \u20b98.9L)"
+    },
+    "min_experience_years": 2,
+    "top_locations": {
+      "Bengaluru": 153,
+      "Mumbai": 126,
+      "Pune": 75,
+      "Delhi NCR": 58,
+      "Chennai": 58
+    },
+    "hiring_companies": [
+      "TCS",
+      "Accenture",
+      "Genpact",
+      "Wipro",
+      "Cognizant",
+      "Deloitte",
+      "HCL Technologies",
+      "Evalueserve"
+    ],
+    "demanded_skills": [
+      {
+        "skill": "Business Analysis",
+        "frequency": 388,
+        "weight": 58.0
+      },
+      {
+        "skill": "Data Analysis",
+        "frequency": 102,
+        "weight": 15.2
+      },
+      {
+        "skill": "Business Analyst",
+        "frequency": 93,
+        "weight": 13.9
+      },
+      {
+        "skill": "SQL",
+        "frequency": 78,
+        "weight": 11.7
+      },
+      {
+        "skill": "Advanced Excel",
+        "frequency": 38,
+        "weight": 5.7
+      },
+      {
+        "skill": "Project Management",
+        "frequency": 38,
+        "weight": 5.7
+      },
+      {
+        "skill": "Requirement Gathering",
+        "frequency": 38,
+        "weight": 5.7
+      },
+      {
+        "skill": "Uat",
+        "frequency": 36,
+        "weight": 5.4
+      },
+      {
+        "skill": "Use Cases",
+        "frequency": 34,
+        "weight": 5.1
+      },
+      {
+        "skill": "User Stories",
+        "frequency": 33,
+        "weight": 4.9
+      },
+      {
+        "skill": "Business Analysis...",
+        "frequency": 31,
+        "weight": 4.6
+      },
+      {
+        "skill": "Agile / Scrum",
+        "frequency": 30,
+        "weight": 4.5
+      }
+    ],
+    "learning_roadmap": {
+      "phase_1_foundations": [
+        "Business Analysis",
+        "Data Analysis"
+      ],
+      "phase_2_core_tools": [
+        "Business Analyst",
+        "SQL",
+        "Advanced Excel"
+      ],
+      "phase_3_advanced_mastery": [
+        "Project Management",
+        "Requirement Gathering",
+        "Uat"
+      ],
+      "phase_4_capstone_readiness": [
+        "Domain Projects",
+        "Business Impact Storytelling"
+      ]
+    }
+  },
+  {
+    "id": "senior-data-scientist",
+    "title": "Senior Data Scientist",
+    "category": "Advanced AI Research & Technical Leadership",
+    "slug": "senior-data-scientist",
+    "vacancies_count": 2129,
+    "dataset_postings": 51,
+    "salary_lpa": {
+      "avg": 22.3,
+      "min": 1.0,
+      "max": 100.0,
+      "display": "\u20b91.0L - \u20b9100.0L (Avg \u20b922.3L)"
+    },
+    "min_experience_years": 4,
+    "top_locations": {
+      "Bengaluru": 16,
+      "Delhi NCR": 8,
+      "Mumbai": 5,
+      "Pune": 5,
+      "Hyderabad": 5
+    },
+    "hiring_companies": [
+      "Accenture",
+      "TCS",
+      "Cognizant",
+      "Fractal Analytics",
+      "Ab Inbev",
+      "Wipro",
+      "Deloitte",
+      "Walmart"
+    ],
+    "demanded_skills": [
+      {
+        "skill": "Machine Learning",
+        "frequency": 30,
+        "weight": 58.8
+      },
+      {
+        "skill": "Python",
+        "frequency": 29,
+        "weight": 56.9
+      },
+      {
+        "skill": "Data Science",
+        "frequency": 21,
+        "weight": 41.2
+      },
+      {
+        "skill": "Data Analysis",
+        "frequency": 15,
+        "weight": 29.4
+      },
+      {
+        "skill": "SQL",
+        "frequency": 12,
+        "weight": 23.5
+      },
+      {
+        "skill": "Deep Learning",
+        "frequency": 11,
+        "weight": 21.6
+      },
+      {
+        "skill": "Big Data (Hadoop)",
+        "frequency": 6,
+        "weight": 11.8
+      },
+      {
+        "skill": "Python...",
+        "frequency": 6,
+        "weight": 11.8
+      },
+      {
+        "skill": "Data Scientist",
+        "frequency": 6,
+        "weight": 11.8
+      },
+      {
+        "skill": "Apache Spark",
+        "frequency": 5,
+        "weight": 9.8
+      },
+      {
+        "skill": "Natural Language Processing",
+        "frequency": 5,
+        "weight": 9.8
+      },
+      {
+        "skill": "Statistics",
+        "frequency": 5,
+        "weight": 9.8
+      }
+    ],
+    "learning_roadmap": {
+      "phase_1_foundations": [
+        "Machine Learning",
+        "Python"
+      ],
+      "phase_2_core_tools": [
+        "Data Science",
+        "Data Analysis",
+        "SQL"
+      ],
+      "phase_3_advanced_mastery": [
+        "Deep Learning",
+        "Big Data (Hadoop)",
+        "Python..."
+      ],
+      "phase_4_capstone_readiness": [
+        "Domain Projects",
+        "Business Impact Storytelling"
+      ]
+    }
+  },
+  {
+    "id": "senior-data-analyst",
+    "title": "Senior Data Analyst",
+    "category": "Strategic Analytics & Executive Storytelling",
+    "slug": "senior-data-analyst",
+    "vacancies_count": 3825,
+    "dataset_postings": 31,
+    "salary_lpa": {
+      "avg": 9.6,
+      "min": 1.4,
+      "max": 40.0,
+      "display": "\u20b91.4L - \u20b940.0L (Avg \u20b99.6L)"
+    },
+    "min_experience_years": 3,
+    "top_locations": {
+      "Bengaluru": 8,
+      "Mumbai": 7,
+      "Gurgaon": 5,
+      "Hyderabad": 4,
+      "Noida": 3
+    },
+    "hiring_companies": [
+      "Accenture",
+      "Capgemini",
+      "TCS",
+      "Unilog Content Solutions ( P)",
+      "Cognizant",
+      "eClerx",
+      "Concentrix Corporation",
+      "Ernst & Young"
+    ],
+    "demanded_skills": [
+      {
+        "skill": "Data Analysis",
+        "frequency": 23,
+        "weight": 74.2
+      },
+      {
+        "skill": "SAS",
+        "frequency": 6,
+        "weight": 19.4
+      },
+      {
+        "skill": "Advanced Excel",
+        "frequency": 6,
+        "weight": 19.4
+      },
+      {
+        "skill": "Spss",
+        "frequency": 5,
+        "weight": 16.1
+      },
+      {
+        "skill": "Python",
+        "frequency": 5,
+        "weight": 16.1
+      },
+      {
+        "skill": "Data Visualization",
+        "frequency": 4,
+        "weight": 12.9
+      },
+      {
+        "skill": "QlikView",
+        "frequency": 4,
+        "weight": 12.9
+      },
+      {
+        "skill": "SQL",
+        "frequency": 4,
+        "weight": 12.9
+      },
+      {
+        "skill": "Tableau",
+        "frequency": 4,
+        "weight": 12.9
+      },
+      {
+        "skill": "Machine Learning",
+        "frequency": 4,
+        "weight": 12.9
+      },
+      {
+        "skill": "Data Validation",
+        "frequency": 3,
+        "weight": 9.7
+      },
+      {
+        "skill": "Data Mining...",
+        "frequency": 3,
+        "weight": 9.7
+      }
+    ],
+    "learning_roadmap": {
+      "phase_1_foundations": [
+        "Data Analysis",
+        "SAS"
+      ],
+      "phase_2_core_tools": [
+        "Advanced Excel",
+        "Spss",
+        "Python"
+      ],
+      "phase_3_advanced_mastery": [
+        "Data Visualization",
+        "QlikView",
+        "SQL"
+      ],
+      "phase_4_capstone_readiness": [
+        "Domain Projects",
+        "Business Impact Storytelling"
+      ]
+    }
+  },
+  {
+    "id": "senior-data-engineer",
+    "title": "Senior Data Engineer",
+    "category": "Distributed Systems & Cloud Data Platforms",
+    "slug": "senior-data-engineer",
+    "vacancies_count": 3411,
+    "dataset_postings": 13,
+    "salary_lpa": {
+      "avg": 19.0,
+      "min": 2.5,
+      "max": 94.0,
+      "display": "\u20b92.5L - \u20b994.0L (Avg \u20b919.0L)"
+    },
+    "min_experience_years": 4,
+    "top_locations": {
+      "Bengaluru": 2,
+      "Delhi NCR": 2,
+      "Chennai": 2,
+      "Noida": 2,
+      "Trivandrum": 2
+    },
+    "hiring_companies": [
+      "L&T Infotech",
+      "Quantiphi Analytics Solutions",
+      "IBM",
+      "Maersk",
+      "Optum",
+      "Accenture",
+      "TCS",
+      "Wells Fargo India"
+    ],
+    "demanded_skills": [
+      {
+        "skill": "SQL",
+        "frequency": 9,
+        "weight": 69.2
+      },
+      {
+        "skill": "ETL & Data Pipelines",
+        "frequency": 5,
+        "weight": 38.5
+      },
+      {
+        "skill": "Ssis",
+        "frequency": 4,
+        "weight": 30.8
+      },
+      {
+        "skill": "Data Modeling...",
+        "frequency": 4,
+        "weight": 30.8
+      },
+      {
+        "skill": "Big Data (Hadoop)",
+        "frequency": 3,
+        "weight": 23.1
+      },
+      {
+        "skill": "Data Warehousing",
+        "frequency": 3,
+        "weight": 23.1
+      },
+      {
+        "skill": "Python",
+        "frequency": 2,
+        "weight": 15.4
+      },
+      {
+        "skill": "Flume",
+        "frequency": 2,
+        "weight": 15.4
+      },
+      {
+        "skill": "Sqoop",
+        "frequency": 2,
+        "weight": 15.4
+      },
+      {
+        "skill": "Oozie",
+        "frequency": 2,
+        "weight": 15.4
+      },
+      {
+        "skill": "Impala",
+        "frequency": 2,
+        "weight": 15.4
+      },
+      {
+        "skill": "Ssrs",
+        "frequency": 2,
+        "weight": 15.4
+      }
+    ],
+    "learning_roadmap": {
+      "phase_1_foundations": [
+        "SQL",
+        "ETL & Data Pipelines"
+      ],
+      "phase_2_core_tools": [
+        "Ssis",
+        "Data Modeling...",
+        "Big Data (Hadoop)"
+      ],
+      "phase_3_advanced_mastery": [
+        "Data Warehousing",
+        "Python",
+        "Flume"
+      ],
+      "phase_4_capstone_readiness": [
+        "Domain Projects",
+        "Business Impact Storytelling"
+      ]
+    }
+  },
+  {
+    "id": "senior-business-analyst",
+    "title": "Senior Business Analyst",
+    "category": "Enterprise Transformation & Decision Modeling",
+    "slug": "senior-business-analyst",
+    "vacancies_count": 14115,
+    "dataset_postings": 151,
+    "salary_lpa": {
+      "avg": 13.2,
+      "min": 2.4,
+      "max": 38.0,
+      "display": "\u20b92.4L - \u20b938.0L (Avg \u20b913.2L)"
+    },
+    "min_experience_years": 4,
+    "top_locations": {
+      "Bengaluru": 46,
+      "Delhi NCR": 30,
+      "Gurgaon": 24,
+      "Mumbai": 13,
+      "Chennai": 10
+    },
+    "hiring_companies": [
+      "TCS",
+      "Accenture",
+      "Evalueserve",
+      "Cognizant",
+      "HCL Technologies",
+      "Tech Mahindra",
+      "EXL Service",
+      "Wipro"
+    ],
+    "demanded_skills": [
+      {
+        "skill": "Business Analysis",
+        "frequency": 73,
+        "weight": 48.3
+      },
+      {
+        "skill": "Data Analysis",
+        "frequency": 49,
+        "weight": 32.5
+      },
+      {
+        "skill": "SQL",
+        "frequency": 27,
+        "weight": 17.9
+      },
+      {
+        "skill": "Business Analysis...",
+        "frequency": 22,
+        "weight": 14.6
+      },
+      {
+        "skill": "Advanced Excel",
+        "frequency": 20,
+        "weight": 13.2
+      },
+      {
+        "skill": "Linear Regression",
+        "frequency": 20,
+        "weight": 13.2
+      },
+      {
+        "skill": "Business Analyst",
+        "frequency": 20,
+        "weight": 13.2
+      },
+      {
+        "skill": "SAS",
+        "frequency": 17,
+        "weight": 11.3
+      },
+      {
+        "skill": "Excel / VBA",
+        "frequency": 11,
+        "weight": 7.3
+      },
+      {
+        "skill": "Model Development",
+        "frequency": 8,
+        "weight": 5.3
+      },
+      {
+        "skill": "Segmentation",
+        "frequency": 8,
+        "weight": 5.3
+      },
+      {
+        "skill": "Base...",
+        "frequency": 8,
+        "weight": 5.3
+      }
+    ],
+    "learning_roadmap": {
+      "phase_1_foundations": [
+        "Business Analysis",
+        "Data Analysis"
+      ],
+      "phase_2_core_tools": [
+        "SQL",
+        "Business Analysis...",
+        "Advanced Excel"
+      ],
+      "phase_3_advanced_mastery": [
+        "Linear Regression",
+        "Business Analyst",
+        "SAS"
+      ],
+      "phase_4_capstone_readiness": [
+        "Domain Projects",
+        "Business Impact Storytelling"
+      ]
+    }
+  },
+  {
+    "id": "data-architect",
+    "title": "Data Architect",
+    "category": "Enterprise Data Governance & System Design",
+    "slug": "data-architect",
+    "vacancies_count": 528,
+    "dataset_postings": 72,
+    "salary_lpa": {
+      "avg": 25.1,
+      "min": 7.5,
+      "max": 102.0,
+      "display": "\u20b97.5L - \u20b9102.0L (Avg \u20b925.1L)"
+    },
+    "min_experience_years": 10,
+    "top_locations": {
+      "Bengaluru": 38,
+      "Pune": 10,
+      "Delhi NCR": 9,
+      "Hyderabad": 6,
+      "Noida": 4
+    },
+    "hiring_companies": [
+      "Accenture",
+      "TCS",
+      "Fiserv",
+      "IBM",
+      "Cognizant",
+      "Wipro",
+      "Globant",
+      "Capgemini"
+    ],
+    "demanded_skills": [
+      {
+        "skill": "Big Data (Hadoop)",
+        "frequency": 34,
+        "weight": 47.2
+      },
+      {
+        "skill": "Apache Spark",
+        "frequency": 27,
+        "weight": 37.5
+      },
+      {
+        "skill": "SQL",
+        "frequency": 27,
+        "weight": 37.5
+      },
+      {
+        "skill": "Java",
+        "frequency": 18,
+        "weight": 25.0
+      },
+      {
+        "skill": "Big Data",
+        "frequency": 13,
+        "weight": 18.1
+      },
+      {
+        "skill": "Data Modeling",
+        "frequency": 13,
+        "weight": 18.1
+      },
+      {
+        "skill": "Cloudera",
+        "frequency": 12,
+        "weight": 16.7
+      },
+      {
+        "skill": "NoSQL",
+        "frequency": 11,
+        "weight": 15.3
+      },
+      {
+        "skill": "Data Warehousing",
+        "frequency": 10,
+        "weight": 13.9
+      },
+      {
+        "skill": "Hbase",
+        "frequency": 9,
+        "weight": 12.5
+      },
+      {
+        "skill": "Python",
+        "frequency": 9,
+        "weight": 12.5
+      },
+      {
+        "skill": "Data Architect",
+        "frequency": 8,
+        "weight": 11.1
+      }
+    ],
+    "learning_roadmap": {
+      "phase_1_foundations": [
+        "Big Data (Hadoop)",
+        "Apache Spark"
+      ],
+      "phase_2_core_tools": [
+        "SQL",
+        "Java",
+        "Big Data"
+      ],
+      "phase_3_advanced_mastery": [
+        "Data Modeling",
+        "Cloudera",
+        "NoSQL"
+      ],
+      "phase_4_capstone_readiness": [
+        "Domain Projects",
+        "Business Impact Storytelling"
+      ]
+    }
+  }
+]

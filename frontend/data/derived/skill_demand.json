@@ -1,0 +1,252 @@
+[
+  {
+    "skill": "Data Analysis",
+    "count": 2756,
+    "percentage": 17.4
+  },
+  {
+    "skill": "SQL",
+    "count": 1658,
+    "percentage": 10.5
+  },
+  {
+    "skill": "Java",
+    "count": 916,
+    "percentage": 5.8
+  },
+  {
+    "skill": "Python",
+    "count": 861,
+    "percentage": 5.4
+  },
+  {
+    "skill": "Finance",
+    "count": 756,
+    "percentage": 4.8
+  },
+  {
+    "skill": "SAS",
+    "count": 710,
+    "percentage": 4.5
+  },
+  {
+    "skill": "Business Analysis",
+    "count": 699,
+    "percentage": 4.4
+  },
+  {
+    "skill": "Machine Learning",
+    "count": 646,
+    "percentage": 4.1
+  },
+  {
+    "skill": "Advanced Excel",
+    "count": 576,
+    "percentage": 3.6
+  },
+  {
+    "skill": "Digital Marketing",
+    "count": 566,
+    "percentage": 3.6
+  },
+  {
+    "skill": "Javascript",
+    "count": 536,
+    "percentage": 3.4
+  },
+  {
+    "skill": "Project Management",
+    "count": 505,
+    "percentage": 3.2
+  },
+  {
+    "skill": "Seo",
+    "count": 496,
+    "percentage": 3.1
+  },
+  {
+    "skill": "Sales",
+    "count": 404,
+    "percentage": 2.6
+  },
+  {
+    "skill": "Accounting",
+    "count": 376,
+    "percentage": 2.4
+  },
+  {
+    "skill": "Big Data (Hadoop)",
+    "count": 366,
+    "percentage": 2.3
+  },
+  {
+    "skill": "Outsourcing",
+    "count": 360,
+    "percentage": 2.3
+  },
+  {
+    "skill": "Marketing",
+    "count": 326,
+    "percentage": 2.1
+  },
+  {
+    "skill": "Html",
+    "count": 309,
+    "percentage": 2.0
+  },
+  {
+    "skill": "SAP",
+    "count": 300,
+    "percentage": 1.9
+  },
+  {
+    "skill": "Apache Spark",
+    "count": 298,
+    "percentage": 1.9
+  },
+  {
+    "skill": "Business Process",
+    "count": 280,
+    "percentage": 1.8
+  },
+  {
+    "skill": "Data Science",
+    "count": 271,
+    "percentage": 1.7
+  },
+  {
+    "skill": "Big Data",
+    "count": 263,
+    "percentage": 1.7
+  },
+  {
+    "skill": "Statistics",
+    "count": 259,
+    "percentage": 1.6
+  },
+  {
+    "skill": "Business Development",
+    "count": 253,
+    "percentage": 1.6
+  },
+  {
+    "skill": "Auditing",
+    "count": 247,
+    "percentage": 1.6
+  },
+  {
+    "skill": "Financial Analysis",
+    "count": 245,
+    "percentage": 1.5
+  },
+  {
+    "skill": "C++",
+    "count": 242,
+    "percentage": 1.5
+  },
+  {
+    "skill": "Market Research",
+    "count": 234,
+    "percentage": 1.5
+  },
+  {
+    "skill": "Css",
+    "count": 232,
+    "percentage": 1.5
+  },
+  {
+    "skill": "Data Mining",
+    "count": 225,
+    "percentage": 1.4
+  },
+  {
+    "skill": "Budgeting",
+    "count": 220,
+    "percentage": 1.4
+  },
+  {
+    "skill": "Operations",
+    "count": 220,
+    "percentage": 1.4
+  },
+  {
+    "skill": "Sem",
+    "count": 218,
+    "percentage": 1.4
+  },
+  {
+    "skill": "Agile / Scrum",
+    "count": 216,
+    "percentage": 1.4
+  },
+  {
+    "skill": "Jquery",
+    "count": 203,
+    "percentage": 1.3
+  },
+  {
+    "skill": "Analytical",
+    "count": 200,
+    "percentage": 1.3
+  },
+  {
+    "skill": "Deep Learning",
+    "count": 190,
+    "percentage": 1.2
+  },
+  {
+    "skill": "Consulting",
+    "count": 189,
+    "percentage": 1.2
+  },
+  {
+    "skill": "Natural Language Processing",
+    "count": 183,
+    "percentage": 1.2
+  },
+  {
+    "skill": "Product Management",
+    "count": 179,
+    "percentage": 1.1
+  },
+  {
+    "skill": "NoSQL",
+    "count": 178,
+    "percentage": 1.1
+  },
+  {
+    "skill": "Business Intelligence",
+    "count": 177,
+    "percentage": 1.1
+  },
+  {
+    "skill": "C#",
+    "count": 175,
+    "percentage": 1.1
+  },
+  {
+    "skill": "Hr",
+    "count": 169,
+    "percentage": 1.1
+  },
+  {
+    "skill": "Banking",
+    "count": 168,
+    "percentage": 1.1
+  },
+  {
+    "skill": "Tableau",
+    "count": 167,
+    "percentage": 1.1
+  },
+  {
+    "skill": "Linux",
+    "count": 164,
+    "percentage": 1.0
+  },
+  {
+    "skill": "ETL & Data Pipelines",
+    "count": 163,
+    "percentage": 1.0
+  }
+]
