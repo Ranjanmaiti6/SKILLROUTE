@@ -39,10 +39,10 @@ class NumberedCanvas(canvas.Canvas):
         self.setFillColor(colors.HexColor('#0F172A'))
 
         # Running header
-        self.drawString(36, 810, 'SKILLROUTE • Skill-to-Opportunity Transition Intelligence Engine')
+        self.drawString(36, 810, 'SKILLROUTE • SAS CU Hackathon 2026 Executive Defense Manual')
         self.setFont('Helvetica', 7.5)
         self.setFillColor(colors.HexColor('#64748B'))
-        self.drawRightString(559, 810, 'Build For Bharat 2.0 | Team ELITECORE')
+        self.drawRightString(559, 810, 'SAS Institute Inc. & Chandigarh University')
         self.setStrokeColor(colors.HexColor('#CBD5E1'))
         self.setLineWidth(0.5)
         self.line(36, 804, 559, 804)
@@ -50,14 +50,16 @@ class NumberedCanvas(canvas.Canvas):
         # Running footer
         page_str = f'Page {self._pageNumber} of {page_count}'
         self.drawRightString(559, 24, page_str)
-        self.drawString(36, 24, 'SkillRoute Executive Defense Manual • Confidential & Proprietary • Build For Bharat 2.0')
+        self.drawString(36, 24, 'SkillRoute Executive Defense Manual • SAS Institute Inc. & Chandigarh University (CU)')
         self.setStrokeColor(colors.HexColor('#CBD5E1'))
         self.setLineWidth(0.5)
         self.line(36, 33, 559, 33)
 
         self.restoreState()
 
-def build_pdf(filename="SkillRoute_Executive_Project_Documentation.pdf"):
+def build_pdf(filename=None):
+    if filename is None:
+        filename = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "docs", "SkillRoute_SAS_CU_Hackathon_Executive_Summary.pdf")
     doc = SimpleDocTemplate(
         filename,
         pagesize=A4,
@@ -616,8 +618,8 @@ def build_pdf(filename="SkillRoute_Executive_Project_Documentation.pdf"):
     # Team & Closing Box
     team_data = [
         [
-            Paragraph("<b>Team ELITECORE:</b> Ranjan Maiti (Lead Architect) • Swati (Data & Taxonomy) • Saurabh Suman (Backend & Graph)", ParagraphStyle('T1', parent=styles['Normal'], fontName='Helvetica-Bold', fontSize=7, textColor=PRIMARY_NAVY)),
-            Paragraph("<b>Status:</b> Production Ready • Build For Bharat 2.0", ParagraphStyle('T2', parent=styles['Normal'], fontName='Helvetica-Bold', fontSize=7, alignment=TA_RIGHT, textColor=SUCCESS_EMERALD))
+            Paragraph("<b>Team SkillRoute:</b> Data Science, Taxonomy & Full-Stack Platform Engineering", ParagraphStyle('T1', parent=styles['Normal'], fontName='Helvetica-Bold', fontSize=7, textColor=PRIMARY_NAVY)),
+            Paragraph("<b>Status:</b> SAS CU Hackathon 2026 • Production Ready", ParagraphStyle('T2', parent=styles['Normal'], fontName='Helvetica-Bold', fontSize=7, alignment=TA_RIGHT, textColor=SUCCESS_EMERALD))
         ]
     ]
     team_table = Table(team_data, colWidths=[360, 155])
@@ -636,7 +638,7 @@ def build_pdf(filename="SkillRoute_Executive_Project_Documentation.pdf"):
     print(f"Successfully generated {filename}")
 
 if __name__ == "__main__":
-    out_pdf = "SkillRoute_Executive_Project_Documentation.pdf"
+    out_pdf = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "docs", "SkillRoute_SAS_CU_Hackathon_Executive_Summary.pdf")
     if len(sys.argv) > 1:
         out_pdf = sys.argv[1]
     build_pdf(out_pdf)
